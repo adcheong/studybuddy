@@ -27,10 +27,10 @@ public class ScrapeCoursera {
         writer.print(outputPage.toString());
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         // main function to execute the scraping
         ScrapeCoursera sc = new ScrapeCoursera();
-        String startingUrl = "http://en.wikipedia.org/wiki/Category:Articles";
+        String startingUrl = "https://class.coursera.org/ni-001/class";
         String category = "coursera.txt";
         sc.readURLFromString(startingUrl, category);
     }

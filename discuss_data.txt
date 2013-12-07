@@ -1,0 +1,666 @@
+<html lang="en-US" class="supports-svg"><head>
+<meta charset="utf-8">
+<title>Forums | Networks Illustrated: Principles without Calculus</title>
+<link rel="stylesheet" href="https://dt5zaw6a98blc.cloudfront.net/site-static/eb01c3d9864daa42808c9bfb7088f679330266b5/css/spark.main.css">
+<link rel="stylesheet" href="https://www.coursera.org/maestro/api/course/970961/course.css">
+<link rel="icon" href="https://spark-public.s3.amazonaws.com/ni/static/images/favicon.ico">
+<style type="text/css"></style><style type="text/css"> .coursera-reporter-link { display:inline-block;} </style><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="pages/forum/widgets" src="https://d2wvvaown1ul17.cloudfront.net/site-static/eb01c3d9864daa42808c9bfb7088f679330266b5/pages/forum/widgets.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="204js" data-requiremodule="_204" src="https://eventing.coursera.org/204.min.js"></script></head>
+
+<body>
+    <a href="#course-page-content" class="hidden">Skip Navigation</a>
+    <div class="hidden">
+        This page features MathJax technology to render mathematical formulae.
+        If you are using a screen reader, please visit <a href="http://www.dessci.com/en/products/mathplayer/">MathPlayer</a> to download the plugin for your browser. Please note that this is an Internet Explorer-only plugin at this time.
+    </div>
+
+    <h1 class="hidden">Networks Illustrated: Principles without Calculus</h1>
+
+    <script type="text/javascript" async="" src="https://eventing.coursera.org/204.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>window.onerror = function(message, url, lineNum) {
+
+  // First check the URL and line number of the error
+  url = url || window.location.href;
+  // 99% of the time, errors without line numbers arent due to our code,
+  // they are due to third party plugins and browser extensions
+  if (lineNum === undefined || lineNum == null) return;
+  
+  // Now figure out the actual error message
+  // If it's an event, as triggered in several browsers
+  if (message.target && message.type) {
+    message = message.type;
+  }
+  if (!message.indexOf) {
+    message = 'Non-string, non-event error: ' + (typeof message);
+  }
+  
+  var errorDescrip = {
+    message: message,
+    script: url,
+    line: lineNum,
+    url: document.URL
+  }
+  
+  var err = {
+    key: 'page.error.javascript', 
+    value: errorDescrip
+  }
+  
+  window._204 = window._204 || [];
+  window._204.push(err);
+  
+  window._gaq = window._gaq || [];
+  window._gaq.push(err);
+}</script>
+
+<div class="course-topbar container-fluid" role="banner">
+
+    <div class="row-fluid">
+
+        <div class="span3">
+          <a href="https://www.coursera.org/" class="course-topbar-logo" data-if-linkable="add-referrer"></a>
+        </div>
+
+        <div class="course-topbar-nav-container span9" style="float:right;">
+            <h2 class="hidden">Top Navigation Bar</h2>
+
+            <ul class="course-topbar-nav-list">
+                <li class="course-topbar-nav-list-item">
+                  <a href="https://www.coursera.org/courses" data-if-linkable="add-referrer">Courses</a>
+                </li>
+
+                
+                <li class="course-topbar-nav-list-item" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false" aria-owns="course-topbar-my" data-popup="#course-topbar-my" data-popup-bind-open="mouseenter" data-popup-close="" style="cursor:pointer;" data-popup-direction="se">
+                                        <a data-user-id="1840579">
+                        Andrew Cheong                        <i class="icon-caret-down"></i>
+                    </a>
+                </li>
+
+                            </ul>
+        </div>
+    </div>
+
+    <div id="course-topbar-aboutus" class="course-topbar-sublist">
+        <a class="course-topbar-sublist-item" href="https://www.coursera.org/about/jobs" target="_new" data-if-linkable="add-referrer">Jobs</a>
+        <a class="course-topbar-sublist-item" href="https://www.coursera.org/about/team" target="_new" data-if-linkable="add-referrer">Team</a>
+        <a class="course-topbar-sublist-item" href="https://www.coursera.org/about/contact" target="_new" data-if-linkable="add-referrer">Contact Us</a>
+        <a class="course-topbar-sublist-item" href="https://www.coursera.org/about/" target="_new" data-if-linkable="add-referrer">About Us</a>
+    </div>
+
+    <div id="course-topbar-my" class="course-topbar-sublist">
+        <a class="course-topbar-sublist-item" href="https://www.coursera.org/" target="_new">My Courses</a>
+        <a class="course-topbar-sublist-item" href="https://www.coursera.org/account/profile" target="_new">Profile</a>
+        <a class="course-topbar-sublist-item" href="https://www.coursera.org/account/records" target="_new">Course Records</a>
+        <a class="course-topbar-sublist-item" href="https://www.coursera.org/account/settings" target="_new">Settings</a>
+                <a class="course-topbar-sublist-item" href="https://class.coursera.org/ni-001/class/preferences">Course Preferences</a>
+        <a class="course-topbar-sublist-item" href="https://class.coursera.org/ni-001/auth/logout">Sign Out</a>
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+<div class="course-topbanner-wrapper">
+  <div class="course-topbanner">
+    <div class="course-topbanner-university-logo">
+      <a href="https://www.coursera.org/princeton" class="coursera-university-color" target="_blank" data-if-linkable="add-referrer" title="https://www.coursera.org/princeton">
+        <img src="https://www.coursera.org/maestro/api/course/970961/university_logo" alt="princeton">
+      </a>
+    </div>
+
+    
+    <h1 class="course-topbanner-header">
+      <a class="course-topbanner-name coursera-university-color" href="https://class.coursera.org/ni-001/class/index" data-if-linkable="modal-lock">
+        Networks Illustrated: Principles without Calculus      </a>
+      <br>
+      <span class="course-topbanner-instructor" style="">
+        by Mung Chiang, Christopher Brinton      </span>
+    </h1>
+
+  </div>
+</div>
+
+        <div class="container-fluid" style="position:relative;">
+        <div class="row-fluid">
+            <div id="course-page-sidebar" role="navigation">
+                <div class="course-navbar-container">
+	<a href="https://class.coursera.org/ni-001/class/index" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_index">
+		<img src="https://www.coursera.org//maestro/api/course/970961/logo" style="width: 205px;height: 116px;margin: -15px 0px 8px 1px; box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.05);" alt="Course Home Page">
+	</a>
+
+
+<h2 class="hidden">Side Navigation Bar</h2>
+<ul class="course-navbar-list">
+		
+	<li class="course-navbar-item">
+								</li>
+	
+		
+	<li class="course-navbar-item">
+					<h3>General</h3>
+			</li>
+	
+		
+	<li class="course-navbar-item">
+								<a href="https://class.coursera.org/ni-001/class/index" data-if-linkable="modal-lock,gray,lock-icon" class="coursera-university-color" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_Home">
+				
+				Home							</a>
+						</li>
+	
+		
+	<li class="course-navbar-item">
+								<a href="https://class.coursera.org/ni-001/wiki/view?page=syllabus" data-if-linkable="modal-lock,gray,lock-icon" class="coursera-university-color" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_Syllabus">
+				
+				Syllabus							</a>
+						</li>
+	
+		
+	<li class="course-navbar-item">
+								<a href="https://class.coursera.org/ni-001/wiki/view?page=aboutus" data-if-linkable="modal-lock,gray,lock-icon" class="coursera-university-color" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_About_Us">
+				
+				About Us							</a>
+						</li>
+	
+		
+	<li class="course-navbar-item">
+					<h3>Material</h3>
+			</li>
+	
+		
+	<li class="course-navbar-item">
+								<a href="https://class.coursera.org/ni-001/lecture/index" data-if-linkable="modal-lock,gray,lock-icon" class="coursera-university-color" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_Lecture_Videos">
+				
+				Lecture Videos							</a>
+						</li>
+	
+		
+	<li class="course-navbar-item">
+								<a href="https://class.coursera.org/ni-001/forum/index" data-if-linkable="modal-lock,gray,lock-icon" class="coursera-university-color" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_Discussion_Forums">
+				
+				Discussion Forums							</a>
+						</li>
+	
+		
+	<li class="course-navbar-item">
+					<h3>Assessments</h3>
+			</li>
+	
+		
+	<li class="course-navbar-item">
+								<a href="https://class.coursera.org/ni-001/wiki/view?page=homework" data-if-linkable="modal-lock,gray,lock-icon" class="coursera-university-color" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_Homework">
+				
+				Homework							</a>
+						</li>
+	
+		
+	<li class="course-navbar-item">
+								<a href="https://class.coursera.org/ni-001/wiki/view?page=exams" data-if-linkable="modal-lock,gray,lock-icon" class="coursera-university-color" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_Exams">
+				
+				Exams							</a>
+						</li>
+	
+		
+	<li class="course-navbar-item">
+					<h3>Links</h3>
+			</li>
+	
+		
+	<li class="course-navbar-item">
+								<a href="https://www.facebook.com/mung.chiang.5?fref=ts" target="_blank" data-if-linkable="modal-lock,gray,lock-icon" class="coursera-university-color" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_Facebook">
+				
+				Facebook				<span class="icon-share"></span>			</a>
+						</li>
+	
+		
+	<li class="course-navbar-item">
+								<a href="https://twitter.com/network20q" target="_blank" data-if-linkable="modal-lock,gray,lock-icon" class="coursera-university-color" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_Twitter">
+				
+				Twitter				<span class="icon-share"></span>			</a>
+						</li>
+	
+		
+	<li class="course-navbar-item">
+								<a href="http://scenic.princeton.edu/network20q/" target="_blank" data-if-linkable="modal-lock,gray,lock-icon" class="coursera-university-color" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_Network20Q_Website">
+				
+				Network20Q Website				<span class="icon-share"></span>			</a>
+						</li>
+	
+		
+	<li class="course-navbar-item">
+					<h3>Other</h3>
+			</li>
+	
+		
+	<li class="course-navbar-item">
+								<a href="http://www.amazon.com/dp/B00DIIKDJO" target="_blank" data-if-linkable="modal-lock,gray,lock-icon" class="coursera-university-color" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_Reading">
+				
+				Reading				<span class="icon-share"></span>			</a>
+						</li>
+	
+		
+	<li class="course-navbar-item">
+								<a href="http://www.youtube.com/watch?v=QUwKxXE7sLE" target="_blank" data-if-linkable="modal-lock,gray,lock-icon" class="coursera-university-color" data-ab-user-convert-for="honorcode_to_welcome2" data-ab-user-convert="navclick_Wiki/Blog_Tutorial">
+				
+				Wiki/Blog Tutorial				<span class="icon-share"></span>			</a>
+						</li>
+	
+	
+		<li class="course-navbar-item">
+		<a href="https://share.coursera.org/wiki/index.php/ni:Main" target="_blank" class="coursera-university-color" title="Open course wiki in new window">
+			Course Wiki
+			<span class="icon-share"></span>
+		</a>
+	</li>
+		
+		<li class="course-navbar-item">
+		<a href="http://www.meetup.com/Coursera/" target="_blank" class="coursera-university-color">
+			Join a Meetup
+			<span class="icon-share"></span>
+		</a>
+	</li>
+	
+    </ul>
+
+<ul style="list-style-type:none;margin-left: 10px;">
+  <li><a href="http://help.coursera.org" class="coursera-university-color" target="_blank" title="Open help articles in new window"><i class="icon-question-sign"></i> Help Articles</a></li>
+</ul>
+
+<ul style="list-style-type:none;margin-left: 10px;">
+		<li><a href="https://class.coursera.org/ni-001/forum/list?forum_id=10000" class="coursera-university-color"><i class="icon-comments"></i> Course Materials Errors</a></li>
+	<li><a href="https://class.coursera.org/ni-001/forum/list?forum_id=10001" class="coursera-university-color"><i class="icon-comments"></i> Technical Issues</a></li>
+
+</ul>
+
+</div>
+            </div>
+            <div id="course-page-content" role="main">
+                                
+<a data-coursera-admin-helpwidget-link="" rel="help" href="https://class.coursera.org/mooc/help/forums" title="Forums" style="display:none;">Learn more.</a>
+
+<div data-coursera-forum-widget="" data-embed-mode="page" data-forum-id="3" data-course-id="970961" data-sort="topquestions"><a target="_blank" href="https://class.coursera.org/ni-001/help/forums?url=https%3A%2F%2Fclass.coursera.org%2Fni-001%2Fforum%2Flist%3Fforum_id%3D3" title="Click here if you're experiencing technical problems or found errors in the course materials." class="coursera-reporter-link">Help</a><div class="course-forum-crumbs"><ul class="course-forum-breadcrumb"><li><a href="https://class.coursera.org/ni-001/forum/list">Forums</a></li></ul></div><div class="course-forum-header-wrapper"><div><div class="course-forum-title"><h2>Assignments</h2></div><div class="course-forum-header"><div class="course-forum-controls"><a title="Forum controls" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false" aria-owns="course-forum-controls-popup-3" data-popup="#course-forum-controls-popup-3" data-popup-direction="se" class="course-forum-controls-toggle"><i class="icon-cog"><span class="hidden">Forum controls</span></i></a><div id="course-forum-controls-popup-3" class="course-forum-controls-popup hide"><a href="javascript:void(0)">Mark all as read</a></div></div><div style="margin-right:10px; display:inline-block;"><a href="javascript:void(0);" class="course-forum-subscribe-link">Subscribe for email updates.</a></div></div></div></div><form method="get" action="https://class.coursera.org/ni-001/forum/search" class="form-search pull-right"><label for="course-forum-search-input" class="hidden">Search </label><input id="course-forum-search-input" type="text" name="q" class="input-medium search-query"><span>&nbsp;</span><button type="submit" class="btn">Search</button></form><h2 class="hidden">Assignments<a href="list?forum_id=parent_id"> <i class="icon-arrow-up">Go to parent forum</i></a></h2><p class="course-forum-description"> 
+Specific questions and clarifications about the assignments.
+Please read our <a target="_blank" href="http://help.coursera.org/customer/portal/articles/1220499-forum-code-of-conduct?ref=fromforumlist">forum posting policies</a> before posting or starting a new thread.</p><div class="course-forum-subforums-listing-wrapper"><div class="course-forum-subforums-listing"></div></div><div style="clear:right; margin-top: 10px;" class="course-forum-your-threads-listing-wrapper"><div></div></div><div style="clear:right; margin-top:30px;" class="course-forum-threads-listing-wrapper"><div><div class="course-forum-threads-listing"><table class="table"><caption style="min-height:42px;"><ul class="course-forum-threads-sort nav nav-pills pull-right"><li data-sort-name="topquestions"><a href="javascript:void(0)">Top threads</a></li><li data-sort-name="lastupdated" class="active"><a href="javascript:void(0)">Last updated</a><span class="course-forum-threads-sort-selected-marker">(selected)</span></li><li data-sort-name="firstposted"><a href="javascript:void(0)">Last created</a></li></ul><h4>All Threads</h4><a href="https://class.coursera.org/ni-001/forum/thread_new?forum_id=3" class="btn btn-small course-forum-threads-new-button">Start new thread</a></caption><thead class="hidden"><tr><th> <h5 class="hidden">Thread title and author</h5></th><th><h5 class="hidden">Number of points</h5></th><th><h5 class="hidden">Number of posts</h5></th><th><h5 class="hidden">Number of views</h5></th></tr></thead><tbody><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=204"> <span>"No due date"</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=2702075">Chung Zhi Li, Denzel </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=2702075">Chung Zhi Li, Denzel </a></span> (<time datetime="1379341256" title="Monday, September 16th 2013, 10:20 am -04:00">3 months ago</time>)</div><div></div></td><td class="course-forum-stat course-forum-stat-important"><span>1</span><br> point</td><td class="course-forum-stat course-forum-stat-important"><span>6</span><br> posts</td><td class="course-forum-stat"><span>136</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=173"> <span>Homework 3 Question 4</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=565491">Axel Schwanke </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=2446281">Ajay Jain </a></span> (<time datetime="1378344910" title="Wednesday, September 4th 2013, 9:35 pm -04:00">3 months ago</time>)</div><div></div></td><td class="course-forum-stat course-forum-stat-important"><span>7</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>15</span><br> posts</td><td class="course-forum-stat"><span>243</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=207"> <span>Error in final exam</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=1300744">Tan Kok Hui </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599303">Faraz Rashid </a></span> (<time datetime="1377855165" title="Friday, August 30th 2013, 5:32 am -04:00">3 months ago</time>)</div><div></div></td><td class="course-forum-stat course-forum-stat-important"><span>1</span><br> point</td><td class="course-forum-stat course-forum-stat-important"><span>10</span><br> posts</td><td class="course-forum-stat"><span>195</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=200"> <span>Homework 4 with explantion of correct answers</span></a></div><div style="opacity:.8"><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=1498376">LI PAK KEE </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=1498376">LI PAK KEE </a></span> (<time datetime="1376900947" title="Monday, August 19th 2013, 4:29 am -04:00">4 months ago</time>)</div><div></div></td><td class="course-forum-stat course-forum-stat-important"><span>3</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>1</span><br> post</td><td class="course-forum-stat"><span>76</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=192"> <span>Homework 3, Question 6</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=3756090">Elizabeth OCON </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599445">Christopher Brinton </a><span class="course-forum-profile-badge">Instructor</span></span> (<time datetime="1376375453" title="Tuesday, August 13th 2013, 2:30 am -04:00">4 months ago</time>)</div><div></div></td><td class="course-forum-stat "><span>0</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>3</span><br> posts</td><td class="course-forum-stat"><span>63</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=190"> <span>I joined late, do I have the chance to complete the course</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=4242841">Savina Tsan </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599445">Christopher Brinton </a><span class="course-forum-profile-badge">Instructor</span></span> (<time datetime="1376375415" title="Tuesday, August 13th 2013, 2:30 am -04:00">4 months ago</time>)</div><div></div></td><td class="course-forum-stat "><span>0</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>6</span><br> posts</td><td class="course-forum-stat"><span>107</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><a href="https://class.coursera.org/ni-001/forum/thread?thread_id=183"> <span>Homework 3 questions 6 and 7</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=3817769">Rafael Santisteban </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=1498376">LI PAK KEE </a></span> (<time datetime="1376055434" title="Friday, August 9th 2013, 9:37 am -04:00">4 months ago</time>)</div><div></div></td><td class="course-forum-stat course-forum-stat-important"><span>1</span><br> point</td><td class="course-forum-stat course-forum-stat-important"><span>7</span><br> posts</td><td class="course-forum-stat"><span>125</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=174"> <span>Homework 3 Question 5</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=684655">Sabina Anna Rydzek </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599445">Christopher Brinton </a><span class="course-forum-profile-badge">Instructor</span></span> (<time datetime="1375596327" title="Sunday, August 4th 2013, 2:05 am -04:00">4 months ago</time>)</div><div></div></td><td class="course-forum-stat course-forum-stat-important"><span>5</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>8</span><br> posts</td><td class="course-forum-stat"><span>111</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=144"> <span>Mid Term - question 14</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=2068217">David Auslander </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599445">Christopher Brinton </a><span class="course-forum-profile-badge">Instructor</span></span> (<time datetime="1375072360" title="Monday, July 29th 2013, 12:32 am -04:00">4 months ago</time>)</div><div></div></td><td class="course-forum-stat "><span>0</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>10</span><br> posts</td><td class="course-forum-stat"><span>140</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=115"> <span>HELP! How to access old marks</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=3524714">Max Li </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599303">Faraz Rashid </a></span> (<time datetime="1374800062" title="Thursday, July 25th 2013, 8:54 pm -04:00">5 months ago</time>)</div><div></div></td><td class="course-forum-stat "><span>0</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>10</span><br> posts</td><td class="course-forum-stat"><span>123</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><a href="https://class.coursera.org/ni-001/forum/thread?thread_id=133"> <span>Homework 2, Question 2</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=3756090">Elizabeth OCON </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599445">Christopher Brinton </a><span class="course-forum-profile-badge">Instructor</span></span> (<time datetime="1374788244" title="Thursday, July 25th 2013, 5:37 pm -04:00">5 months ago</time>)</div><div></div></td><td class="course-forum-stat "><span>0</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>8</span><br> posts</td><td class="course-forum-stat"><span>75</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=8"> <span>Homework</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=3229486">Anonymous </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=3916826">Niket Patel </a></span> (<time datetime="1374629794" title="Tuesday, July 23rd 2013, 9:36 pm -04:00">5 months ago</time>)</div><div></div></td><td class="course-forum-stat course-forum-stat-important"><span>3</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>51</span><br> posts</td><td class="course-forum-stat"><span>1998</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=127"> <span>Multiple choice quizzes between lectures</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=634367">Udayashreyas </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599445">Christopher Brinton </a><span class="course-forum-profile-badge">Instructor</span></span> (<time datetime="1374573045" title="Tuesday, July 23rd 2013, 5:50 am -04:00">5 months ago</time>)</div><div></div></td><td class="course-forum-stat course-forum-stat-important"><span>2</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>5</span><br> posts</td><td class="course-forum-stat"><span>44</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><a href="https://class.coursera.org/ni-001/forum/thread?thread_id=120"> <span>homework 1 error?????</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=3846916">Khaled BOUMEKOUEZ </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599445">Christopher Brinton </a><span class="course-forum-profile-badge">Instructor</span></span> (<time datetime="1374572706" title="Tuesday, July 23rd 2013, 5:45 am -04:00">5 months ago</time>)</div><div></div></td><td class="course-forum-stat "><span>0</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>4</span><br> posts</td><td class="course-forum-stat"><span>90</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=85"> <span>Homework 1 Question 2</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=565491">Axel Schwanke </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599445">Christopher Brinton </a><span class="course-forum-profile-badge">Instructor</span></span> (<time datetime="1374473671" title="Monday, July 22nd 2013, 2:14 am -04:00">5 months ago</time>)</div><div></div></td><td class="course-forum-stat "><span>0</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>24</span><br> posts</td><td class="course-forum-stat"><span>484</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=99"> <span>Homework 1, qustion 4</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=2367053">Terry Steven Barker </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=3441662">Priyanka Chandrabalan </a></span> (<time datetime="1374248064" title="Friday, July 19th 2013, 11:34 am -04:00">5 months ago</time>)</div><div></div></td><td class="course-forum-stat "><span>0</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>12</span><br> posts</td><td class="course-forum-stat"><span>266</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><a href="https://class.coursera.org/ni-001/forum/thread?thread_id=113"> <span>Retrieving a submitted assignment for review</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=1796276">Richard Manley </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=1796276">Richard Manley </a></span> (<time datetime="1374243838" title="Friday, July 19th 2013, 10:23 am -04:00">5 months ago</time>)</div><div></div></td><td class="course-forum-stat course-forum-stat-important"><span>2</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>5</span><br> posts</td><td class="course-forum-stat"><span>90</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><a href="https://class.coursera.org/ni-001/forum/thread?thread_id=112"> <span>Why are the calendar deadlines so far away?</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <span>Anonymous</span></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599445">Christopher Brinton </a><span class="course-forum-profile-badge">Instructor</span></span> (<time datetime="1374208690" title="Friday, July 19th 2013, 12:38 am -04:00">5 months ago</time>)</div><div></div></td><td class="course-forum-stat "><span>0</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>4</span><br> posts</td><td class="course-forum-stat"><span>79</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=105"> <span>Homework 1, Q5</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=2434675">Anonymous </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599445">Christopher Brinton </a><span class="course-forum-profile-badge">Instructor</span></span> (<time datetime="1374045474" title="Wednesday, July 17th 2013, 3:17 am -04:00">5 months ago</time>)</div><div></div></td><td class="course-forum-stat course-forum-stat-important"><span>2</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>5</span><br> posts</td><td class="course-forum-stat"><span>80</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=104"> <span>It's Crazy to Say, But I Liked Doing this Homework!</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=3756090">Elizabeth OCON </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599445">Christopher Brinton </a><span class="course-forum-profile-badge">Instructor</span></span> (<time datetime="1373994328" title="Tuesday, July 16th 2013, 1:05 pm -04:00">5 months ago</time>)</div><div></div></td><td class="course-forum-stat course-forum-stat-important"><span>2</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>2</span><br> posts</td><td class="course-forum-stat"><span>51</span><br> views</td></tr><tr style="" class="course-forum-threads-listing-row "><td><div style="font-size:16px;" class=""><span title="Unresolved" class="icon-question-sign"></span><span class="hidden">Unresolved</span>&nbsp;<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=101"> <span>Homework - due date  1 Oct 2013 ?</span></a></div><div style="opacity:.8"><span class="course-forum-profile-badge">Staff Replied</span><span> · </span><span>Started by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=3036064">Reinhard Langner </a></span><span> · </span><span>Last post by <a href="https://class.coursera.org/ni-001/forum/profile?user_id=599445">Christopher Brinton </a><span class="course-forum-profile-badge">Instructor</span></span> (<time datetime="1373993718" title="Tuesday, July 16th 2013, 12:55 pm -04:00">5 months ago</time>)</div><div></div></td><td class="course-forum-stat "><span>0</span><br> points</td><td class="course-forum-stat course-forum-stat-important"><span>3</span><br> posts</td><td class="course-forum-stat"><span>97</span><br> views</td></tr></tbody></table></div></div></div><div style="margin-top: 10px;" class="course-forum-reputations-link"><a href="https://class.coursera.org/ni-001/forum/reputation"> <i class="icon-star"></i> See top forum posters</a></div></div>
+
+            </div>
+        </div>
+    </div>
+        
+    
+    <script src="https://dt5zaw6a98blc.cloudfront.net/site-static/eb01c3d9864daa42808c9bfb7088f679330266b5/spark/spark.js"></script>
+
+<script>window.onerror = function(message, url, lineNum) {
+
+  // First check the URL and line number of the error
+  url = url || window.location.href;
+  // 99% of the time, errors without line numbers arent due to our code,
+  // they are due to third party plugins and browser extensions
+  if (lineNum === undefined || lineNum == null) return;
+  
+  // Now figure out the actual error message
+  // If it's an event, as triggered in several browsers
+  if (message.target && message.type) {
+    message = message.type;
+  }
+  if (!message.indexOf) {
+    message = 'Non-string, non-event error: ' + (typeof message);
+  }
+  
+  var errorDescrip = {
+    message: message,
+    script: url,
+    line: lineNum,
+    url: document.URL
+  }
+  
+  var err = {
+    key: 'page.error.javascript', 
+    value: errorDescrip
+  }
+  
+  window._204 = window._204 || [];
+  window._204.push(err);
+  
+  window._gaq = window._gaq || [];
+  window._gaq.push(err);
+}</script>
+<script type="text/javascript">
+    // SET UP THE MULTITRACKER
+        window.logger = window.Log({level:"error"});
+        var parts = location.host.split(".");
+    while(parts.length > 2) { parts.shift(); }
+
+    window.multitracker = window.MultiTracker({logger:window.logger});
+    window.multitracker.register('204', window._204 = window._204 || []);
+    window.multitracker.register('ga', window._gaq = window._gaq || [], 'google');
+
+    // SET UP GA and 204
+    window._gaq.push(['_setAccount', 'UA-28377374-1']);
+    window._gaq.push(['_setDomainName', 'coursera.org']);
+    window._gaq.push(['_setAllowLinker', true]);  
+    window._gaq.push(['_trackPageview']);
+    
+    // configure 204 with the following settings
+    window._204.push(["client", "spark"]);
+    window._204.push(["user", 1840579]);
+    window._204.push(["domain", "." + parts.join(".")]);
+
+    // set off the first event
+    window._204.push({key:"pageview", val:{}});
+
+    // override our multitracker queues with the ga queue when it is ready
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    
+      ga.onload = ga.onreadystatechange = function() {
+          ga.onreadystatechange = ga.onload = null;
+          window.multitracker.get('ga').queue = window._gaq;
+      };
+    })();
+
+    // override our multitracker queues with the 204 queue when it is ready
+    (function() {
+      var a = document.createElement('script'); a.type = 'text/javascript'; a.async = true;
+      a.src = 'https://eventing.coursera.org/204.min.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(a, s);
+      a.onload = a.onreadystatechange = function() {
+          a.onreadystatechange = a.onload = null;
+          window.multitracker.get('204').queue = window._204;
+      };
+    })();
+</script>
+
+<script>
+  // Set up shared AB testing object
+  (function() {
+    window.ab = {};
+
+    // we want to share the 204 session cookie with the AB session cookie...
+    var sessionId = AB.makeSession("__204u", {expires:365, domain:"." + location.host});
+
+    window.ab.user = window.AB(1840579, "user", {debug:true, tracker:window.multitracker, logger:window.logger});
+    window.ab.session = window.AB(sessionId, "session", {debug:true, tracker:window.multitracker, logger:window.logger});
+
+    if(window.CourseraABExperiments.user) {
+        window.ab.user.addExperiments(window.CourseraABExperiments.user);
+        window.ab.user.runExperimentsOn("body");
+    }
+
+    if(window.CourseraABExperiments.session) {
+        window.ab.session.addExperiments(window.CourseraABExperiments.session);
+        window.ab.session.runExperimentsOn("body");
+    }
+  })();
+</script>
+
+
+    <script>
+      // Set up help widget
+      (function() {
+        $("[data-helpwidget]").each(function() {
+            window.HelpWidget(this, {tracker: window.multitracker});
+        });
+       })();
+
+        $("[data-readme]").each(function() {
+            window.ReadMe(this);
+        });
+    </script>
+
+    <script src="https://dt5zaw6a98blc.cloudfront.net/site-static/eb01c3d9864daa42808c9bfb7088f679330266b5/spark/core/js/modal_focus.js" type="text/javascript"></script>
+    <script src="https://dt5zaw6a98blc.cloudfront.net/site-static/eb01c3d9864daa42808c9bfb7088f679330266b5/spark/core/js/get_query_parameters.js" type="text/javascript"></script>
+    <script src="https://dt5zaw6a98blc.cloudfront.net/site-static/eb01c3d9864daa42808c9bfb7088f679330266b5/spark/app/signature/js/signature_track.js" type="text/javascript"></script>
+    <script src="https://dt5zaw6a98blc.cloudfront.net/site-static/eb01c3d9864daa42808c9bfb7088f679330266b5/spark/app/signature/js/signatureTrackLastChanceModal.html.js" type="text/javascript"></script>
+    <script src="https://dt5zaw6a98blc.cloudfront.net/site-static/eb01c3d9864daa42808c9bfb7088f679330266b5/spark/app/signature/js/signatureTrackLastChanceModal2.html.js" type="text/javascript"></script>
+    <script src="https://dt5zaw6a98blc.cloudfront.net/site-static/eb01c3d9864daa42808c9bfb7088f679330266b5/spark/app/generic/js/item_list.js" type="text/javascript"></script>
+    <script src="https://dt5zaw6a98blc.cloudfront.net/site-static/eb01c3d9864daa42808c9bfb7088f679330266b5/spark/app/generic/js/navbar.js" type="text/javascript"></script>
+
+    
+    <script>
+     // Set up help widget
+      (function() {
+        $("[data-helpwidget]").each(function() {
+            window.HelpWidget(this, {tracker: window.multitracker});
+        });
+       })();
+    </script>
+
+        <script>
+    (function() {
+        $("<style type='text/css'> .coursera-reporter-link { display:inline-block;} </style>").appendTo("head");
+    })();
+    </script>
+    
+    <script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  config: ["MMLorHTML.js"],
+  
+  styleSheets: [],
+  styles: {},
+
+  jax: ["input/TeX"],
+  
+  extensions: ["tex2jax.js"],
+
+  preJax: null,
+  postJax: null,
+
+  preRemoveClass: "MathJax_Preview",
+
+  showProcessingMessages: true,
+
+  messageStyle: "none",
+  
+  displayAlign: "center",
+  displayIndent: "0em",
+  
+  delayStartupUntil: "none",
+
+  skipStartupTypeset: false,
+  
+  elements: [],
+  
+  tex2jax: {
+	    inlineMath: [
+	                 ['$$','$$'],      // uncomment this for standard TeX math delimiters
+	                 ['\\(','\\)']
+	                 ],
+
+	                 displayMath: [
+	                 ['\\[','\\]']
+	                 ],
+
+    skipTags: ["script","noscript","style","textarea","pre","code"],
+    ignoreClass: "tex2jax_ignore",
+    processClass: "tex2jax_process",
+    processEscapes: false,
+    processEnvironments: true,
+    preview: "TeX"
+    
+  },
+  
+  mml2jax: {
+    preview: "alttext"
+    
+  },
+  
+  jsMath2jax: {
+    preview: "TeX"
+    
+  },
+
+  TeX: {
+    TagSide: "right",
+    TagIndent: ".8em",
+    MultLineWidth: "85%",
+    Macros: {},
+
+    extensions: ["AMSmath.js", "AMSsymbols.js"]
+    
+  },
+
+  //============================================================================
+  //
+  //  These parameters control the MathML inupt jax.
+  //
+  MathML: {
+    //
+    //  This specifies whether to use TeX spacing or MathML spacing when the
+    //  HTML-CSS output jax is used.
+    //
+    useMathMLspacing: false
+  },
+  
+  //============================================================================
+  //
+  //  These parameters control the HTML-CSS output jax.
+  //
+  "HTML-CSS": {
+    
+    scale: 100,
+    
+    availableFonts: ["STIX","TeX"],
+    
+    preferredFont: "TeX",
+    
+    webFont: "TeX",
+    
+    imageFont: "TeX",
+    
+    undefinedFamily: "STIXGeneral,'Arial Unicode MS',serif",
+      
+    showMathMenu: true,
+
+    styles: {},
+    
+    tooltip: {
+      delayPost: 600,          // milliseconds delay before tooltip is posted after mouseover
+      delayClear: 600,         // milliseconds delay before tooltip is cleared after mouseout
+      offsetX: 10, offsetY: 5  // pixels to offset tooltip from mouse position
+    }
+  },
+  
+  //============================================================================
+  //
+  //  These parameters control the NativeMML output jax.
+  //
+  NativeMML: {
+
+    scale: 100,
+
+    showMathMenu: true,
+    showMathMenuMSIE: true,
+
+    styles: {}
+  },
+  
+  MathMenu: {
+    delay: 400,
+    
+    helpURL: "http://www.mathjax.org/help/user/",
+
+    showRenderer: true,
+    showFontMenu: false,
+    showContext:  false,
+
+    windowSettings: {
+      status: "no", toolbar: "no", locationbar: "no", menubar: "no",
+      directories: "no", personalbar: "no", resizable: "yes", scrollbars: "yes",
+      width: 100, height: 50
+    },
+    
+    styles: {}
+    
+  },
+
+  MMLorHTML: {
+    prefer: {
+      MSIE:    "MML",
+      Firefox: "MML",
+      Opera:   "HTML",
+      other:   "HTML"
+    }
+  }
+});
+</script>
+<script type="text/javascript">
+(function () {
+
+  function loadMathJax() {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://duqnjvq4jwr55.cloudfront.net/2.1/MathJax.js";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  }
+
+  window.loadOrRefreshMathJax = function(domId) {
+    if (window.MathJax) {
+      if (domId) {
+        MathJax.Hub.Queue(["Typeset", MathJax.Hub, domId]);
+      } else {
+        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+      }
+    } else {
+      loadMathJax();
+    }
+  }
+})();
+</script>
+    <script type="text/javascript">
+        var site_base_url = "https:\/\/www.coursera.org\/";
+        var site_static_asset_url = "https:\/\/dt5zaw6a98blc.cloudfront.net\/site-static\/";
+        var spark_class_short_name = "ni";
+        var spark_class_id = 970961;
+        var spark_class_url = "\/ni-001";
+        var spark_signature_url = "https:\/\/class.coursera.org\/ni-001\/signature\/";
+
+        var course_strings_name = "Networks Illustrated: Principles without Calculus";
+        var student_full_name = "Andrew Cheong";
+    </script>
+
+    
+<script type="text/javascript" src="https://d2wvvaown1ul17.cloudfront.net/site-static/eb01c3d9864daa42808c9bfb7088f679330266b5/js/core/require.js"></script><script type="text/javascript" data-baseurl="https://d2wvvaown1ul17.cloudfront.net/site-static/eb01c3d9864daa42808c9bfb7088f679330266b5/" data-version="eb01c3d9864daa42808c9bfb7088f679330266b5" data-timestamp="1386366042032" data-debug="0" id="_require">(function(el) {
+  //prevent throw
+  require.onError = function() { };
+  
+  require.config({
+    enforceDefine: true,
+    waitSeconds: 14,
+    baseUrl: el.getAttribute("data-baseurl"),
+    urlArgs: el.getAttribute("data-debug") == "1" ? "v=" + el.getAttribute("data-timestamp") : "",
+    shim: {
+       "underscore": {
+          exports: "_"
+       },
+       
+       "backbone": {
+          deps: ["underscore", "jquery"],
+          exports: "Backbone",
+          init: function(_, $) {
+            _.noConflict();
+            $.noConflict();
+            return Backbone.noConflict();
+          }
+       }
+    },
+    paths: {
+       "jquery":       "js/core/jquery",
+       "underscore":   "js/core/underscore",
+       "backbone":     "js/core/backbone",
+       "i18n":         "js/core/i18n._t"
+    },
+    callback: function() {
+      require(["pages/forum/widgets"]);
+    }
+  });
+})(document.getElementById("_require"));</script>
+
+
+
+
+<div class="hide confirm-navigation modal"><div class="modal-header"><h3>Confirm Navigation</h3></div><div class="modal-body"><div class="confirm-navigation-message"></div><div>Are you sure you want to leave this page?</div></div><div class="modal-footer"><button data-modal-close="data-modal-close" class="btn confirm-navigation-stay">Stay on this Page</button><button data-modal-close="data-modal-close" class="btn btn-danger confirm-navigation-leave">Leave this Page</button></div></div><div class="coursera-async-message"></div><div class="coursera-async-message" style="display: none;"></div></body></html>
