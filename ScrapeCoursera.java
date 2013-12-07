@@ -29,24 +29,49 @@ public class ScrapeCoursera {
         extractquestions(page, 0, question);
     }
 
+    public void readFileContent(String filename, String question) throws IOException 
+    {
+        BufferedReader in = new BufferedReader(new FileReader(filename));
+        writer = new PrintWriter(question);
+
+        StringBuilder outputPage = new StringBuilder();
+        String inputLine;
+        
+        //while ((inputLine = in.readLine()) != null) {
+        while (in.ready())
+        {
+            inputLine = in.readLine();
+            outputPage.append(inputLine);
+        }
+        in.close();
+
+        writer.print(outputPage.toString());
+        String page = outputPage.toString();
+        extractquestions(page, 0, question);
+    }
+
     private void extractquestions(String page, int index, String question)
     {
         String start = "https://class.coursera.org/ni-001/forum/thread?thread_id";
-        String end = "&nbsp";
+        String end = "nbsp";
+        String special = "</i> See top forum posters</a></div></div>";
 
         int startIndex = page.indexOf(start);
+        page = page.substring(startIndex);
+
+        startIndex = 0;
         int endIndex = page.indexOf(end);
 
-        while (startIndex != -1 && endIndex != -1)
+        while (startIndex >= 0 && endIndex >= 0)
         {
             String questionElement = page.substring(startIndex, endIndex);
 
             page = page.substring(endIndex + end.length());
-            System.out.println(page);
-            System.out.println("===================================================");
 
             startIndex = page.indexOf(start);
             endIndex = page.indexOf(end);
+            if (endIndex < 0)
+                endIndex = page.indexOf(special);
         }
         
     }
@@ -55,8 +80,9 @@ public class ScrapeCoursera {
         // main function to execute the scraping
         ScrapeCoursera sc = new ScrapeCoursera();
         String startingUrl = "discuss_data.txt";
+        String htmlData = "discuss_data.txt";
         String category = "coursera.txt";
         String question = "question.txt";
-        sc.readURLFromString(startingUrl, category, question);
+        sc.readFileContent(htmlData, question);
     }
 }
