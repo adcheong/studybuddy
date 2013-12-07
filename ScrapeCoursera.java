@@ -9,7 +9,7 @@ public class ScrapeCoursera {
 
 	private PrintWriter writer; // this is the writer that writes to the file
 
-    public void readURLFromString(String url, String filename) throws IOException {
+    public void readURLFromString(String url, String filename, String question) throws IOException {
 
     	writer = new PrintWriter(filename);
 
@@ -25,13 +25,38 @@ public class ScrapeCoursera {
         in.close();
 
         writer.print(outputPage.toString());
+        String page = outputPage.toString();
+        extractquestions(page, 0, question);
+    }
+
+    private void extractquestions(String page, int index, String question)
+    {
+        String start = "https://class.coursera.org/ni-001/forum/thread?thread_id";
+        String end = "&nbsp";
+
+        int startIndex = page.indexOf(start);
+        int endIndex = page.indexOf(end);
+
+        while (startIndex != -1 && endIndex != -1)
+        {
+            String questionElement = page.substring(startIndex, endIndex);
+
+            page = page.substring(endIndex + end.length());
+            System.out.println(page);
+            System.out.println("===================================================");
+
+            startIndex = page.indexOf(start);
+            endIndex = page.indexOf(end);
+        }
+        
     }
 
     public static void main(String[] args) throws IOException {
         // main function to execute the scraping
         ScrapeCoursera sc = new ScrapeCoursera();
-        String startingUrl = "https://class.coursera.org/ni-001/class";
+        String startingUrl = "discuss_data.txt";
         String category = "coursera.txt";
-        sc.readURLFromString(startingUrl, category);
+        String question = "question.txt";
+        sc.readURLFromString(startingUrl, category, question);
     }
 }
