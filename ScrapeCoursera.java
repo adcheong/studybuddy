@@ -7,6 +7,16 @@ import java.net.*;
 
 public class ScrapeCoursera {
 
+    private class QuestionThread
+    {
+        String title;
+        String asker;
+        String lastResponder;
+        String time;
+        int numViews;
+        int numPosts;
+    }
+
 	private PrintWriter writer; // this is the writer that writes to the file
 
     public void readURLFromString(String url, String filename, String question) throws IOException {
@@ -37,7 +47,6 @@ public class ScrapeCoursera {
         StringBuilder outputPage = new StringBuilder();
         String inputLine;
         
-        //while ((inputLine = in.readLine()) != null) {
         while (in.ready())
         {
             inputLine = in.readLine();
@@ -48,6 +57,70 @@ public class ScrapeCoursera {
         writer.print(outputPage.toString());
         String page = outputPage.toString();
         extractquestions(page, 0, question);
+    }
+
+    private void extractQuestionThread(String q)
+    {
+        String span = "<span>";
+        String endSpan = "</span>";
+        String ahref = "<a href";
+        String endA = "</a>";
+        String lpby = "Last post by";
+        String title = "title=";
+        String important = "important\"><span>";
+        String totalNum = "forum-stat\"><span>";
+        String startBy = "Started by <span>";
+        QuestionThread qt = new QuestionThread();
+        StringTokenizer st;
+
+        // Extracting thread title
+        int startIndex = q.indexOf(span);
+        int endIndex = q.indexOf(endSpan);
+        q = q.substring(endIndex + endSpan.length());
+
+        qt.title = q.substring(startIndex + span.length(), endIndex);
+
+        // Extracting the thread author
+        startIndex = q.indexOf(ahref);
+        q = q.substring(startIndex);
+        startIndex = 0;
+        endIndex = q.indexOf(endA);
+        st = new StringTokenizer(q.substring(0, endIndex), ">");
+        st.nextToken();
+        qt.asker = st.nextToken();
+
+        // Extract last responder
+        startIndex = q.indexOf(lpby);
+        q = q.substring(startIndex);
+        startIndex = 0;
+        endIndex = q.indexOf(endA);
+        st = new StringTokenizer(q.substring(0, endIndex), ">");
+        st.nextToken();
+        qt.lastResponder = st.nextToken();
+
+        // Extract time
+        startIndex = q.indexOf(title);
+        q = q.substring(startIndex + title.length() + 1);
+        startIndex = 0;
+        endIndex = q.indexOf("\">");
+        qt.time = q.substring(startIndex, endIndex);
+
+        // Extract number of posts
+        startIndex = q.indexOf(important);
+        q = q.substring(startIndex + important.length());
+        startIndex = 0;
+        endIndex = q.indexOf("</");
+        qt.numPosts = Integer.parseInt(q.substring(startIndex, endIndex));
+        //System.out.println(qt.numPosts);
+
+        // Extract number of views
+        startIndex = q.indexOf(totalNum);
+        q = q.substring(startIndex + totalNum.length());
+        startIndex = 0;
+        endIndex = q.indexOf("</");
+        qt.numViews = Integer.parseInt(q.substring(startIndex, endIndex));
+        //System.out.println(qt.numViews);
+
     }
 
     private void extractquestions(String page, int index, String question)
@@ -66,10 +139,21 @@ public class ScrapeCoursera {
         {
             String questionElement = page.substring(startIndex, endIndex);
 
-            page = page.substring(endIndex + end.length());
+            System.out.println(questionElement);
+            System.out.println("==================================================");
+            extractQuestionThread(questionElement);
+
+
+            page = page.substring(endIndex);
 
             startIndex = page.indexOf(start);
+            page = page.substring(startIndex + start.length());             
+            startIndex = 0;
+
             endIndex = page.indexOf(end);
+            int possible = page.indexOf(start);
+            if(possible < endIndex && possible >= 0) endIndex = possible;
+
             if (endIndex < 0)
                 endIndex = page.indexOf(special);
         }
