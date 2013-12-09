@@ -179,7 +179,7 @@ public class ScrapeCoursera {
     public static void main(String[] args) throws IOException {
         // main function to execute the scraping
         ScrapeCoursera sc = new ScrapeCoursera();
-        String htmlData = "discuss_data.txt";
+        String htmlData = "discuss_data2.txt";
         String category = "coursera.txt";
         String question = "question.txt";
         sc.readFileContent(htmlData, question);
