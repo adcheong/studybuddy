@@ -76,9 +76,10 @@ public class ScrapeCoursera {
         // Extracting thread title
         int startIndex = q.indexOf(span);
         int endIndex = q.indexOf(endSpan);
+        qt.title = q.substring(startIndex + span.length(), endIndex);
+
         q = q.substring(endIndex + endSpan.length());
 
-        qt.title = q.substring(startIndex + span.length(), endIndex);
         System.out.println("Question Title: " + qt.title);
 
         char[] array = q.toCharArray();
