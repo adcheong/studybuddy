@@ -81,15 +81,20 @@ public class ScrapeCoursera {
 
         qt.title = q.substring(startIndex + span.length(), endIndex);
 
+        char[] array = q.toCharArray();
         // Extracting the thread author
-        startIndex = q.indexOf(ahref);
-        q = q.substring(startIndex);
-        startIndex = 0;
-        endIndex = q.indexOf(endA);
-        st = new StringTokenizer(q.substring(0, endIndex), ">");
-        st.nextToken();
-        qt.asker = st.nextToken();
-
+        if (array[q.indexOf("Started") + 17] == 'A')
+        	qt.asker = "Anonymous";
+        else
+        {
+	        startIndex = q.indexOf(ahref);
+	        q = q.substring(startIndex);
+	        startIndex = 0;
+	        endIndex = q.indexOf(endA);
+	        st = new StringTokenizer(q.substring(0, endIndex), ">");
+	        st.nextToken();
+	        qt.asker = st.nextToken();
+		}
         // Extract last responder
         startIndex = q.indexOf(lpby);
         q = q.substring(startIndex);
