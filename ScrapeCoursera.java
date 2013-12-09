@@ -19,25 +19,25 @@ public class ScrapeCoursera {
 
 	private PrintWriter writer; // this is the writer that writes to the file
 
-    public void readURLFromString(String url, String filename, String question) throws IOException {
+    // public void readURLFromString(String url, String filename, String question) throws IOException {
 
-    	writer = new PrintWriter(filename);
+    // 	writer = new PrintWriter(filename);
 
-        URL uri = new URL(url);
-        BufferedReader in = new BufferedReader(new InputStreamReader(uri.openStream()));
+    //     URL uri = new URL(url);
+    //     BufferedReader in = new BufferedReader(new InputStreamReader(uri.openStream()));
 
-        StringBuilder outputPage = new StringBuilder();
-        String inputLine;
+    //     StringBuilder outputPage = new StringBuilder();
+    //     String inputLine;
         
-        while ((inputLine = in.readLine()) != null) {
-            outputPage.append(inputLine);
-        }
-        in.close();
+    //     while ((inputLine = in.readLine()) != null) {
+    //         outputPage.append(inputLine);
+    //     }
+    //     in.close();
 
-        writer.print(outputPage.toString());
-        String page = outputPage.toString();
-        extractquestions(page, 0, question);
-    }
+    //     writer.print(outputPage.toString());
+    //     String page = outputPage.toString();
+    //     extractquestions(page, 0, question);
+    // }
 
     public void readFileContent(String filename, String question) throws IOException 
     {
@@ -79,6 +79,7 @@ public class ScrapeCoursera {
         q = q.substring(endIndex + endSpan.length());
 
         qt.title = q.substring(startIndex + span.length(), endIndex);
+        System.out.println("Question Title: " + qt.title);
 
         char[] array = q.toCharArray();
         // Extracting the thread author
@@ -94,6 +95,10 @@ public class ScrapeCoursera {
 	        st.nextToken();
 	        qt.asker = st.nextToken();
 		}
+
+        System.out.println("Author: " + qt.asker);
+
+
         // Extract last responder
         startIndex = q.indexOf(lpby);
         q = q.substring(startIndex);
@@ -103,12 +108,17 @@ public class ScrapeCoursera {
         st.nextToken();
         qt.lastResponder = st.nextToken();
 
+        System.out.println("Last Responded By: " + qt.lastResponder);
+
+
         // Extract time
         startIndex = q.indexOf(title);
         q = q.substring(startIndex + title.length() + 1);
         startIndex = 0;
         endIndex = q.indexOf("\">");
         qt.time = q.substring(startIndex, endIndex);
+        System.out.println("Time: " + qt.time);
+
 
         // Extract number of posts
         startIndex = q.indexOf(important);
@@ -116,7 +126,7 @@ public class ScrapeCoursera {
         startIndex = 0;
         endIndex = q.indexOf("</");
         qt.numPosts = Integer.parseInt(q.substring(startIndex, endIndex));
-        //System.out.println(qt.numPosts);
+        System.out.println("Number of posts: " + qt.numPosts);
 
         // Extract number of views
         startIndex = q.indexOf(totalNum);
@@ -124,7 +134,7 @@ public class ScrapeCoursera {
         startIndex = 0;
         endIndex = q.indexOf("</");
         qt.numViews = Integer.parseInt(q.substring(startIndex, endIndex));
-        //System.out.println(qt.numViews);
+        System.out.println("Number of views: " + qt.numViews);
 
     }
 
@@ -144,7 +154,7 @@ public class ScrapeCoursera {
         {
             String questionElement = page.substring(startIndex, endIndex);
 
-            System.out.println(questionElement);
+            //System.out.println(questionElement);
             System.out.println("==================================================");
             extractQuestionThread(questionElement);
 
@@ -168,7 +178,6 @@ public class ScrapeCoursera {
     public static void main(String[] args) throws IOException {
         // main function to execute the scraping
         ScrapeCoursera sc = new ScrapeCoursera();
-        String startingUrl = "discuss_data.txt";
         String htmlData = "discuss_data.txt";
         String category = "coursera.txt";
         String question = "question.txt";
