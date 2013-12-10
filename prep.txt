@@ -1,0 +1,57 @@
+After extracting the data from the discussion forums, we can make initial pairings 
+
+What is the problem you are solving?
+
+Currently, the completion rate of courses on Coursera is poor due to students not feeling motivated enough to follow through 8-12 week courses. There is a need for an external influence to further motivate the students into completing the courses.
+
+Solution:
+Given the information provided by students in discussion forums as well as performance statistics from assignments and quizzes of Coursera courses, we plan to recommend study buddies (student - teacher pairing) for students enrolled in the course.
+
+Elaborating study buddies:
+	teacher student pairing - possible
+	
+	peer to peer pairing - difficult - because due to the format of dicussion forums most engagement is rather one sided and assignment specific. Of course, there are discussion based threads but due to a lack of corresponding metrics for concept discussion.
+
+	One observation in the study group section in coursera courses are mainly divided by modes of communication and geographical location. 
+
+What we've done and what we have?
+
+	Crawler - With minor changes, can extract information from any assignments discussion forum for any course in coursera. We extract question title, author, last responder, number views and posts and timestamp. 
+
+	We were provided from our graduate student advisor with the quiz performance of the students organized by each question in a particular topic. 
+
+What will we do?
+
+
+
+Connection with the course:
+	
+	Using sentiment analysis - we can see if different student's responses are positive or negative towards different posts/comments - this is equivalent to likes/dislikes to movies in the neighborhood prediction model in the Netflix Prize. 
+
+	latent-factor model - From netflix, there are categories of movies, which is less than number of viewers and number of movies. In the MOOC case, we have categories of lectures which is less than number of topics and number of students. 
+
+	MAYBE: amazon ranking - rank the students by topic, and pair the students "somehow"
+
+
+	A profile is a vector for each student where each number in the vector corresponds to a topic-wise proficiency weighting. For example {User 1: topic A: 9, topic B: 3, topic C: 6}. Topic A is user 1's strongest subject, and topic B is his/her weakest.
+
+
+
+
+
+
+
+
+
+How to determine students/teacher pairings
+	Look at upvotes in the comments - determine masters of topics
+		Lots of upvotes for an answer could lead to potential teachers
+		Questions leads to timestamp/topic which allows us to determine a student
+
+	Sentiment analysis  - Positive/negative/neutral for the posts/comments/questions
+
+	Quiz scores - by Brinton - each quiz corresponds to a question - one topic
+		People who do poorly on quizzes - potential student
+
+	Using NLP - determine anyone who has questions which relates to the posts
+		These people are potentially students
