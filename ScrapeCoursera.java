@@ -141,11 +141,24 @@ public class ScrapeCoursera {
 
     private void extractquestions(String page, int index, String question)
     {
-        String start = "https://class.coursera.org/ni-001/forum/thread?thread_id";
+        String url = "https://class.coursera.org/ni-001/forum/thread?thread_id";
+        String url2 = "https://class.coursera.org/friendsmoneybytes-002/forum/thread?thread_id";
         String end = "nbsp";
         String special = "</i> See top forum posters</a></div></div>";
+        String start;
 
-        int startIndex = page.indexOf(start);
+        int startIndex = page.indexOf(url);
+
+        if (startIndex == -1)
+        {	
+        	startIndex = page.indexOf(url2);
+        	start = url2;
+        }
+        else
+        {
+        	start = url;
+        }
+
         page = page.substring(startIndex);
 
         startIndex = 0;
