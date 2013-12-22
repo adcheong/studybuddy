@@ -17,7 +17,18 @@ public class ScrapeCoursera {
         int numPosts;
     }
 
-	private PrintWriter writer; // this is the writer that writes to the file
+    private PrintWriter writer; // this is the writer that writes to the file
+    private String course_id;   // the course id of a given coursera course
+
+    // Constructor given a url
+    public ScrapeCoursera(String url) throws IOException
+    {
+        course_id = extractCourseIDFromURL(url);
+        String htmlData = "ni.html";
+        String question = "question.txt";
+        readFileContent(htmlData, question);
+   
+    }
 
     // Given the URL of a class page, this will return the course_id name
     // Example URL: https://class.Coursera.org/ni-001/class
@@ -55,7 +66,7 @@ public class ScrapeCoursera {
 
         writer.print(outputPage.toString());
         String page = outputPage.toString();
-        extractquestions(page, 0, question);
+        extractQuestions(page, 0, question);
     }
 
     private void extractQuestionThread(String q)
@@ -84,17 +95,17 @@ public class ScrapeCoursera {
         char[] array = q.toCharArray();
         // Extracting the thread author
         if (array[q.indexOf("Started") + 17] == 'A')
-        	qt.asker = "Anonymous";
+            qt.asker = "Anonymous";
         else
         {
-	        startIndex = q.indexOf(ahref);
-	        q = q.substring(startIndex);
-	        startIndex = 0;
-	        endIndex = q.indexOf(endA);
-	        st = new StringTokenizer(q.substring(0, endIndex), ">");
-	        st.nextToken();
-	        qt.asker = st.nextToken();
-		}
+            startIndex = q.indexOf(ahref);
+            q = q.substring(startIndex);
+            startIndex = 0;
+            endIndex = q.indexOf(endA);
+            st = new StringTokenizer(q.substring(0, endIndex), ">");
+            st.nextToken();
+            qt.asker = st.nextToken();
+        }
 
         System.out.println("Author: " + qt.asker);
 
@@ -138,25 +149,13 @@ public class ScrapeCoursera {
 
     }
 
-    private void extractquestions(String page, int index, String question)
+    private void extractQuestions(String page, int index, String question)
     {
-        String url = "https://class.coursera.org/ni-001/forum/thread?thread_id";
-        String url2 = "https://class.coursera.org/friendsmoneybytes-002/forum/thread?thread_id";
+        String url = "https://class.coursera.org/" + course_id + "/forum/thread?thread_id";
         String end = "nbsp";
         String special = "</i> See top forum posters</a></div></div>";
-        String start;
 
         int startIndex = page.indexOf(url);
-
-        if (startIndex == -1)
-        {	
-        	startIndex = page.indexOf(url2);
-        	start = url2;
-        }
-        else
-        {
-        	start = url;
-        }
 
         page = page.substring(startIndex);
 
@@ -174,12 +173,12 @@ public class ScrapeCoursera {
 
             page = page.substring(endIndex);
 
-            startIndex = page.indexOf(start);
-            page = page.substring(startIndex + start.length());             
+            startIndex = page.indexOf(url);
+            page = page.substring(startIndex + url.length());             
             startIndex = 0;
 
             endIndex = page.indexOf(end);
-            int possible = page.indexOf(start);
+            int possible = page.indexOf(url);
             if(possible < endIndex && possible >= 0) endIndex = possible;
 
             if (endIndex < 0)
@@ -190,10 +189,6 @@ public class ScrapeCoursera {
 
     public static void main(String[] args) throws IOException {
         // main function to execute the scraping
-        ScrapeCoursera sc = new ScrapeCoursera();
-        String htmlData = "discuss_data2.txt";
-        String category = "coursera.txt";
-        String question = "question.txt";
-        sc.readFileContent(htmlData, question);
+        ScrapeCoursera sc = new ScrapeCoursera("https://class.coursera.org/ni-001/class");
     }
 }
