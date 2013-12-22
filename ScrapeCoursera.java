@@ -19,25 +19,24 @@ public class ScrapeCoursera {
 
 	private PrintWriter writer; // this is the writer that writes to the file
 
-    // public void readURLFromString(String url, String filename, String question) throws IOException {
+    // Given the URL of a class page, this will return the course_id name
+    // Example URL: https://class.Coursera.org/ni-001/class
+    // course_id: ni-001
+    public String extractCourseIDFromURL(String url)
+    {
+        String host = "class.coursera.org";
+        StringTokenizer st = new StringTokenizer(url, "/");
 
-    // 	writer = new PrintWriter(filename);
-
-    //     URL uri = new URL(url);
-    //     BufferedReader in = new BufferedReader(new InputStreamReader(uri.openStream()));
-
-    //     StringBuilder outputPage = new StringBuilder();
-    //     String inputLine;
-        
-    //     while ((inputLine = in.readLine()) != null) {
-    //         outputPage.append(inputLine);
-    //     }
-    //     in.close();
-
-    //     writer.print(outputPage.toString());
-    //     String page = outputPage.toString();
-    //     extractquestions(page, 0, question);
-    // }
+        while(st.hasMoreTokens())
+        {
+            String cur = st.nextToken().toLowerCase();
+            if (cur.equals(host))
+            {
+                return st.nextToken();
+            }
+        }
+        return "";
+    }
 
     public void readFileContent(String filename, String question) throws IOException 
     {
