@@ -10,8 +10,8 @@ public class ScrapeDiscussion {
 	private class QuestionThread
     {
         String qTopic;
-        String[] teacher;
-        String[] student;
+        int[] teacher;
+        int[] student;
     }
 
     // Read contents from text file -- same as ScrapeCoursera
@@ -57,9 +57,9 @@ public class ScrapeDiscussion {
         {
             String forumElement = page.substring(startIndex, endIndex);
 
-            System.out.println(forumElement);
-            System.out.println("==================================================");
-            //extractPostInfo(forumElement, boolean isQuestion);
+            //System.out.println(forumElement);
+            //System.out.println("==================================================");
+            extractPostInfo(forumElement, isQuestion);
             
             isQuestion = false;
             page = page.substring(endIndex);
@@ -101,28 +101,20 @@ public class ScrapeDiscussion {
     	// No point checking for upvotes in question - so else
     	else
     	{
-    		String name = "<a href=\"https://class.coursera.org/ni-001/forum/profile?user_id=";
+    		// Check if upvotes exist
     		String upvote = "<span class=\"course-forum-post-vote-count course-forum-votes-positive\">";
-    		String novote = "<span class=\"course-forum-post-vote-count \">0</span>";
-
-    		int nameIndex = forumElement.indexOf(name);
     		int upIndex = forumElement.indexOf(upvote);
-    		int noIndex = forumElement.indexOf(novote);
 
-    		if (noIndex < upIndex && noIndex != -1)
+    		// If yes, add to teacher array
+			if (upIndex != -1)
+			{
+				String name = "<a href=\"https://class.coursera.org/ni-001/forum/profile?user_id=";
+    			int nameIndex = forumElement.indexOf(name) + name.length();
+    			forumElement = forumElement.substring(nameIndex);
 
-    		// Keep finding all posts with upvotes to identify teachers
-    		while (upIndex != -1)
-    		{
-
-    			upIndex = forumElement.indexOf(upvote);
-    		}
-
-
-    	
-    	// upvotes
-    	// if ()
-    	// add to teacher array only if not anonymous
+    			int endNameIndex = forumElement.indexOf("\"");
+    			System.out.println(forumElement.substring(0, endNameIndex));
+			}    		
 
     	// sentiment analysis for student
     	// if (true)
