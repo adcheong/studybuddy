@@ -7,6 +7,13 @@ import java.net.*;
 
 public class ScrapeDiscussion {
 
+	private class QuestionThread
+    {
+        String qTopic;
+        String[] teacher;
+        String[] student;
+    }
+
     // Read contents from text file -- same as ScrapeCoursera
     public void readFileContent(String filename) throws IOException 
     {
@@ -40,20 +47,42 @@ public class ScrapeDiscussion {
         int endIndex = page.indexOf(end);
 
         // Change of end as question post is different from all other subsequent posts
-        end = "<div class=\"course-forum-new-comment-link-container\">";
+        String start1 = "<div class=\"course-forum-post-top-container\">";
+        String start2 = "class=\"course-forum-post-view-container \">";
+
+        end = "<div id=\"course-forum-post-vote-hint-";
+        boolean isQuestion = true;
 
         while (startIndex >= 0 && endIndex >= 0)
         {
             String forumElement = page.substring(startIndex, endIndex);
 
-            //System.out.println(forumElement);
+            System.out.println(forumElement);
             System.out.println("==================================================");
-            extractPostInfo(questionElement);
+            //extractPostInfo(forumElement, boolean isQuestion);
             
+            isQuestion = false;
             page = page.substring(endIndex);
 
-            startIndex = page.indexOf(start);
-            page = page.substring(startIndex + start.length());             
+            int start1Index = page.indexOf(start1);
+            if (start1Index == -1)
+            	start1Index = Integer.MAX_VALUE;
+            int start2Index = page.indexOf(start2);
+            if (start2Index == -1)
+            	start2Index = Integer.MAX_VALUE;
+
+            if (start1Index == Integer.MAX_VALUE && start2Index == Integer.MAX_VALUE)
+            {
+            	startIndex = -1;
+            	break;
+            }
+            else if (start1Index < start2Index)
+            	startIndex = start1Index;
+            else
+            	startIndex = start2Index;
+
+            // startIndex = page.indexOf(start);
+            page = page.substring(startIndex + (startIndex == start1Index ? start1.length() : start2.length()));             
             startIndex = 0;
 
             endIndex = page.indexOf(end);
@@ -61,6 +90,45 @@ public class ScrapeDiscussion {
     }
 
     // Extract relevant information from each post in a discussion forum
+    private void extractPostInfo(String forumElement, boolean isQuestion)
+    {
+    	// To figure out topic/concept in question
+    	if (isQuestion)
+    	{
+    		// Figure out topic/concept in question
+    	}
+
+    	// No point checking for upvotes in question - so else
+    	else
+    	{
+    		String name = "<a href=\"https://class.coursera.org/ni-001/forum/profile?user_id=";
+    		String upvote = "<span class=\"course-forum-post-vote-count course-forum-votes-positive\">";
+    		String novote = "<span class=\"course-forum-post-vote-count \">0</span>";
+
+    		int nameIndex = forumElement.indexOf(name);
+    		int upIndex = forumElement.indexOf(upvote);
+    		int noIndex = forumElement.indexOf(novote);
+
+    		if (noIndex < upIndex && noIndex != -1)
+
+    		// Keep finding all posts with upvotes to identify teachers
+    		while (upIndex != -1)
+    		{
+
+    			upIndex = forumElement.indexOf(upvote);
+    		}
+
+
+    	
+    	// upvotes
+    	// if ()
+    	// add to teacher array only if not anonymous
+
+    	// sentiment analysis for student
+    	// if (true)
+    	// add to student array
+    	}
+	}
 
     // main function to execute the scraping
     public static void main(String[] args) throws IOException {
