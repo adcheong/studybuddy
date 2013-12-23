@@ -39,13 +39,16 @@ public class ScrapeDiscussion {
         startIndex = 0;
         int endIndex = page.indexOf(end);
 
+        // Change of end as question post is different from all other subsequent posts
+        end = "<div class=\"course-forum-new-comment-link-container\">";
+
         while (startIndex >= 0 && endIndex >= 0)
         {
             String forumElement = page.substring(startIndex, endIndex);
 
             //System.out.println(forumElement);
             System.out.println("==================================================");
-            extractQuestionThread(questionElement);
+            extractPostInfo(questionElement);
             
             page = page.substring(endIndex);
 
@@ -53,8 +56,11 @@ public class ScrapeDiscussion {
             page = page.substring(startIndex + start.length());             
             startIndex = 0;
 
+            endIndex = page.indexOf(end);
         }
     }
+
+    // Extract relevant information from each post in a discussion forum
 
     // main function to execute the scraping
     public static void main(String[] args) throws IOException {
