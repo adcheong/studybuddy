@@ -21,13 +21,11 @@ public class ScrapeCoursera {
     private String course_id;   // the course id of a given coursera course
 
     // Constructor given a url
-    public ScrapeCoursera(String url) throws IOException
+    public ScrapeCoursera(String url, String htmlFile, String outputFile) throws IOException
     {
         course_id = extractCourseIDFromURL(url);
-        String htmlData = "ni.html";
-        String question = "question.txt";
-        readFileContent(htmlData, question);
-   
+        String htmlString = fileToString(htmlFile);
+        extractQuestions(htmlString);
     }
 
     // Given the URL of a class page, this will return the course_id name
@@ -42,31 +40,63 @@ public class ScrapeCoursera {
         {
             String cur = st.nextToken().toLowerCase();
             if (cur.equals(host))
-            {
                 return st.nextToken();
-            }
         }
         return "";
     }
 
-    public void readFileContent(String filename, String question) throws IOException 
+    // Converts file from current directory into a string and returns this string
+    public String fileToString(String filename) throws IOException 
     {
         BufferedReader in = new BufferedReader(new FileReader(filename));
-        writer = new PrintWriter(question);
-
         StringBuilder outputPage = new StringBuilder();
         String inputLine;
         
         while (in.ready())
         {
-            inputLine = in.readLine();
-            outputPage.append(inputLine);
+            outputPage.append(in.readLine());
         }
-        in.close();
 
-        writer.print(outputPage.toString());
+        in.close(); 
         String page = outputPage.toString();
-        extractQuestions(page, 0, question);
+        return page;
+    }
+
+    // Extract the thread data
+    private void extractQuestions(String page)
+    {
+        String url = "https://class.coursera.org/" + course_id + "/forum/thread?thread_id";
+        String end = "nbsp";
+        String special = "</i> See top forum posters</a></div></div>";
+
+        int startIndex = page.indexOf(url);
+
+        page = page.substring(startIndex);
+
+        startIndex = 0;
+        int endIndex = page.indexOf(end);
+
+        while (startIndex >= 0 && endIndex >= 0)
+        {
+            String questionElement = page.substring(startIndex, endIndex);
+            System.out.println("==================================================");
+            extractQuestionThread(questionElement);
+
+
+            page = page.substring(endIndex);
+
+            startIndex = page.indexOf(url);
+            page = page.substring(startIndex + url.length());             
+            startIndex = 0;
+
+            endIndex = page.indexOf(end);
+            int possible = page.indexOf(url);
+            if(possible < endIndex && possible >= 0) endIndex = possible;
+
+            if (endIndex < 0)
+                endIndex = page.indexOf(special);
+        }
+        
     }
 
     private void extractQuestionThread(String q)
@@ -149,46 +179,10 @@ public class ScrapeCoursera {
 
     }
 
-    private void extractQuestions(String page, int index, String question)
-    {
-        String url = "https://class.coursera.org/" + course_id + "/forum/thread?thread_id";
-        String end = "nbsp";
-        String special = "</i> See top forum posters</a></div></div>";
-
-        int startIndex = page.indexOf(url);
-
-        page = page.substring(startIndex);
-
-        startIndex = 0;
-        int endIndex = page.indexOf(end);
-
-        while (startIndex >= 0 && endIndex >= 0)
-        {
-            String questionElement = page.substring(startIndex, endIndex);
-
-            //System.out.println(questionElement);
-            System.out.println("==================================================");
-            extractQuestionThread(questionElement);
-
-
-            page = page.substring(endIndex);
-
-            startIndex = page.indexOf(url);
-            page = page.substring(startIndex + url.length());             
-            startIndex = 0;
-
-            endIndex = page.indexOf(end);
-            int possible = page.indexOf(url);
-            if(possible < endIndex && possible >= 0) endIndex = possible;
-
-            if (endIndex < 0)
-                endIndex = page.indexOf(special);
-        }
-        
-    }
 
     public static void main(String[] args) throws IOException {
         // main function to execute the scraping
-        ScrapeCoursera sc = new ScrapeCoursera("https://class.coursera.org/ni-001/class");
+        ScrapeCoursera sc = new ScrapeCoursera("https://class.coursera.org/ni-001/class",
+                                               "ni.html", "question.txt");
     }
 }
