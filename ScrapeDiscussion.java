@@ -7,7 +7,9 @@ import java.net.*;
 
 public class ScrapeDiscussion {
 
-	private class QuestionThread
+
+	// Class to keep everything we want
+	private class PostThread
     {
         String qTopic;
         int[] teacher;
@@ -95,7 +97,51 @@ public class ScrapeDiscussion {
     	// To figure out topic/concept in question
     	if (isQuestion)
     	{
-    		// Figure out topic/concept in question
+    		String[] concepts = {"DANGLING NODES & DSICONNECTED GRAPH", "USER-MOVIE INTERACTIONS",
+    							 "SHARING IS HARD & CONSENSUS IS HARD","CROWDS",
+    							 "NETWORK","LAYERS ON LAYERS",
+    							 "MOBILE PENETRATION", "MULTIPLE ACCESS", "0G", "FDMA", "1G", "ATTENUATION",
+    							 "2G", "TDMA", "CDMA", "COCKTAIL PARTY ANALOGY", "NEAR-FAR PROBLEM", "SIR", "DPC", 
+    							 "DPC COMPUTATION", "NEGATIVE FEEDBACK", "CONVERGENCE", "DISTRIBUTED COMPUTATION", "HANDOFFS",
+    							 "CDMA & 3G", "UNLICENSED SPECTRUM", "TRAFFIC ANALOGY", "WIFI STANDARDS", "WIFI DEPLOYMENT", 
+    							 "ACCESSING WIFI", "INTERFERENCE", "CONTROLLED VS RANDOM ACCESS", "RANDOM ACCESS PROTOCOLS & ALOHA",
+    							 "ALOHA THROUGHPUT", "ALOHA INSCALABILITY", "ALOHA SUCCESSFUL TRANSMISSION", "CSMA BACKOFF", "CSMA VS ALOHA",
+    							 "SEARCH ENGINES", "WEBGRAPHS", "IN-DEGREE", "THE RANDOM SURFER", "IMPORTANCE EQUATIONS", "NEW WORD IN THE DICTIONARY",
+    							 "PAGERANK EXAMPLE CALCULATION", "ROBUST RANKING", "OUR MOBILE DATA PLANS", "DEMAND FOR DATA", "JOBS' INEQUALITY OF CAPACITY",
+    							 "USAGE-BASED PLANS", "COMPARING PRICING SCHEMES", "UTILITY", "DEMAND", "DEMAND CURVE & NET UTILITY", "THE TRAGEDY OF COMMONS",
+    							 "FLAT RATE CREATES WASTE & FAVORS HEAVY USERS", "CSMA CARRIER SENSING", "NETFLIX TIMELINE", "VIDEO STREAMING", "NETFLIX RECOMMENDATION SYSTEM",
+    							 "NETFLIX PRIZE: LOGISTICS", "RAW AVERAGE", "BASELINE PREDICTOR", "COSINE SIMILARITY", "SIMILARITY VALUES", "LEVERAGING SIMILARITY", 
+    							 "NETFLIX PRIZE: THE COMPETITION", "NEIGHBORHOOD PREDICTOR", "SHARING", "ARPANET", "NSFNET", "CIRCUIT SWITCHING", "PACKET SWITCHING",
+    							 "DISTRIBUTED HIERARCHY", "ROUTING TRAFFIC", "IP ADDRESS", "PREFIX & HOST IDENTIFIER", "DHCP & NAT", "ROUTING PROTOCOLS", "FORWARDING",
+    							 "SHORTEST PATH", "BELLMAN-FORD", "COST UPDATES", "RIP AND MESSAGE PASSING", "DIVIDE AND CONQUER", "LAYERED PROTOCOL STACK", "TRANSPORT & NETWORK LAYERS",
+    							 "HEADERS", "PROCESSING LAYERS", "CONTROLLING CONGESTION", "TRAFFIC JAM & BUCKET ANALOGY", "END HOSTS", "CAUTIOUS GROWTH OF WINDOW SIZE",
+    							 "SLIDING WINDOW", "INFERRING CONGESTION", "CONGESTION CONTROL VERSIONS", "LOSS-BASED CONGESTION INFERENCE", "DELAY-BASED CONGESTION INFERENCE",
+    							 "DISTRIBUTED CONGESTION CONTROL"};
+
+    		String text = "class=\"course-forum-post-text\">";
+    		int textIndex = forumElement.indexOf(text) + text.length();
+    		forumElement = forumElement.substring(textIndex);
+
+    		int endtextIndex = forumElement.indexOf("</div>");
+    		String capText = forumElement.substring(0, endtextIndex).toUpperCase();
+
+    		// int count = 0;
+    		// while (capText.charAt(count) != '\0')
+    		// {
+    		// 	if (capText.charAt(count) >='a' && capText.charAt(count) <= 'z')
+    		// 		capText.charAt(count) -= 32;
+
+    		// 	count++; 
+    		// }
+
+    		for (int i = 0; i < concepts.length; i++)
+    		{
+    			if (capText.indexOf(concepts[i]) != -1)
+    			{
+    				System.out.println("Question Concept: " + concepts[i]);
+    				break;
+    			}
+    		}
     	}
 
     	// No point checking for upvotes in question - so else
@@ -120,10 +166,12 @@ public class ScrapeDiscussion {
     	// if (true)
     	// add to student array
     	}
-	}
+    }
 
     // main function to execute the scraping
     public static void main(String[] args) throws IOException {
+
+
 
         ScrapeDiscussion sc = new ScrapeDiscussion();
 
