@@ -170,12 +170,9 @@ public class ScrapeDiscussion {
 
     // main function to execute the scraping
     public static void main(String[] args) throws IOException {
-
-
-
         ScrapeDiscussion sc = new ScrapeDiscussion();
 
-        String htmlData = "discussionforum.txt";
+        String htmlData = "discussionforum9.txt";
 
         sc.readFileContent(htmlData);
     }
