@@ -82,7 +82,6 @@ public class ScrapeCoursera {
             System.out.println("==================================================");
             extractQuestionThread(questionElement);
 
-
             page = page.substring(endIndex);
 
             startIndex = page.indexOf(url);
@@ -139,7 +138,6 @@ public class ScrapeCoursera {
 
         System.out.println("Author: " + qt.asker);
 
-
         // Extract last responder
         startIndex = q.indexOf(lpby);
         q = q.substring(startIndex);
@@ -176,7 +174,6 @@ public class ScrapeCoursera {
         endIndex = q.indexOf("</");
         qt.numViews = Integer.parseInt(q.substring(startIndex, endIndex));
         System.out.println("Number of views: " + qt.numViews);
-
     }
 
 
