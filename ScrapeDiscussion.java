@@ -155,16 +155,47 @@ public class ScrapeDiscussion {
 			if (upIndex != -1)
 			{
 				String name = "<a href=\"https://class.coursera.org/ni-001/forum/profile?user_id=";
-    			int nameIndex = forumElement.indexOf(name) + name.length();
-    			forumElement = forumElement.substring(nameIndex);
 
-    			int endNameIndex = forumElement.indexOf("\"");
-    			System.out.println(forumElement.substring(0, endNameIndex));
-			}    		
+                // To take care of the posts whose authors are Anonymous (not authors whose names are Anonymous)
+                if (forumElement.indexOf(name) != -1)
+                {
+                    int nameIndex = forumElement.indexOf(name) + name.length();
+    			    forumElement = forumElement.substring(nameIndex);
 
-    	// sentiment analysis for student
-    	// if (true)
-    	// add to student array
+                    int endNameIndex = forumElement.indexOf("\"");
+    			    System.out.println("Teacher: " + forumElement.substring(0, endNameIndex));
+			    }
+            }
+
+            // Check for students only if not teachers - i.e. ignore questions marks in posts with upvotes
+            else    		
+            {
+                // Get the user id of the author of the post
+                String name = "<a href=\"https://class.coursera.org/ni-001/forum/profile?user_id=";
+                if (forumElement.indexOf(name) != -1)
+                {
+                    int nameIndex = forumElement.indexOf(name) + name.length();
+                    forumElement = forumElement.substring(nameIndex);
+
+                    int endNameIndex = forumElement.indexOf("\"");
+                    String postAuthor = forumElement.substring(0, endNameIndex);
+
+                    // Checking for more students - i.e people who ask questions in supplementary posts
+                    String question = "class=\"course-forum-post-text\">";
+                    int qIndex = forumElement.indexOf(question) + question.length();
+                    forumElement = forumElement.substring(qIndex);
+
+                    int endtextIndex = forumElement.indexOf("</div>");  
+                    forumElement = forumElement.substring(0, endtextIndex);
+
+                    // Go through the text of the post
+                    String qMark = "?";
+                    if (forumElement.indexOf(qMark) != -1)
+                    {
+                        System.out.println("Student for supplementary post: " + postAuthor);
+                    }
+                }
+            }
     	}
     }
 
@@ -172,7 +203,7 @@ public class ScrapeDiscussion {
     public static void main(String[] args) throws IOException {
         ScrapeDiscussion sc = new ScrapeDiscussion();
 
-        String htmlData = "lecturedis2.txt";
+        String htmlData = "lecturedis1.txt";
 
         sc.readFileContent(htmlData);
     }
