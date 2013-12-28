@@ -3,13 +3,9 @@
 import yaml
 import urllib2
 import json
-from get_cookies import get_cookies
 from StringIO import StringIO
 
-COOKIE, COOKIE_2 = get_cookies()
 CLASS_ID         = "ni-001"
-CALLBACK         = "some"
-OUT_FILE         = "data.json"
 ASSIGNMENT_FORUM = 3
 
 def get_page(url, use_cookie_2 = False):
@@ -24,7 +20,7 @@ def get_page(url, use_cookie_2 = False):
 
 def get_threads():
     thread_template = "https://class.coursera.org/" + CLASS_ID + "/api/forum/threads/%d"
-    user_template = "https://www.coursera.org/maestro/api/user/profiles?user-ids=%d&callback=" + CALLBACK
+    user_template = "https://www.coursera.org/maestro/api/user/profiles?user-ids=%d&callback=some"
 
     uids = set()
     thread_num = 0
@@ -83,7 +79,6 @@ def get_threads():
                 all_output.write(yaml.dump(forum, default_flow_style=False))
                 all_output.write('\n')
 
-
                 # uids.add(j_d[u'user_id'])
                 # posts_and_comments = j_d['posts'] + j_d['comments']
                 # for entity in posts_and_comments:
@@ -96,23 +91,19 @@ def get_threads():
                 there_are_more_threads = False
 
     # now we have all the uids let's get the user data
-    # users = []
-    # number_of_users = len(uids)
-    # count = 1
+    users = {}
+    number_of_users = len(uids)
+    count = 1
 
-    # print "Crawling %d user profiles." % (number_of_users,)
-    # temp_count = 0
-    # for uid in uids:
-    #     if temp_count > 50:
-    #         break
-    #     data = get_page(user_template % (uid,), True).read()
-    #     data = data[len(CALLBACK) + 2 : len(data) - 2].strip()
-    #     if data:
-    #         user = json.loads(data)
-    #         users.append(user)
-    #     count += 1
-    #     temp_count += 1
-    # fp = open(OUT_FILE, "w")
-    # fp.write(json.dumps(users))
-    # fp.close()
+    print "Crawling %d user profiles." % (number_of_users,)
+    temp_count = 0
+    for uid in uids:
+        data = get_page(user_template % (uid,), True).read()
+        # data = data[len(CALLBACK) + 2 : len(data) - 2].strip()
+        if data:
+            user = json.loads(data)
+            users[uid] = user[u'display_name']
+        count += 1
+        temp_count += 1
+    print users
 get_threads()
