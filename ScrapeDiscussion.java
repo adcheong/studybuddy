@@ -172,7 +172,7 @@ public class ScrapeDiscussion {
     public static void main(String[] args) throws IOException {
         ScrapeDiscussion sc = new ScrapeDiscussion();
 
-        String htmlData = "discussionforum9.txt";
+        String htmlData = "lecturedis2.txt";
 
         sc.readFileContent(htmlData);
     }
