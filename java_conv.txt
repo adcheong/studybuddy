@@ -1,0 +1,935 @@
+-1
+3229486
+3
+Is there a quiz/homework that goes with week 1?
+****
+599445
+16
+Not for week 1. We will start with homeworks next week once we get into the non-introductory lectures.
+****
+1498376
+0
+
+****
+3958295
+2
+I downloaded the course calendar and it was completely blank. I suppose I'll check back next week daily to see when homework is posted. Anyone else having this issue? (calendar)
+****
+3902771
+5
+<p>the first week is of introduction for the course, I didn&#39;t remember the university, I love this. Free of homework... </p>
+
+****
+3962649
+3
+Looking forward to seeing homework indeed. It makes learning easier and more satisfying. :)
+****
+2702075
+0
+What's the dateline for the quiz/homework for each week?
+****
+4017962
+0
+Even my calendar for this course was completely blank. And does anyone know when the homework and exam sessions will be?<br />
+****
+616661
+0
+The second week lectures, especially on DPC computations and iterations were very interesting and stimulating. Even though the basic principles behind the computations. are quite clear, when they are being done by the Instructor, the real test, I feel, will come in only when numerical problems are to be tackled independently. Hence, I would suggest that numerical problems may be set for the students, to ensure a better grasp. This can be independent of the homework assignment or the exam and may be in the form of a link,where such problems will be available for those who may be interested. Thank you.
+****
+3726437
+0
+Does anyone know when is the final exam?<br />
+****
+2196054
+0
+I'm enjoying the lectures! I'm in the middle of the Cellular module and I've only had a few (5 or 6) multiple questions appear. And when a multiple question appears, it sometimes pops-up in the middle of a lecture (indeed, middle of a sentence in some instances) not at the end of lecture. Is this a glitch or is it planned this way? It's fine with me, keeps me on my attention from attenuating;)<br />But I am wondering if I'm missing out on more questions because of a glitch.
+****
+3958295
+0
+I haven't seen any homework posted on my end yet, and have been checking daily. If there is a mishap on my end could somebody please direct me to the appropriate link? I've been checking the 'Homework' section and it remains blank.&nbsp;
+****
+1498376
+6
+Since there is no certificate of accomplishment will be issued in this course, I therefore suggest that we can increase number of attempts (say 30 attempts) for the quiz so that we can clarify our understanding of theories by attempting more times to correct our answers.<br />
+****
+3644628
+1
+I would like to be able to see deadlines and have a course schedule. The schedule in google is blank. But even if it gets content, it would still be helpful to see something on the course page.<br />
+****
+2446281
+0
+Chris, In question #2 the channel gain between Transmitter C and Receiver C was initially given as 0.1 i.e. 1/10 (NOT 1.0). I attempted the question two three times and I distinctly remember&nbsp;the channel gain between Transmitter C and Receiver C was initially given as 0.1 i.e. 1/10 (NOT 1.0).<br />So I got SIRa=2.5, SIRb=1.5 and SIRc=0.2 &nbsp;and on second iteration I got SIRa=2.143, SIRb=1.64, SIRc=0.2419
+****
+2493129
+0
+<span style="text-decoration: underline;">Mid-term exam</span>&nbsp; I am planning to attempt the exam on Friday July 26th.<br />Please would people share the following info:<br />1.&nbsp; how many hours' revision are you planning to do for the 3-hour mid-term exam, given it's an open-book exam?<br />2.&nbsp; For people who've attempted the exam - does it really take 3 hours?&nbsp; I mean, is it an exam where you're writing and/or thinking for 3 whole hours?<br />Thanks!<br />
+****
+3916826
+0
+I think that if you get the question wrong it tells you the right answer.&nbsp;
+****
+472134
+1
+When I did it yesterday, mine was blank also.
+****
+3685980
+1
+Just tried it and had the same problem. &nbsp;(Wednesday 3rd July)
+****
+2196054
+1
+Blank too. Using Google Calendar on the Chrome browser, if that matters.<br /><br />
+****
+3980117
+0
+
+****
+3980117
+0
+Yeah, same here. I suppose it's because there's no scheduled deadline yet.&nbsp;
+****
+599445
+5
+Hi guys, yes that's correct. Homework will be posted as we cover the corresponding lectures. First week is an introduction to the course, we will start on Monday with the lecture on cellular.
+****
+2446281
+0
+Homework is great. Its multiple choice quiz after every lecture. If you follow the lecture then its very easy to answer and the evaluation is instantaneous so you get great feedback right away. If you did not get the answer right you could right away replay the video and learn what you may have missed or overlooked! See you next week.
+****
+3787981
+11
+What a terrific bunch of motivated students! They all want homework and it's the intro, first week<br />and 4th of July! Get those people a beer! Chill and cheers a little from Hawaii! Aloha!<br /><br /><br /><br />
+****
+599445
+1
+Definitely! Great to see the appetite for learning!
+****
+0
+4
+Yes and this gives us time to adapt our rhythm to the requirements and thus to enjoy the first lectures on lazy moments (although yes, I take notes)... while suffering on other courses that started some weeks earlier: no need to wonder first how HW will fit in the schedule. I love that! Besides, lectures are informative, instructive, and great: I'll take the one with calculus, but this version helps me learn effectively and go my own path in the summer, getting accustomed with the topics and concepts in a soft manner. Congratulations to Christopher and team!
+****
+599445
+1
+Thank you very much!
+****
+599445
+3
+There's no set "deadline", because there's no certificates, but we will provide a recommended deadline as we release each assignment.
+****
+3916826
+0
+<p>Yes because in the cellular chapters there is no homework?</p>
+****
+0
+1
+I am enrolled in both network courses as much as I would like to do the homework in the Networking with the Calculus I enrolled in the other course for the videos. I have coding for work up to my eyeballs. I was hoping to return to school this quarter but I will have to wait until I have the current coding project completed. Even if I were to drop my courser courser courses which I can't, they are work related. If I were to go back to my school right now, I wound lose my job or mess up school so I will have to wait 5 and 1/2 weeks.
+****
+0
+0
+LOL welcome to Coursera' world! These are not glitches. They are sometimes carefully inserted, sometimes not (I guess it requires additional time-consuming work, - so I don't mind, - surely depends on the size of the team, i.e. how many TAs most often). However, I recently noticed in some other Coursera courses extra stops that don't bring anything but an invitation to click further. Still having (quite clueless) hypotheses on this emerging phenomenon.<br />Nevertheless, yes, it is meant to help memorizing - is initially designed with this purpose. And it serves for many of us to check oursides that we did not fell asleep as it happens at the end of a long working day. Also, as far as I know (please consider my following assertion cautiously), they are never integrated as partial marks into the final grade as some people with intermittent connection prefer to download the lectures and watch them offline.
+****
+0
+0
+Good luck with your current project, anon. We are many in this case and have diverse strategies, - the first one being: struggling hard, despairing as little as possible, trusting the future to give us this MOOC opportunity for ever from now. I, for one, sometimes go on at my own pace with the hope of maybe retaking the course on the next offering with more involvment (also, I download then the lectures and even some exercises and the accompanying notices before any access gets denied after the end of the course, as it happens sometimes).<br />Take care!&nbsp;
+****
+599445
+1
+I'll include a numerical problem or two in the homework this week.
+****
+345701
+1
+Look forward to suggested quiz deadline for homework. Have been use to "hard" deadlines from other Coursera courses. Chris's lectures are top drawer. and follow and hear all said. Just right. Am learning more than I had any idea of. Thanks, again, Chris
+****
+599445
+0
+Thanks Laurence!
+****
+3918603
+2
+Thank you for the information, "No Assignment in week 1"
+****
+0
+1
+I have brought textbook. It would be nice if someone could post a recommended reading list for those who have purchased the accompanying textbook!
+****
+599445
+0
+Maybe what I'll do is post the textbook reading next to the lecture titles.
+****
+0
+0
+Hi, Anon who purchased the book. Until I have a working Android tablet at disposal again, I am eager to know<b> if I can print from the e-version on occasion let's say 20 pages in a row, or in less than 5 mn of manipulation.</b> As a working-motherly-Courserian-with-teenage-children-on-summer-holiday / performing environmental management (wm-C-wtcsh.pem)... I have to think and planify in an operative way LOL. Thanks in advance for info.
+****
+2664009
+0
+i have download lecture and then watch it as my internet connection is too slow could not support&nbsp; video streaming....&nbsp; I have completed 2nd week material but not able to find any&nbsp; homework in homework tab... As Derick said he found multiple question appear in middle of lecture but i didnt got any ....<br /><br /><br />
+****
+0
+0
+in-video quizzes (not homework quizzes) sometimes/usually don't appear on the downloaded videos - only when you watch them on site. The homework quizzes have not been posted yet.<br />
+****
+3736081
+0
+I have been checking as well Amber and I do not see anything there either.
+****
+599303
+0
+<a title="Link: https://class.coursera.org/ni-001/forum/thread?thread_id=63#post-461" href="https://class.coursera.org/ni-001/forum/thread?thread_id=63#post-461">https://class.coursera.org/ni-001/forum/thread?thread_id=63#post-461</a><br /><br />The instructor is very busy this week and hence the delay. There are supposed to be 2 sets of lectures for most (not all) weeks. We have already seen the cell phone lecture. Now in a few hours (hopefully), we should see the WiFi lectures and the homework for this week. They should have been up by now but as the instructor mentions, he will try to get them online soon.<br />
+****
+3736081
+0
+Thank You Faraz!
+****
+0
+1
+I agree with you. Although I haven't attempt the first homework, but I believe that the right answers won't be shown to you if you got it wrong (usually the case for most courses).<br />By allowing more attempts, it can clarify doubts by trying again and again.
+****
+1498376
+2
+Hi Anonymous, many thanks for your endorsement of my suggestion of allowing several attempts of quiz! <br />
+****
+599445
+0
+I made it so the right answers are shown to you immediately after you take it. Also, I'll put up the explanations soon. I can increase the number of attempts, too.
+****
+2493129
+0
+What's the deadline for attempting the first homework, please??<br />I think I've added the course Google calendar + reminders to my G-calendar but there's no info there.&nbsp; I may be doing something not quite right... <br />
+****
+2493129
+0
+I was wondering when the deadline is for the 1st homework assignment?<br />
+****
+599445
+1
+No deadline. I recommend you complete it before the next one comes out (next Thursday / Friday).
+****
+599445
+0
+Yes, that was a typo. It should have been 1.0. Sorry about that.
+****
+599445
+0
+I actually will be hosting a virtual office hour session, using ustream, probably next week, to go over the exam with anyone who wants.<br /><br />In terms of time, I think 3 hours will be more than enough to complete it. (Nobody has taken this exam before, so it's hard to say exactly how long).
+****
+-1
+565491
+0
+Is it ok, that the Channel Gains matrix has a 0.1 in the cell for C as transmitter and C as receiver? <br />I expected a higher value, at least higher than for C as transmitter and A or B as receivers.<br />
+****
+498780
+0
+Yes - it should be 1 (tried it and got the right answer)<br /><br />Very hard homework! Only 2/5 :(<br /><br />Are these worth grades?
+****
+565491
+0
+Thanks a lot. I also got the right answer.<br /><br />I failed Question 3. I still do not fully understand the different possible answers of this question.<br />
+****
+2609490
+0
+I agree that the gain from transmitter C to receiver C should be 1.0 not 0.1<br />After making this change I was able to match one of the answers and the desired SIRs were eventually attained. <br />
+****
+2174341
+0
+I also agree that in Question 2 the transmitter/receiver gain for C/C should be 1 and not 0.1<br /><br />I am using the google docs spreadsheet (link from here:&nbsp; <a title="Link: http://scenic.princeton.edu/network20q/kudos/" target="" href="http://scenic.princeton.edu/network20q/kudos/">http://scenic.princeton.edu/network20q/kudos/</a> ) that won kudos last fall and getting different answers than the hand calculated ones.... :(<br /><br /><br />Added 2 hrs later: got 4/5 correct <br />
+****
+3530614
+5
+Just tried the Homework and failed with Question 2.<br /><br />What I do not understand: Shouldn't the question be "what is the power AFTER the 2nd iteration" and not "DURING" ? For me, AFTER the first and DURING the 2nd iteration the power is 0.75/1.66/0.75. But it seems I am wrong? :-)<br />
+****
+3960336
+2
+I enjoyed the homework, its great to learn something 1 day which you think is easy and then go back a week later and realise how quickly you forget.<br /><br />
+****
+3769232
+0
+I went through the whole process a number of times, each time coming up with the wrong answer (after checking, rechecking etc etc) and I'd like to state what I did wrong even if it helps one other person! I made the mistake of viewing a link as 'from the transmitter of that name' rather than 'to the receiver of that name' so i.e. link A is actually all the links from A, B &nbsp;and C <b>t</b><b>o receiver</b> A, not <b>from&nbsp;transmitter</b>&nbsp;A to A, B and C. Dare I say it? Doh!&nbsp;
+****
+3713793
+-7
+hello dear which Question is correct please give me&nbsp;a answer&nbsp;
+****
+2174341
+3
+Muhammad - then you violate the Coursera honor code<br />
+****
+3864914
+0
+I believe it is a clear typo that the value should have been shown as 1.0 for C's signal instead of 0.1 as shown. Mind you I didn't get "the right answer" even with this assumption, but that could be because it is the early hours of the morning here and I attempted to work out all the calculations with pen and paper instead of using a calculator! I can't see any way that the 0.1 value is intentional though, so I suspect the safest bet is to use the 1.0 value until the typo is fixed.<br />
+****
+2174341
+0
+Craig<br /><br />I'm in the same boat - incorrect answer for #2 using the assumption that the value should have been 1.0 instead of 0.1 - all other answers were correct<br /><br />As an afterthought, that question 3 was marked as correct validates that the correct value was intended to be 1.0 in that table....<br />
+****
+599445
+6
+Should be 1.0. Typo. Sorry about that!<br /><br />Also, I tried to make these problems a little challenging, just to stimulate more discussion. Don't worry if there were some issues with it. The exams will be a good combination of both conceptual problems (like the video lectures) and computations (like the homework, but probably easier).
+****
+599445
+3
+Ah, actually that's because the computation is done slightly differently in that course. Try "transposing" the table -- replace the columns by the rows. In the other course, the rows are the receivers and the columns are the transmitters, which makes it easier for matrices but less straightforward for hand calculations.
+****
+2174341
+0
+I must have muddled something up....<br />The spreadsheet did indeed come up with my values for A &amp; C but decided that 1.33 was better than my hand calc'ed number in my incorrect answer....<br />
+****
+599445
+8
+Hi Wolfgang -- Technically, it goes like this (as we did in the lecture):<br /><br />Initial Transmit Powers<br />Initial SIRs<br />Iteration 1 Transmit Powers<br />Iteration 1 SIRs<br /><b>Iteration 2 Transmit Powers</b><br />Iteration 2 SIRs<br /><br />So that's the one I'm looking for.<br /><br />But let me say, great job that you can do the calculations. I must say it's unfortunate to have to do all this as multiple choice, because if you understand the calculation anyway that's at least 90% right. So don't treat this as an absolute score, judge it more by your understanding.
+****
+3530614
+2
+Hi Chris,<br /><br />thank you for your explanation, Got it now!<br /><br />Also a big thank you to you both for making this great course possible. I am highly motivated! :-)<br /><br />Best Regards<br />Wolfgang
+****
+1796276
+4
+You're right. When it came time to actually do the problems &nbsp;I had to go back and review the lecture, carefully think about the algorithm and procedure involved, and still I made several computational errors. Doing the homework is excellent learning reinforcement.
+****
+599445
+2
+Great to hear that.
+****
+2434675
+0
+Wolfgang, I did the same thing, and I have to say I think we were correct (sorry Chris). The first execution uses the starting powers to determine the new ones. The new powers aren't know until AFTER then first iteration. Then the second execution uses those powers to determine the ones that Chris says he was looking for. So, the "correct answer" was not known until &nbsp;AFTER the second time the code executed (i.e. the second iteration), not DURING the execution.&nbsp;<br /><br />That said, it's no big deal. Just a matter of semantics I guess. It's kind of unfortunate, though, that the answer you and I came up with was one of the choices.&nbsp;
+****
+599445
+3
+Again, not a big deal. But in the question I asked for the transmit powers DURING the second iteration. They get updated right at the beginning of the second iteration, and stay like that until the third iteration starts. Remember we start with iteration 0, then iteration 1, then iteration 2. So i wanted DPC to be applied twice.
+****
+599445
+1
+Ah, you used the table the other way. Many people prefer that actually. And it makes it more convenient when using matrices to solve the problem. But for hand calculations, I think most people like it better to have the rows "from" and the columns "to", so that's why I used this convention.
+****
+0
+0
+I am the same as John, I did not read it that way, and hence the calculations were off.<br /><br />I read A to A as 1.0 B to A as 0.2 C to A as 0.1<br />NOT <br />A to A as 1.0 B to A as 0.2 C to A as 0,2 (which would have been correct)<br /><br /><img title="Image: https://coursera-forum-screenshots.s3.amazonaws.com/f2/24456d8a934c04506cd1552560d423/Capture.JPG" alt="image" style="width:380px;height:205px;" src="https://coursera-forum-screenshots.s3.amazonaws.com/f2/24456d8a934c04506cd1552560d423/Capture.JPG" /><br /><br />this had a knock on effect for the next question as well.<br />3/5<br /><br />edit: on a side note, is the submission date correct mine looks like<br /><img title="Image: https://coursera-forum-screenshots.s3.amazonaws.com/11/3a7e0d447a3505d5968ac9670f9cc4/Capture.JPG" alt="image" style="width:490px;height:136px;" src="https://coursera-forum-screenshots.s3.amazonaws.com/11/3a7e0d447a3505d5968ac9670f9cc4/Capture.JPG" /><br /> which is 2ish+ months from now (give or take)? Point being course will be well and truly over by then ;)<br /><br />
+****
+599445
+1
+Hi Anonymous -- yes, I see what you did. In the lecture I explained it the other way, though, and it actually says above there that the transmitters are down the rows and receivers across the columns. Maybe what you can do in the future is just "transpose" the table, and then work through it your way.<br /><br />I set the due date that far ahead because there's no "deadline", since there's no certificates.
+****
+-1
+2367053
+0
+I sort of get what is going on, but why do we not consider the other AP (for example G when computing throughput for A) as another device that should "not transmit"?<br />Thus 0.4*(0,6)**3&nbsp; [instead of 2]<br />
+****
+0
+0
+The explanation feedback for the question does a good job of explaining the reason. Read the first line of the explanation. The first line should actually read D-G instead of D-F, but the rationale has been stated. If there is something specific that you are finding confusing, kindly state the problem. ABC are on one channel, DEFG are on a different one.<br />
+****
+3939885
+2
+Simply put, the channels do NOT overlap.
+****
+2908236
+0
+the due date for homework one is 30 sept are there any penalties on late submissions ?. is the home quizzes are gonna add to the final grades?
+****
+3756090
+0
+This question got me too! I missed the non-overlapping bit...but I corrected my mistake.&nbsp;
+****
+599445
+0
+Great discussion. Correct that you should assume the two groups do not interfere with one another.<br /><br />With the homework, don't treat it as a quiz. Just try to learn from the explanations if you weren't sure. That's what really matters here. The only reason I put it in the quiz format was so you could get immediate feedback.
+****
+3441662
+0
+I got that question wrong too! The diagram threw me off. In the lecture slides, the probability of other stations not transmitting was (1-ProbTrans)^the number of other stations and&nbsp;in that diagram the number of stations accounted&nbsp;were only those within the circle. So that's what I did here. I didn't take into account the non-overlapping. Does that mean the in the slides diagram, the channels were overlapping?
+****
+3441662
+0
+I see.&nbsp;I guess it's irrelevant then that the diagram showed the transmission ranges overlapping because the channels were actually non-overlapping. Thank you!
+****
+599303
+0
+I don't know where 30 Sept. is stated. Basically, there are no deadlines but it is recommended to do the homework before the next one is released (<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=8#comment-249">https://class.coursera.org/ni-001/forum/thread?thread_id=8#comment-249</a>). There are no certificates, so final grades or pass/fail criteria don't really apply. <br /><br />
+****
+2367053
+0
+I can accept that AP C and AP G may be on different channels, but the problem did not make that point clear.&nbsp; If that is the case (different channels), then a transmitter that is paired to one channel shouldn't interfere with transmissions occurring on a different channel.&nbsp; Maybe I am over-thinking the permutations.<br />
+****
+599303
+0
+Below the diagram, it is stated in the problem "Suppose the two access points are each using non-overlapping channels". It is also stated, "As shown, A and B are associating with C, while D, E, and F are associating with G." So A,B,C are using one channel and the rest are on another non-overlapping channel. I don't quite understand your argument about pairs. A,B,C are all on the same single shared channel. Now, if A wants to transmit something (successfully without collision), it would require that both B and C are silent at that time and if we think of probability as a roll of the dice, then at that time A rolls a go ahead to transmit. Since D,E,F,G are on a non-overlapping different channel, so A,B,C is independent of the other network.&nbsp; <br />
+****
+599445
+0
+Hi Priyanka -- Yes, they were all using the same channel there. I just wanted to point out in the homework that we can have two channels that are not overlapping (as I pointed out in the lecture), and in that case they won't interfere. Just to bring FDMA into the mix.
+****
+-1
+3036064
+0
+on top of the homework the text is like:<br /><br />The&nbsp;<b>due date</b>&nbsp;for this quiz is&nbsp;<b>Tue 1 Oct 2013 6:01 AM CEST (UTC +0200)</b><span>.<br /></span><br />that can't be right - what's the correct due date ?<br /><br />
+****
+310043
+1
+since we won`t earn a statement of accomplishment(or whatever) the due dates are not important... I followed the Algorithms course(offered by Princeton), and it was the same thing...
+****
+599445
+1
+Yeah, no official due dates. That's just there so you can do it anytime throughout the course. My recommendation would be to complete it before the next assignment comes out (e.g. Thursday or Friday).
+****
+-1
+3756090
+2
+I did a first run of the questions, and got all of them wrong! After going back and slowly working out the problems, it was much clearer. As always with scientific &amp; mathematical concepts, I really only know I understand it when I have to work out the problems myself.<br /><br /><br />
+****
+599445
+1
+glad you were able to learn from it. that's what matters here. don't treat it as a quiz!
+****
+-1
+2434675
+2
+At about 5:13 in the CSMA backoff lecture Chris clearly states that after the FIRST collision (i.e. lack of ACK), the transmitter uses the CURRENT window size, and increases the window size after each subsequent collision. The way the question is worded, I assumed that it was talking about that first collision, but apparently it wasn't.<br /><br />It seems to me that a better (and less ambiguous) question would have been "What does it do after the second collision?" or something like.
+****
+599445
+2
+Thank you for pointing this out. That's a good point. I'll reword the question.
+****
+599303
+0
+Incidentally, I also got this question wrong the first time around for the same reason. <br />
+****
+2434675
+1
+Glad to be of service!&nbsp;<br /><br />Thinking about this, I came up a question. I'm assuming that the window size must get reset at some point, otherwise all the transmitters would end up waiting forever. When does that happen? Do the transmitters keep a a running total of collisions, or reset after each ACK, or what?&nbsp;
+****
+599445
+1
+Actually, it gets reset back to its original size once you get the frame through. The purpose of increasing the contention window size is to respond to congestion "frame-by-frame", so once you move to the next one you start over.<br /><br />I didn't want to go into too much detail in the lecture, but maybe I should have clarified!
+****
+-1
+0
+0
+I notice the deadlines for the assignments are in September or October. Does this mean we will have up until then to go over the videos and course material or are there quizzes before hand - e.g. is the homework that has just been posted due soon?
+****
+599303
+0
+
+****
+599303
+0
+<a title="Link: https://class.coursera.org/ni-001/forum/thread?thread_id=101" href="https://class.coursera.org/ni-001/forum/thread?thread_id=101">https://class.coursera.org/ni-001/forum/thread?thread_id=101</a><br /><br />No certificates on offer, so deadlines aren't that important. Best to finish the current homework before the next one is released. Helps keep pace with the rest of the class and you can share in ongoing discussions.<br /><br /><br />
+****
+3950794
+0
+Some may want to join us in Aug or Sep. They set the duration long to make sure that most students who want to take this class are not discouraged because of the dates.
+****
+599445
+0
+We will extend the duration of this course, too, as needed. Don't worry about that.
+****
+-1
+1796276
+2
+HI,<br /><br />I went back to review the homework and the explanations, but was unable to find my earlier completed homework submittal under the homework tab. &nbsp;Instead, I was presented with a fresh homework assignment. Is submitted homework logged in the system and how can I retrieve my earlier submittal for further review?<br /><br />Thanks.
+****
+599445
+1
+Hi Richard,<br /><br />Not entirely sure how to receive that. Maybe other students know? If not, I'm sure the answer is buried on Coursera's site somewhere.<br /><br />Let me know if you figure it out.<br /><br />Thanks,<br />Chris
+****
+599303
+2
+In other coursera courses I have taken, the quizzes etc. are structured so that their is an option like "Show Previous Attempts" and "Review". It makes it easy to revisit any and all of your previous attempts. So, coursera certainly has the functionality. Maybe, the functionality is unique to quizzes and not homeworks or maybe there is some way to configure the homeworks a bit differently. So, maybe the coursera technical staff can help the instructors in formatting the homework/quiz to enable the functionality which is present in other courses. <br /><br />As for the first homework of this course, I also thought that a review button would be useful. I did end up reviewing an attempt by going to 'history' in firefox and selecting some entry like homework feedback or maybe some other wording. So, if you haven't cleared history since doing the homework, you should be able to browse to the relevant date and entry to see the webpage of your attempt along with the explanations. I needed to review the homework as I was commenting on some questions in the forum and needed to revisit the wording of the questions.<br />
+****
+1796276
+1
+<p>Many thanks for your thoughtful suggestions.</p>
+
+****
+1796276
+2
+I was unable to find a standard Coursera means to retrieve submitted homework so I came up with this work-around:&nbsp;I ended up redoing the homework and resubmitting it. When the system provided the response to my new submittal, including your explanations, I saved the window as a "Webpage, Complete" to my hard drive. From there I can reference the full window of the results whenever I wish. So, on the next assignments I'll save the window before I close it, avoiding the redo step.<br /><br /><br />
+****
+-1
+3524714
+0
+Hi,<br /><br />I was wondering how we could access the results of our old homeworks.<br /><br />I had been planning to screenshot it (lol #_#)<br /><br />Thanks, I appreciate it.
+****
+599303
+1
+<a href="https://class.coursera.org/ni-001/forum/thread?thread_id=113">https://class.coursera.org/ni-001/forum/thread?thread_id=113</a><br />
+****
+1796276
+2
+Hi,<br /><br />I had the same question. I ended up redoing the homework and resubmitting it. When the system provided the response to my new submittal, including Chris's explanations, I saved the window as a "Webpage, Complete" to my hard drive. From there I can reference the full window of the results whenever I wish.&nbsp;<br /><br />I was unable to find a standard Coursera means to retrieve submitted homework so I came up with this work-around.<br /><br />Good luck
+****
+599303
+1
+I saved the midterm for future reference according to your method. It works. Surprised that the previous attempts functionality is missing for this course. Other coursera courses have it. A configuration issue possibly.<br />
+****
+599445
+1
+That's strange. Are you taking other courses that are in session right now with this feature?
+****
+599303
+2
+I am not taking any other course right now, but will be starting the Intro to Mathematical Philosophy course in about a week's time. However, I have taken other coursera courses, both recently and a fair time before, in which this has been pretty much a default/standard function (for I think every course). <br /><br />Here is a screenshot from a recently finished course, <a target="" href="http://oi42.tinypic.com/acr774.jpg">http://oi42.tinypic.com/acr774.jpg</a><br />There is a "show previous attempts" button and then clicking the link "review" shows the graded previous attempts. Same thing for midterms and finals. I think Coursera technical staff can advise as to how to enable this functionality.<br />
+****
+3524714
+1
+Hi Mr. Brinton:<br /><br />I am currently taking an Introduction to Finance class and there is a score under the homework/exam and a show previous attempts.<br /><br />Thus, I can confirm Mr. Rashid's picture for other courses as well.<br /><br />~maximaxi
+****
+1498376
+1
+Hi Chris,<br />I had taken other Coursea courses. They showed your score for every attempt in homework/assignment/exam as well as the history&nbsp; of your attempt. You can review the details of particular attempt in the history. Since this course will not issue certificate of accomplishment, there might be no need for the system to monitor the score of the students. For this course, I only print my quizz/exam results after the attempt as the system does not offer such history record.<br /><br />
+****
+599445
+1
+Thanks guys. I'll contact the administrator and see if I can get this feature added. But Li I think that's probably right.
+****
+599303
+0
+If the feature is unavailable as per Li's reason, then no big deal. No pressing need to spend time adding the feature. Manley's save method works well enough. If the administrator has to specially add the feature instead of it being a configuration option that might have been overlooked , then probably not worth the hassle. <br />
+****
+-1
+3846916
+0
+may be there are an error in the homework's correction.<br />thanks
+****
+599445
+0
+Which question?
+****
+3846916
+1
+I remade the calculations, there is<b> no error</b>.<br /><b>Sorry.</b><br />
+****
+599445
+0
+No problem
+****
+-1
+634367
+2
+Hi Chris,<br /><br />It has been my experience with taking courses on coursera, that one can retain contents of a lecture much better, when there are a few multiple choice questions(may/may not be mandatory for course completion) between lectures.<br /><br />I know there are a few MCQ's at the end of each lecture when using html5 player, but this is not available for people like me, who wish to download the lectures and view them offline.<br /><br />Could you please put in more multiple choice questions between lectures and also, if possible place them under the ASSESSMENTS section so we can get the maximum out of this course?<br /><br />Thanks.
+****
+599445
+2
+What if I upload the PDF documents of the multiple choice questions under assessments?
+****
+1498376
+0
+I suggest that we can continue to attempt the quizzes online while viewing the lectures (like other Coursea courses do) but our students can attempt the same quizzes in the assessments section.
+****
+634367
+1
+@Chris: PDFs would be fine too, It would be better if they are followed by a solution set to the questions.
+****
+599445
+2
+Yes, I would have the explanations, too. Let me see what I can do here.
+****
+-1
+3756090
+0
+<p>I
+took a wild stab at the answer for this question and got it wrong, as I don't
+think I did the calculations for the page rank right.&nbsp;<span><br />
+<br />
+I started with these sets of equations:<br />
+</span><br /></p><p>A = c/2 + b/2<br /></p>
+
+<p>B =&nbsp;d</p>
+
+<p>C = a/2</p>
+
+<p>D = a/2 + c/2</p>
+
+<p>A + b + c + d = 1</p>
+
+<p>It's been a long time since I've had to do
+these types of problems; I tried to do the substitution the way it was done in
+the video, but I obviously did something wrong.</p>
+
+<p>So in choosing the "reference"
+variable, is it best to choose one which is alone in an equation, like A?</p>
+
+<p>I would then try to solve the others to be a
+value of A.</p>
+
+<p>so C = A/2</p>
+
+<p>so D = a/2 + c2 = a/2 + a/2 = 2a/2 = a</p>
+
+<p>so b = d = a</p>
+
+<div>
+
+<p>so a + a + a/2 + a = 1</p>
+
+<p>2a/2 + 2a/2 + a/2 + 2a/2 = 1</p>
+
+<p>7a/2 = 1</p>
+
+<p>7a = 2</p>
+
+<p>A = 2/7 = .286</p>
+
+<p>C = a/2 = .286 / 2 = .143</p>
+
+<p>D = b = a = .286</p><p><br /></p><p>I am even close? Where did I go wrong with this? Thanks for any help pointing me in the right direction!</p><p>I don't want the right answer, just some direction as to where I have gone wrong with the math.</p>
+
+</div><div><p><br /></p><p><br /></p>
+
+</div>
+****
+2537987
+0
+Your equation for&nbsp;webpage A is wrong. <br />However the method You use for solving&nbsp;these 4 unknows is the correct one.
+****
+3756090
+0
+Ack, a should be c2 + b, right? I'm not sure how I did that!<br /><br />I'll go plug and play again!
+****
+3756090
+0
+OK, now that I've redone the A calculation, that doesn't change anything. Since I don't actually solve using the A equation, I get the same result!
+****
+2537987
+0
+Or another way using A:<br />a&nbsp;= b + c/2 and c = a/2&nbsp;<br />Then&nbsp;a = b + (a/2)/2 = b + a/4 <br />or b = a - a/4 = 3a/4<br />And&nbsp;b = d = 3a/4
+****
+3756090
+1
+Thanks for your help - that fraction math really got me!
+****
+599445
+1
+When you say<br /><br />"so C = A/2<br /><br /><p>so D = a/2 + c2 = a/2 + a/2 = 2a/2 = a</p><p>so b = d = a</p><div><p>so a + a + a/2 + a = 1"</p><p><span style="color: rgb(51, 51, 51);"><br /></span></p><p><span style="color: rgb(51, 51, 51);">it should be D = a/2 + c/2 = a/2 + </span><b style="color: rgb(51, 51, 51);">a/</b><b style="color: rgb(51, 51, 51);">4</b><span style="color: rgb(51, 51, 51);"> &nbsp;= 3a/4.</span><br /></p></div>
+****
+599445
+0
+Let me know if you have any more questions.
+****
+-1
+2068217
+0
+<span>Which of the following does NOT necessarily happen as the quantity of data consumed by a user increases?<br /><br />i believe the question might be worded wrong<br />here are a few answers and why each answer fits the NOT critiria<br /><br />The price paid increases = if i am on a flat rate plan it will not increase<br />unless i am the supplier..<br /><br /></span><span>The overall utility increases = Overall utility definied &nbsp;as not decreasing that is not to say it wil have to increase . even in the graph of question 20 if the user will use more than 10 gb his utility will not increase<br /></span><span><br />hope i am not confusing fellow students...<br /><br /><br /></span>
+****
+1498376
+0
+Dear David, my question 14 does not like yours. For curosity, can you show your question 14 and choices for us to learn?
+****
+2068217
+0
+here you go<br /><span>q:Which of the following does NOT necessarily happen as the quantity of data consumed by a user increases?<br /></span>options<br /><span>1.The price paid increases<br /></span><span>2.The overall utility increases<br /></span>3.The marginal utility decreases<br />4.the net utility increases<br />5.none of the above<br /><br /><br />
+****
+3905187
+1
+In the context of the demand curve, I think question 14 is framed correctly.
+****
+1498376
+0
+Assuming other things unchanged, it seems that net utility will be decreased. Hence, I think that the answer will be 4.
+****
+599445
+0
+1, 2, &amp; 3 will always happen. 4 will not always happen, especially if it's usage-based and you stray above the demand curve.
+****
+0
+0
+I do not believe that the price paid always increases with usage, even under usage-based pricing.&nbsp; Consider the Verizon plans discussed in lecture, where, for example, a user who subscribes to the "dotted green" plan may increase from 8 GB to 10 GB per month without incurring extra charge.&nbsp; (One may argue that such a user would have started out with the "dashed red" plan instead, but this is assuming that the user was able to accurately predict usage before signing up.)&nbsp; <br />
+****
+599303
+0
+The verizon example isn't pure usage based pricing. There is a flat rate component and then later usage based pricing. This combination of initial flat + later usage pricing is common for most ISPs. So, on the whole it is a usage based plan but not a pure usage based plan (where you would have no flat rate but usage based pricing from the very beginning). <br /><br />However one way to interpret the choice is that the 'price paid increases' regardless of the plan being pure flat, combination or pure usage. Not from the user point of view, but the ISP perspective. For every GB of data consumed, the service provider has to pay the cost. So, I guess it comes down to how you interpret "price paid". Should you interpret it as the cost to the user or the cost in general? Maybe there is some ambiguity there. In a pure usage based plan, price paid by the user will always increase. In other plans, not necessarily. But the price paid by the ISP will always increase regardless of the pricing plan. At least that is my thought process based on the lectures. <br /><br />Is the original question ambiguous? I don't know. However, only one of the multiple choices can be correct. So, I was able to arrive at the answer once I removed any doubts about the distinction between 'net' and 'overall'. If you look at the original question as well as the choices knowing only one of them can be correct, then the answer is pretty clear. But could it be argued that the wording of the question might be inaccurate? I don't know. Maybe so, maybe not.&nbsp; <br />
+****
+0
+0
+Yes, the Verizon example is not a purely used-based plan--but then (see the OP) the question doesn't say anything about what kind of plan is to be considered.&nbsp; <br /><br />So perhaps "price paid" does indeed mean "price paid by the ISP."&nbsp; <br />
+****
+599445
+3
+This is an excellent discussion. I am glad to see this.<br /><br />The answer was meant to be 4, and I still believe that is the best choice of all the answers. But to make this question unambiguous, I should have made one of the following changes:<br /><br />Either<br /><br />1. The pricing scheme is pure usage-based (in which case it doesn't matter whether we are referring to a consumer cost or a network cost, they both increase), or<br /><br />2. The pricing scheme is not specified, and the cost is to the provider (in which case that will always increase regardless of the scheme).<br /><br /><br />
+****
+-1
+565491
+7
+I could not find my values for the baseline predictor in any of the possible&nbsp; answers.<br />I had no problems with questions 1-3.<br />I calculated the user bias of user A: -0.333 and movie I as -0.333.<br />And I got a baseline predictor in cell A-I that is less than any of the values of the possible answers (3.67).<br /><br />Can anyone help?<br />Thanks<br />
+****
+3966773
+5
+I think there is an error in the rating table in Question 1. I swapped the rating of user D, i.e. 5 for movie I and 4 for movie II instead of 4 for movie I and 5 for movie II; and I got all the answers right.
+****
+599445
+2
+That is correct, Peter. Great catch. I fixed this now.
+****
+0
+0
+After completing the homework, I found the explanations were missing from the feedback. Will they be provided at some point?
+****
+1908832
+0
+If I understand correctly, the baseline predictor of a particular pair of movie and user should be the raw average + bias of user +bias of movie. I got the correct raw average in Q2. And I got Q3 right as well. But using the calculation I used in Q3, I got the answer wrong in Q4. Specifically, the bottom middle baseline predictor of the correct answer is not what I expected. Am I missing something?. I &nbsp;got 4+0.67(II bias)+0.5(D bias) = 5.17. Thank you.&nbsp;
+****
+2446281
+0
+I am a Bipolar Manic Depressive patient. I was hospitalized on (August 3rd) with no computer access What so ever! rather I was under the influence of heavy drugs. I have been just (4th September) been released today been and found the course closed alraedy! The course is still OPEN but bound to closed per schedule. I have the prescribed book from AMAZON.com.<br /><br />Can the course be opened for a definite or indefinite period If there are students available to join anew? I am also in a recovery mode from the Hospitalization with drowsy medications prescribed so will not be in a full-time mode of grasping lectured instruction. The decision is totally up to you Prof Mung and Chen.<br /><br />Thankfully yours<br />Sincerely,<br /><span style="color: rgb(51, 51, 51); font-size: 14px;">Ajay Jain &nbsp;&nbsp;</span><br />
+****
+118308
+0
+I think you are right, but how did you realize it?<br /><br />
+****
+3036064
+0
+that helps - thanx<br /><br />
+****
+3966773
+3
+<span>While
+attempting Q4, I noticed that when compared to the closest answer available, my
+column I results were all 0.33 smaller and my II results were all 0.33
+bigger.&nbsp; This led me to suspect that some
+of the ratings in the two columns must have been swapped.</span>
+****
+599445
+1
+Will do that in the next VOH session.
+****
+599303
+0
+If you end up with a prediction less than 1 or more than 5, you would cap the prediction at 1 and 5, respectively. <br />
+****
+1908832
+0
+Thank you.&nbsp;
+****
+1796276
+0
+AHHH!! Thank you.<br /><br />I've spent a lot of time on my spreadsheet trying to figure out where the error was that led to 5.17 for that entry. Your explantion reminded me of that rule. Many thanks.
+****
+599445
+0
+Great to see this discussion!
+****
+3814913
+0
+Ooops got it.&nbsp; My simple mistake.<br /><br />
+****
+-1
+684655
+5
+According to the answers, "-0.976" means "they have virtually no correlation". In the lectures it was said that -1 is strong negative and 0 is no correlation. I think it's a bug.
+****
+565491
+0
+It is not stated, that all possible answers to this question are consistent!<br />
+****
+599445
+3
+My bad. Fixed now. Thanks for pointing this out.
+****
+684655
+0
+I meant that this is the right answer and it is obviously wrong:)
+****
+565491
+0
+then why not choose the other answer starting with -0.976 ?<br />
+****
+684655
+0
+I did and it was marked wrong, and this wrong answer was marked right, that's what I'm talking about.
+****
+565491
+0
+then I would agree: it is a bug.<br />I have the same result, but I didn't yet submit the homework.<br />
+****
+3036064
+0
+it seams to be better to wait some days before submitting the answers.
+****
+-1
+3817769
+1
+<p>Hi all,</p><p>I can't find the solutions for questions 6 and 7. I
+had no problem with questions 1-5. I'm using spreadsheets so it's not
+possible a mistake with the operations. The most strange is that my
+RMSE is better than the options of question 7. 
+</p>
+<p>I attach my cosine table. I'd be grateful if someone
+could share his cosine table. 
+</p><p>
+	
+	
+	
+	
+
+
+
+</p><table>
+	
+	<tbody><tr>
+		<td>Cosine &nbsp; &nbsp;</td><td>I</td>
+		<td>&nbsp; &nbsp; II</td>
+		<td>&nbsp; &nbsp; III</td>
+	</tr>
+	<tr>
+		<td>I</td>
+		<td><br /></td>
+		<td>&nbsp; &nbsp; -0,3846153846</td>
+		<td>&nbsp; &nbsp; -0,9761870602</td>
+	</tr>
+	<tr>
+		<td>II</td>
+		<td>-0,3846153846</td>
+		<td><br /></td>
+		<td>&nbsp; &nbsp; -0,9899494937</td>
+	</tr>
+	<tr>
+		<td>III</td>
+		<td>-0,9761870602</td>
+		<td>&nbsp; &nbsp; -0,9899494937</td>
+		<td><br /></td>
+	</tr>
+</tbody></table>
+<p><br /></p><p>Thanks.<br /></p>
+<p>Rafa.</p>
+****
+0
+1
+I have the same cosine table as yours and my solutions for 6&amp;7 are correct. <br /><br />
+****
+1498376
+2
+You have got the right cosine table. Next step you have to use this similarity table to calculate the neighborhood predictor. For example User A Movie I = baseline predictor + error of neighbor = 3.67 + 1 = 4.67. Since Movie I neighor is Movie III but it has negative correlation of -0,9761870602 and the basline error for Move III for User A is -1, hence the negative of 1 is converted to positive 1 and added to 3.67 to arrive at 4.67. You can then work out for Question 7 based on the neighbor predictor obtained in Question 6.
+****
+1498376
+0
+The forum is to allow us to share knowledge. There is no need &nbsp;to thank ! &nbsp;I think you have completed the homework 3!
+****
+0
+0
+I&nbsp;hate to admit this but I just chose the answer based on&nbsp;a quick glance&nbsp;without doing a cosine table. By looking at the data, you can tell that these two movies would have a negative correlation by simple comparison.&nbsp; The only other choice of negative correlation is incorrect because it approximates -1, which indicates a strong correlation vs 'virtually no correlation.'
+****
+599445
+1
+Thanks Li.
+****
+3817769
+0
+<p>Ok, thank you. Now my results are correct. I was
+taken the absolute value of baseline error table, and then I used the
+cosine table values to establish the direction, in this example all
+minus signs.&nbsp;<span style="color: rgb(51, 51, 51);">The most confusing was that, with my error, the RMSE
+was 0'72. But, it had been a lucky mistake (Maths). :-)</span></p>
+<p>Thanks</p>
+<p>Rafa.</p>
+****
+-1
+4242841
+0
+Just joined the course -it seems to be a very interesting-, do I have the chance to complete the course and earn a statement, I couldn't find somewhere any information about the due date of the midterm exam ?<br />
+****
+3845688
+2
+<p>Go ahead, the course is delayed anyway!</p>
+
+****
+599303
+2
+There are no statements/certificates/grades on offer. I think technically the deadline is sometime late Sept. or early Oct. But, the deadline has no real meaning. Work through the lectures and homeworks. Attempt the midterm when you have completed the first 4 lectures. A tentative schedule for release of remaining videos and final exam is on the syllabus page.<br />
+****
+4242841
+0
+Ok, Thanks a lot Annemarie and Faraz !
+****
+3736081
+0
+Welcome to the course!
+****
+599445
+2
+Will try to accommodate everyone and keep the material up for a while. This course will be offered again probably in February.
+****
+-1
+3756090
+0
+This is more of a conceptual question, although I still can't generate the right answer, I'm not sure how exactly I go about it.<br /><br />I know how to calculate the cosine similarity, and I know that to get the neighborhood predictor we have to do:<br /><br />baseline +/- neighbor's error&nbsp;<br /><br />But I'm not sure how I get from calculating the cosine similarity for one set to get the whole table.<br /><br />I'm looking at the slides from lectures, and the cosines show up on the one for Similarity Values...but how do you decide how to fill out that table?<br /><br />question 5 asked specifically for the correlation between movie I and III...so I could calculate that, but I'm not sure how you fill out the whole chart. Does that make sense?&nbsp;<br /><br /><br />
+****
+599303
+0
+Did you successfully answer question 5? Can you calculate the cosine similarity between movies I and III? I assume you have successfully created an error table for the training set (excluding test set) like on page 15 of slides. (might be relevant to remind that there is a mistake on page 15 cosine calculation for movies I and II. <a target="" href="https://class.coursera.org/ni-001/forum/thread?thread_id=155">https://class.coursera.org/ni-001/forum/thread?thread_id=155</a>).<br /><br />If the answer to question 5 is affirmative, then the next step is to tackle question 6. Question 6 asks us to use movies as neighbors, so we will have to do movie similarity.&nbsp; Create a table whose rows and columns are movies. So, the columns of this table will be movies I, II &amp; III. The rows of this table will be movies I, II &amp; III. We are doing movie similarity, so that is why we are constructing such a table. Now, leave the cells I &amp; I, II &amp; II, III &amp; III 'blank' or '-'. Reason being that it makes no sense to compare a movie with itself. Enter the value of cosine similarity from question 5 into the cell [column I &amp; row III]. This table is symmetric. So, enter this value also in [column III &amp; row I]. Now calculate the cosine similarity for movie pair I &amp; II. Enter the result in the two corresponding cells. Finally, calculate the value for the pair II &amp; III. Enter this value in the remaining two cells. You will end up with a table similar to <a target="" href="https://class.coursera.org/ni-001/forum/thread?thread_id=183">https://class.coursera.org/ni-001/forum/thread?thread_id=183</a> . Notice the symmetry of the table. Now, for each column of this table, pick and circle the value that is closest to +1 or -1. This is the best neighbor movie for the column in question. So, you will circle III in column I, III in column II and II in column III. Notice that even though the table is symmetric, the best neighbor for a given movie might be different e.g. Even though the best neighbor of movie I is movie III, it is not necessarily the case that movie III's best neighbor has to be movie I. Instead, movie III's best neighbor is movie II. <br /><br />Now construct a table with movies as columns and users as rows. Fill in the table as posted by Li Pak Kee in the above link. Fill in the cells of this table accordingly. For any chosen cell, if a user has not rated the best neighbor movie, then you would just enter the baseline prediction into the table.&nbsp; &nbsp; <br /><br />Edit: If cosine value is +ve, baseline prediction + (error) <br />&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; If cosine value is -ve, baseline prediction - (error)<br />&nbsp;&nbsp; &nbsp; &nbsp;  (error) itself can be +ve or -ve. Use the value (including whatever sign) is present in the error table. <br />&nbsp; &nbsp;&nbsp;&nbsp; e.g. If cosine value is +ve and the error of best neighbor is -0.4, then ---&gt; baseline prediction + (-0.4) &nbsp; <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If cosine value is -ve and the error of best neighbor is -0.4, then ---&gt; baseline prediction - (-0.4) <br /><br />
+****
+599445
+0
+Thank you (again) Faraz for your elaborate response.
+****
+-1
+1498376
+3
+Good! Eventually we have the final homework 4 for us to deepen our understanding of course materials of Lecture 7 and 8. There is an improvement in the homework 4 to have the explanation of the answers after we submit our homework 4. We can immediately know how to arrive at the correct answers. We can print the homework 4 with explanations for future revision.<br />
+****
+-1
+2702075
+1
+Does this mean that even after the course ends (Sept 2nd), I can still take the final exam (and all the other assignments such as the midterm exam and homework) and able to view a final grade after taking it?<br /><br />I'm currently handling a few other courses on Coursera (that has fixed datelines for each assignment) as well as my school's exam, but my holiday is coming soon and I plan to finish this course during my holiday.
+****
+1498376
+1
+Since there is no certificate of accomplishment will be issued, the taking of exam is voluntary and the scores will not be counted for grade. Hence, you can take the exam any time. Please complete the assignments of other Coursea courses and your school exam first and make use of your holiday to take the final exam.<br />
+****
+599445
+3
+I'll see what I can do about leaving the course materials up after the close date (which is a week from Monday).
+****
+4145467
+0
+That's wonderfull I cause I am also learning other course and how is the system work. Thank you very much
+****
+1111121
+0
+<p><span>if some does this exams and homework
+are you sure that there is not going to be a certificate this is just for
+finishing it ????????</span></p>
+****
+2702075
+0
+This course doesn't reward you with a certificate at the end.
+****
+-1
+1300744
+1
+I got the last 2 questions in the final exam correct, but was marked wrong. In fact, my answers matched your explanations!
+****
+3855705
+0
+I have the same issue with the last question, although I got question 18 correct. I just posted about this in the Technical Problems section.<br />
+****
+1718310
+0
+Same problem<br />In question18 solution is duplicated<br />
+****
+389284
+0
+Ditto! :) <br />
+****
+3036064
+0
+same on me.<br />my answers on question 18 and 19 were correct, but marked as wrong.<br /><br />
+****
+599445
+1
+No error on 18. Error on 19 is fixed now.
+****
+3855705
+0
+Thank you for fixing the issue! =)<br />
+****
+3036064
+0
+How can I see the corrected score of the final Exam ?<br />Or do I have to repeat the exam again ?<br /><br />
+****
+389284
+0
+Oh!&nbsp; &lt;sheepish grin&gt;&nbsp; :) <br /><br />
+****
+599303
+0
+I am not sure. But I suspect that if you want to confirm that your pre-fix choice was correct, you will have to repeat the exam. There is no "show previous attempts" feature for this course. <br />
+****

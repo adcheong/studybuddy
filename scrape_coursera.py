@@ -23,7 +23,7 @@ def get_threads():
     user_template = "https://www.coursera.org/maestro/api/user/profiles?user-ids=%d&callback=some"
 
     uids = set()
-    thread_num = 170
+    thread_num = 0
     total_threads = 0
 
     # figure out total number of threads
@@ -31,6 +31,7 @@ def get_threads():
     forum_data = json.loads(res.read())
     total_threads = int(forum_data['total_threads'])
     all_output = open('data.yml', "w")
+    java_port = open('java_conv.txt', "w")
 
     print "Scanning ", total_threads, " threads."
 
@@ -57,6 +58,7 @@ def get_threads():
                 all_posts = j_d['posts']
                 all_comments = j_d['comments']
 
+                java_port.write("-1\n")
                 # collecting all posts for a given forum
                 for post_json in all_posts:
                     forum['posts'][post_json[u'id']] = {
@@ -66,6 +68,12 @@ def get_threads():
                             'text': str(post_json[u'post_text']),
                             'comments': [],
                         }
+                    post = forum['posts'][post_json[u'id']]
+                    java_port.write(str(post['user_id']) + "\n")
+                    java_port.write(str(post['upvotes']) + "\n")
+                    java_port.write(post['text'] + "\n")
+                    java_port.write("****\n")
+
 
                 # collecting all comments and placing under the proper post
                 for comment_d in all_comments:
@@ -75,33 +83,43 @@ def get_threads():
                             'upvotes': int(comment_d[u'votes']),
                             'text': str(comment_d[u'comment_text'])
                         }
+
+                    # provide necessary data for the java programs
+                    # In the format: "user_id\n upvotes\n text\n ****""
+                    java_port.write(str(comment['user_id']) + "\n")
+                    java_port.write(str(comment['upvotes']) + "\n")
+                    java_port.write(comment['text'] + "\n")
+                    java_port.write("****\n")
+                    
                     post['comments'].append(comment)
+
                 all_output.write(yaml.dump(forum, default_flow_style=False))
                 all_output.write('\n')
 
-                uids.add(j_d[u'user_id'])
-                posts_and_comments = j_d['posts'] + j_d['comments']
-                for entity in posts_and_comments:
-                    try:
-                        uids.add(entity[u'user_id'])
-                    except KeyError:
-                        pass
+
+                # uids.add(j_d[u'user_id'])
+                # posts_and_comments = j_d['posts'] + j_d['comments']
+                # for entity in posts_and_comments:
+                #     try:
+                #         uids.add(entity[u'user_id'])
+                #     except KeyError:
+                #         pass
         except urllib2.HTTPError, error:
             if error.read() == "Unexpected API error":
                 there_are_more_threads = False
 
     # now we have all the uids let's get the user data
-    users = {}
-    number_of_users = len(uids)
-    count = 1
+    # users = {}
+    # number_of_users = len(uids)
+    # count = 1
 
-    print "Crawling %d user profiles." % (number_of_users,)
-    for uid in uids:
-        data = get_page(user_template % (uid,), True).read()
-        data = data[len("some") + 2 : len(data) - 2].strip()
-        if data:
-            user = json.loads(data)
-            users[uid] = str(user[u'display_name'])
-        count += 1
-    print users
+    # print "Crawling %d user profiles." % (number_of_users,)
+    # for uid in uids:
+    #     data = get_page(user_template % (uid,), True).read()
+    #     data = data[len("some") + 2 : len(data) - 2].strip()
+    #     if data:
+    #         user = json.loads(data)
+    #         users[uid] = str(user[u'display_name'])
+    #     count += 1
+    # print users
 get_threads()

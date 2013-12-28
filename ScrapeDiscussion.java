@@ -8,195 +8,97 @@ import java.net.*;
 public class ScrapeDiscussion {
 
 
-	// Class to keep everything we want
-	private class PostThread
+    // Class to keep everything we want
+    private class PostThread
     {
         String qTopic;
         int[] teacher;
         int[] student;
     }
 
-    // Read contents from text file -- same as ScrapeCoursera
-    public void readFileContent(String filename) throws IOException 
+    private void parsePosts(String dataFile) throws IOException
     {
-        BufferedReader in = new BufferedReader(new FileReader(filename));
-        StringBuilder outputPage = new StringBuilder();
-        String inputLine;
-        
+        BufferedReader in = new BufferedReader(new FileReader(dataFile));
         while (in.ready())
         {
-            inputLine = in.readLine();
-            outputPage.append(inputLine);
-        }
-
-        in.close();
-
-        String page = outputPage.toString();
-        extractposts(page);
-    }
-
-    // Extract relevant things from each discussion forum
-    private void extractposts(String page)
-    {
-        String start = "<div class=\"course-forum-post-container\">";
-        String end = "<div class=\"course-forum-comments-container\">";
-
-        int startIndex = page.indexOf(start);
-
-        page = page.substring(startIndex);
-
-        startIndex = 0;
-        int endIndex = page.indexOf(end);
-
-        // Change of end as question post is different from all other subsequent posts
-        String start1 = "<div class=\"course-forum-post-top-container\">";
-        String start2 = "class=\"course-forum-post-view-container \">";
-
-        end = "<div id=\"course-forum-post-vote-hint-";
-        boolean isQuestion = true;
-
-        while (startIndex >= 0 && endIndex >= 0)
-        {
-            String forumElement = page.substring(startIndex, endIndex);
-
-            //System.out.println(forumElement);
-            //System.out.println("==================================================");
-            extractPostInfo(forumElement, isQuestion);
-            
-            isQuestion = false;
-            page = page.substring(endIndex);
-
-            int start1Index = page.indexOf(start1);
-            if (start1Index == -1)
-            	start1Index = Integer.MAX_VALUE;
-            int start2Index = page.indexOf(start2);
-            if (start2Index == -1)
-            	start2Index = Integer.MAX_VALUE;
-
-            if (start1Index == Integer.MAX_VALUE && start2Index == Integer.MAX_VALUE)
-            {
-            	startIndex = -1;
-            	break;
-            }
-            else if (start1Index < start2Index)
-            	startIndex = start1Index;
-            else
-            	startIndex = start2Index;
-
-            // startIndex = page.indexOf(start);
-            page = page.substring(startIndex + (startIndex == start1Index ? start1.length() : start2.length()));             
-            startIndex = 0;
-
-            endIndex = page.indexOf(end);
+            extractPostInfo(in);
         }
     }
 
     // Extract relevant information from each post in a discussion forum
-    private void extractPostInfo(String forumElement, boolean isQuestion)
+    private void extractPostInfo(BufferedReader in) throws IOException
     {
-    	// To figure out topic/concept in question
-    	if (isQuestion)
-    	{
-    		String[] concepts = {"DANGLING NODES & DSICONNECTED GRAPH", "USER-MOVIE INTERACTIONS",
-    							 "SHARING IS HARD & CONSENSUS IS HARD","CROWDS",
-    							 "NETWORK","LAYERS ON LAYERS",
-    							 "MOBILE PENETRATION", "MULTIPLE ACCESS", "0G", "FDMA", "1G", "ATTENUATION",
-    							 "2G", "TDMA", "CDMA", "COCKTAIL PARTY ANALOGY", "NEAR-FAR PROBLEM", "SIR", "DPC", 
-    							 "DPC COMPUTATION", "NEGATIVE FEEDBACK", "CONVERGENCE", "DISTRIBUTED COMPUTATION", "HANDOFFS",
-    							 "CDMA & 3G", "UNLICENSED SPECTRUM", "TRAFFIC ANALOGY", "WIFI STANDARDS", "WIFI DEPLOYMENT", 
-    							 "ACCESSING WIFI", "INTERFERENCE", "CONTROLLED VS RANDOM ACCESS", "RANDOM ACCESS PROTOCOLS & ALOHA",
-    							 "ALOHA THROUGHPUT", "ALOHA INSCALABILITY", "ALOHA SUCCESSFUL TRANSMISSION", "CSMA BACKOFF", "CSMA VS ALOHA",
-    							 "SEARCH ENGINES", "WEBGRAPHS", "IN-DEGREE", "THE RANDOM SURFER", "IMPORTANCE EQUATIONS", "NEW WORD IN THE DICTIONARY",
-    							 "PAGERANK EXAMPLE CALCULATION", "ROBUST RANKING", "OUR MOBILE DATA PLANS", "DEMAND FOR DATA", "JOBS' INEQUALITY OF CAPACITY",
-    							 "USAGE-BASED PLANS", "COMPARING PRICING SCHEMES", "UTILITY", "DEMAND", "DEMAND CURVE & NET UTILITY", "THE TRAGEDY OF COMMONS",
-    							 "FLAT RATE CREATES WASTE & FAVORS HEAVY USERS", "CSMA CARRIER SENSING", "NETFLIX TIMELINE", "VIDEO STREAMING", "NETFLIX RECOMMENDATION SYSTEM",
-    							 "NETFLIX PRIZE: LOGISTICS", "RAW AVERAGE", "BASELINE PREDICTOR", "COSINE SIMILARITY", "SIMILARITY VALUES", "LEVERAGING SIMILARITY", 
-    							 "NETFLIX PRIZE: THE COMPETITION", "NEIGHBORHOOD PREDICTOR", "SHARING", "ARPANET", "NSFNET", "CIRCUIT SWITCHING", "PACKET SWITCHING",
-    							 "DISTRIBUTED HIERARCHY", "ROUTING TRAFFIC", "IP ADDRESS", "PREFIX & HOST IDENTIFIER", "DHCP & NAT", "ROUTING PROTOCOLS", "FORWARDING",
-    							 "SHORTEST PATH", "BELLMAN-FORD", "COST UPDATES", "RIP AND MESSAGE PASSING", "DIVIDE AND CONQUER", "LAYERED PROTOCOL STACK", "TRANSPORT & NETWORK LAYERS",
-    							 "HEADERS", "PROCESSING LAYERS", "CONTROLLING CONGESTION", "TRAFFIC JAM & BUCKET ANALOGY", "END HOSTS", "CAUTIOUS GROWTH OF WINDOW SIZE",
-    							 "SLIDING WINDOW", "INFERRING CONGESTION", "CONGESTION CONTROL VERSIONS", "LOSS-BASED CONGESTION INFERENCE", "DELAY-BASED CONGESTION INFERENCE",
-    							 "DISTRIBUTED CONGESTION CONTROL"};
+        // Extract the user id as well as the upvotes
+        int uid = Integer.parseInt(in.readLine());
+        boolean isQuestion = false;
 
-    		String text = "class=\"course-forum-post-text\">";
-    		int textIndex = forumElement.indexOf(text) + text.length();
-    		forumElement = forumElement.substring(textIndex);
+        // check to see if there is a -1 in the front, if so, this is a new thread
+        // if not, continue as normally.
+        if (uid < 0)
+        {
+            isQuestion = true;
+            uid = Integer.parseInt(in.readLine());
+        }
 
-    		int endtextIndex = forumElement.indexOf("</div>");
-    		String capText = forumElement.substring(0, endtextIndex).toUpperCase();
+        int upvotes = Integer.parseInt(in.readLine());
+        String text = "";
+        String line = in.readLine();
+        while (!line.equals("****"))
+        {
+            text += line + " ";
+            line = in.readLine();
+        }
+        text = text.toUpperCase();
 
-    		// int count = 0;
-    		// while (capText.charAt(count) != '\0')
-    		// {
-    		// 	if (capText.charAt(count) >='a' && capText.charAt(count) <= 'z')
-    		// 		capText.charAt(count) -= 32;
+        // To figure out topic/concept in question
+        if (isQuestion)
+        {
+            String[] concepts = {"DANGLING NODES & DSICONNECTED GRAPH", "USER-MOVIE INTERACTIONS",
+                                 "SHARING IS HARD & CONSENSUS IS HARD","CROWDS",
+                                 "NETWORK","LAYERS ON LAYERS",
+                                 "MOBILE PENETRATION", "MULTIPLE ACCESS", "0G", "FDMA", "1G", "ATTENUATION",
+                                 "2G", "TDMA", "CDMA", "COCKTAIL PARTY ANALOGY", "NEAR-FAR PROBLEM", "SIR", "DPC", 
+                                 "DPC COMPUTATION", "NEGATIVE FEEDBACK", "CONVERGENCE", "DISTRIBUTED COMPUTATION", "HANDOFFS",
+                                 "CDMA & 3G", "UNLICENSED SPECTRUM", "TRAFFIC ANALOGY", "WIFI STANDARDS", "WIFI DEPLOYMENT", 
+                                 "ACCESSING WIFI", "INTERFERENCE", "CONTROLLED VS RANDOM ACCESS", "RANDOM ACCESS PROTOCOLS & ALOHA",
+                                 "ALOHA THROUGHPUT", "ALOHA INSCALABILITY", "ALOHA SUCCESSFUL TRANSMISSION", "CSMA BACKOFF", "CSMA VS ALOHA",
+                                 "SEARCH ENGINES", "WEBGRAPHS", "IN-DEGREE", "THE RANDOM SURFER", "IMPORTANCE EQUATIONS", "NEW WORD IN THE DICTIONARY",
+                                 "PAGERANK EXAMPLE CALCULATION", "ROBUST RANKING", "OUR MOBILE DATA PLANS", "DEMAND FOR DATA", "JOBS' INEQUALITY OF CAPACITY",
+                                 "USAGE-BASED PLANS", "COMPARING PRICING SCHEMES", "UTILITY", "DEMAND", "DEMAND CURVE & NET UTILITY", "THE TRAGEDY OF COMMONS",
+                                 "FLAT RATE CREATES WASTE & FAVORS HEAVY USERS", "CSMA CARRIER SENSING", "NETFLIX TIMELINE", "VIDEO STREAMING", "NETFLIX RECOMMENDATION SYSTEM",
+                                 "NETFLIX PRIZE: LOGISTICS", "RAW AVERAGE", "BASELINE PREDICTOR", "COSINE SIMILARITY", "SIMILARITY VALUES", "LEVERAGING SIMILARITY", 
+                                 "NETFLIX PRIZE: THE COMPETITION", "NEIGHBORHOOD PREDICTOR", "SHARING", "ARPANET", "NSFNET", "CIRCUIT SWITCHING", "PACKET SWITCHING",
+                                 "DISTRIBUTED HIERARCHY", "ROUTING TRAFFIC", "IP ADDRESS", "PREFIX & HOST IDENTIFIER", "DHCP & NAT", "ROUTING PROTOCOLS", "FORWARDING",
+                                 "SHORTEST PATH", "BELLMAN-FORD", "COST UPDATES", "RIP AND MESSAGE PASSING", "DIVIDE AND CONQUER", "LAYERED PROTOCOL STACK", "TRANSPORT & NETWORK LAYERS",
+                                 "HEADERS", "PROCESSING LAYERS", "CONTROLLING CONGESTION", "TRAFFIC JAM & BUCKET ANALOGY", "END HOSTS", "CAUTIOUS GROWTH OF WINDOW SIZE",
+                                 "SLIDING WINDOW", "INFERRING CONGESTION", "CONGESTION CONTROL VERSIONS", "LOSS-BASED CONGESTION INFERENCE", "DELAY-BASED CONGESTION INFERENCE",
+                                 "DISTRIBUTED CONGESTION CONTROL"};
 
-    		// 	count++; 
-    		// }
-
-    		for (int i = 0; i < concepts.length; i++)
-    		{
-    			if (capText.indexOf(concepts[i]) != -1)
-    			{
-    				System.out.println("Question Concept: " + concepts[i]);
-    				break;
-    			}
-    		}
-    	}
-
-    	// No point checking for upvotes in question - so else
-    	else
-    	{
-    		// Check if upvotes exist
-    		String upvote = "<span class=\"course-forum-post-vote-count course-forum-votes-positive\">";
-    		int upIndex = forumElement.indexOf(upvote);
-
-    		// If yes, add to teacher array
-			if (upIndex != -1)
-			{
-				String name = "<a href=\"https://class.coursera.org/ni-001/forum/profile?user_id=";
-
-                // To take care of the posts whose authors are Anonymous (not authors whose names are Anonymous)
-                if (forumElement.indexOf(name) != -1)
-                {
-                    int nameIndex = forumElement.indexOf(name) + name.length();
-    			    forumElement = forumElement.substring(nameIndex);
-
-                    int endNameIndex = forumElement.indexOf("\"");
-    			    System.out.println("Teacher: " + forumElement.substring(0, endNameIndex));
-			    }
-            }
-
-            // Check for students only if not teachers - i.e. ignore questions marks in posts with upvotes
-            else    		
+            for (int i = 0; i < concepts.length; i++)
             {
-                // Get the user id of the author of the post
-                String name = "<a href=\"https://class.coursera.org/ni-001/forum/profile?user_id=";
-                if (forumElement.indexOf(name) != -1)
+                if (text.indexOf(concepts[i]) != -1)
                 {
-                    int nameIndex = forumElement.indexOf(name) + name.length();
-                    forumElement = forumElement.substring(nameIndex);
-
-                    int endNameIndex = forumElement.indexOf("\"");
-                    String postAuthor = forumElement.substring(0, endNameIndex);
-
-                    // Checking for more students - i.e people who ask questions in supplementary posts
-                    String question = "class=\"course-forum-post-text\">";
-                    int qIndex = forumElement.indexOf(question) + question.length();
-                    forumElement = forumElement.substring(qIndex);
-
-                    int endtextIndex = forumElement.indexOf("</div>");  
-                    forumElement = forumElement.substring(0, endtextIndex);
-
-                    // Go through the text of the post
-                    String qMark = "?";
-                    if (forumElement.indexOf(qMark) != -1)
-                    {
-                        System.out.println("Student for supplementary post: " + postAuthor);
-                    }
+                    System.out.println("Question Concept: " + concepts[i]);
+                    break;
                 }
             }
-    	}
+        }
+
+        // No point checking for upvotes in question - so else
+        else
+        {
+            // If yes, add to teacher array
+            if (upvotes > 0 && uid != 0)
+                System.out.println("Teacher: " + uid);
+
+            // Check for students only if not teachers - i.e. ignore questions marks in posts with upvotes
+            else            
+            {
+                // Go through the text of the post
+                if (text.indexOf("?") != -1 && uid != 0)
+                    System.out.println("Student for supplementary post: " + uid);
+            }
+        }
     }
 
     // main function to execute the scraping
@@ -204,7 +106,9 @@ public class ScrapeDiscussion {
         ScrapeDiscussion sc = new ScrapeDiscussion();
 
         String htmlData = "lecturedis1.txt";
+        String dataFile = "java_conv.txt";
 
-        sc.readFileContent(htmlData);
+//        sc.readFileContent(htmlData);
+        sc.parsePosts(dataFile);
     }
 }
