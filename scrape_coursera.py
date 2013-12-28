@@ -23,7 +23,7 @@ def get_threads():
     user_template = "https://www.coursera.org/maestro/api/user/profiles?user-ids=%d&callback=some"
 
     uids = set()
-    thread_num = 0
+    thread_num = 170
     total_threads = 0
 
     # figure out total number of threads
@@ -79,13 +79,13 @@ def get_threads():
                 all_output.write(yaml.dump(forum, default_flow_style=False))
                 all_output.write('\n')
 
-                # uids.add(j_d[u'user_id'])
-                # posts_and_comments = j_d['posts'] + j_d['comments']
-                # for entity in posts_and_comments:
-                #     try:
-                #         uids.add(entity[u'user_id'])
-                #     except KeyError:
-                #         pass
+                uids.add(j_d[u'user_id'])
+                posts_and_comments = j_d['posts'] + j_d['comments']
+                for entity in posts_and_comments:
+                    try:
+                        uids.add(entity[u'user_id'])
+                    except KeyError:
+                        pass
         except urllib2.HTTPError, error:
             if error.read() == "Unexpected API error":
                 there_are_more_threads = False
@@ -96,14 +96,12 @@ def get_threads():
     count = 1
 
     print "Crawling %d user profiles." % (number_of_users,)
-    temp_count = 0
     for uid in uids:
         data = get_page(user_template % (uid,), True).read()
-        # data = data[len(CALLBACK) + 2 : len(data) - 2].strip()
+        data = data[len("some") + 2 : len(data) - 2].strip()
         if data:
             user = json.loads(data)
-            users[uid] = user[u'display_name']
+            users[uid] = str(user[u'display_name'])
         count += 1
-        temp_count += 1
     print users
 get_threads()
