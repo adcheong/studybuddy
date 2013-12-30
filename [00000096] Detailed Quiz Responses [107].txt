@@ -1,0 +1,3518 @@
+Questions
+---------------
+Q-0	Which of the following would NOT affect the outcome of a collision between two frames?
+
+Student Answers
+---------------
+
+[1152]	Bocheng Zhou
+Q-0	[01] Tue 23 Jul 2013 12:42 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 23 Jul 2013 12:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1587]	Anonymous
+Q-0	[01] Sat 20 Jul 2013  2:56 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sat 20 Jul 2013  2:57 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 20 Jul 2013  2:57 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3342]	Gonzalo Herreros Gonzalez
+Q-0	[01] Thu 18 Jul 2013 12:15 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 18 Jul 2013 12:15 PM UTC (UTC +0000)	1.00	None of the above.
+
+[5249]	Anonymous
+Q-0	[01] Tue 16 Jul 2013 10:05 AM UTC (UTC +0000)	1.00	None of the above.
+
+[5273]	Dmytro Krasnoshtan
+Q-0	[01] Tue 16 Jul 2013  9:57 PM UTC (UTC +0000)	1.00	None of the above.
+
+[6283]	martin zhuang
+Q-0	[01] Wed 17 Jul 2013  3:54 AM UTC (UTC +0000)	1.00	None of the above.
+
+[8331]	anisa
+Q-0	[01] Thu 29 Aug 2013  7:49 AM UTC (UTC +0000)	1.00	None of the above.
+
+[8516]	Anonymous
+Q-0	[01] Mon 15 Jul 2013 12:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[9371]	Estevo Urbano Caamanho Castro
+Q-0	[01] Tue 16 Jul 2013  3:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[9849]	Ingyu Lee
+Q-0	[01] Sat 13 Jul 2013  2:44 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sat 13 Jul 2013  2:44 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Sat 13 Jul 2013  2:45 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[13796]	Friedrich
+Q-0	[01] Wed 17 Jul 2013  8:27 PM UTC (UTC +0000)	1.00	None of the above.
+
+[13972]	Kaman Cheung
+Q-0	[01] Wed 17 Jul 2013  6:19 AM UTC (UTC +0000)	1.00	None of the above.
+
+[14501]	German Ortiz
+Q-0	[01] Thu 15 Aug 2013  1:42 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 15 Aug 2013  1:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[15272]	Anonymous
+Q-0	[01] Wed 24 Jul 2013 10:50 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 24 Jul 2013 10:50 AM UTC (UTC +0000)	1.00	None of the above.
+
+[17500]	Sergey Zinov
+Q-0	[01] Fri 26 Jul 2013  9:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[23296]	Mutaamba Maasha
+Q-0	[01] Sun 28 Jul 2013  3:58 AM UTC (UTC +0000)	1.00	None of the above.
+
+[25710]	Jeffrey Birkner
+Q-0	[01] Fri 19 Jul 2013  9:10 PM UTC (UTC +0000)	1.00	None of the above.
+
+[27268]	Stephen Horwat
+Q-0	[01] Tue 16 Jul 2013  3:13 AM UTC (UTC +0000)	1.00	None of the above.
+
+[32951]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  6:23 PM UTC (UTC +0000)	1.00	None of the above.
+
+[33462]	Silvano Spencer
+Q-0	[01] Sun 21 Jul 2013  7:09 PM UTC (UTC +0000)	1.00	None of the above.
+
+[35459]	Anonymous
+Q-0	[01] Thu 18 Jul 2013 10:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[37014]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  1:42 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 22 Jul 2013  1:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[39292]	Murphy McMahon
+Q-0	[01] Thu 25 Jul 2013  2:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[39836]	Mohammad Muntasir Biojid Sirajee
+Q-0	[01] Tue  6 Aug 2013  8:11 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Tue  6 Aug 2013  8:12 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Tue  6 Aug 2013  8:12 PM UTC (UTC +0000)	1.00	None of the above.
+
+[41178]	Donald Bashline
+Q-0	[01] Sun 14 Jul 2013  5:33 PM UTC (UTC +0000)	1.00	None of the above.
+
+[50024]	Subhankar Sinha
+Q-0	[01] Tue  3 Sep 2013  9:19 PM UTC (UTC +0000)	1.00	None of the above.
+
+[50242]	Sean Lip
+Q-0	[01] Sun 14 Jul 2013 10:25 PM UTC (UTC +0000)	1.00	None of the above.
+
+[51494]	Vineet Pruthi
+Q-0	[01] Mon 22 Jul 2013  5:28 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 22 Jul 2013  5:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[54103]	Gawain Bosworth
+Q-0	[01] Sun 14 Jul 2013  3:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[59153]	Stanislav
+Q-0	[01] Sun  1 Sep 2013  7:19 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun  1 Sep 2013  7:19 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sun  1 Sep 2013  7:19 AM UTC (UTC +0000)	1.00	None of the above.
+
+[67423]	Bilal Mahmood
+Q-0	[01] Sat 27 Jul 2013 12:16 PM UTC (UTC +0000)	1.00	None of the above.
+
+[67712]	nidhin pattaniyil
+Q-0	[01] Tue 16 Jul 2013  4:57 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Tue 16 Jul 2013  4:57 PM UTC (UTC +0000)	1.00	None of the above.
+
+[67899]	Alexandra Poroykova
+Q-0	[01] Sat 27 Jul 2013 12:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[71809]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  5:17 AM UTC (UTC +0000)	1.00	None of the above.
+
+[72173]	Jedrzej Sztompka
+Q-0	[01] Sat 24 Aug 2013 11:38 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 24 Aug 2013 11:38 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sat 24 Aug 2013 11:38 AM UTC (UTC +0000)	1.00	None of the above.
+
+[78687]	Natalia Sakharniuk
+Q-0	[01] Tue 30 Jul 2013  5:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[78954]	paul brakke
+Q-0	[01] Sun 14 Jul 2013  1:04 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Sun 14 Jul 2013  6:36 PM UTC (UTC +0000)	1.00	None of the above.
+
+[92726]	Rafal Jasiak
+Q-0	[01] Mon 15 Jul 2013  5:48 AM UTC (UTC +0000)	1.00	None of the above.
+
+[101222]	Jonghyun Park
+Q-0	[01] Tue 23 Jul 2013  6:34 AM UTC (UTC +0000)	1.00	None of the above.
+
+[110855]	Anonymous
+Q-0	[01] Wed 17 Jul 2013 12:39 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 17 Jul 2013 12:39 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Wed 17 Jul 2013 12:39 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[115806]	Tadas
+Q-0	[01] Sat 20 Jul 2013 12:09 PM UTC (UTC +0000)	1.00	None of the above.
+
+[118308]	Otma
+Q-0	[01] Mon 15 Jul 2013  6:40 PM UTC (UTC +0000)	1.00	None of the above.
+
+[121674]	Evan Pokroy
+Q-0	[01] Thu 18 Jul 2013 11:50 AM UTC (UTC +0000)	1.00	None of the above.
+
+[122953]	Ray Mulligan
+Q-0	[01] Sat 13 Jul 2013  4:15 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 13 Jul 2013  4:15 PM UTC (UTC +0000)	1.00	None of the above.
+
+[126570]	Nicholas Parsons
+Q-0	[01] Wed 14 Aug 2013  5:51 AM UTC (UTC +0000)	1.00	None of the above.
+
+[138405]	bill palacio
+Q-0	[01] Sat 13 Jul 2013  4:21 AM UTC (UTC +0000)	1.00	None of the above.
+
+[148701]	Rostyslav Fridman
+Q-0	[01] Tue 23 Jul 2013 12:35 PM UTC (UTC +0000)	1.00	None of the above.
+
+[154804]	James C Weaver
+Q-0	[01] Sat 13 Jul 2013  2:55 PM UTC (UTC +0000)	1.00	None of the above.
+
+[160199]	Anonymous
+Q-0	[01] Fri 19 Jul 2013  3:57 AM UTC (UTC +0000)	1.00	None of the above.
+
+[164947]	Amy
+Q-0	[01] Mon 29 Jul 2013  7:44 PM UTC (UTC +0000)	1.00	None of the above.
+
+[177620]	Anonymous
+Q-0	[01] Sat 20 Jul 2013  8:23 PM UTC (UTC +0000)	1.00	None of the above.
+
+[184074]	Wotong Shen
+Q-0	[01] Sun 21 Jul 2013  3:18 AM UTC (UTC +0000)	1.00	None of the above.
+
+[190487]	Anonymous
+Q-0	[01] Wed 21 Aug 2013  6:21 AM UTC (UTC +0000)	1.00	None of the above.
+
+[194059]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  8:22 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  8:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[198247]	Rick Albano
+Q-0	[01] Thu 18 Jul 2013  8:25 PM UTC (UTC +0000)	1.00	None of the above.
+
+[203444]	Bill McGarrigle
+Q-0	[01] Sun 21 Jul 2013  4:39 AM UTC (UTC +0000)	1.00	None of the above.
+
+[212994]	Utsav Banerjee
+Q-0	[01] Fri 26 Jul 2013  3:29 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 26 Jul 2013  3:30 PM UTC (UTC +0000)	1.00	None of the above.
+
+[219161]	Jill Dunham
+Q-0	[01] Sat 27 Jul 2013  3:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[219433]	Anonymous
+Q-0	[01] Fri 23 Aug 2013  1:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[222524]	Anonymous
+Q-0	[01] Mon 15 Jul 2013 10:33 AM UTC (UTC +0000)	1.00	None of the above.
+
+[223087]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  9:12 PM UTC (UTC +0000)	1.00	None of the above.
+
+[227287]	Shirlyn Wong
+Q-0	[01] Mon 15 Jul 2013 10:07 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Mon 15 Jul 2013 10:07 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon 15 Jul 2013 10:07 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[231371]	Konstantin Ivanov
+Q-0	[01] Wed 17 Jul 2013  5:54 AM UTC (UTC +0000)	1.00	None of the above.
+
+[234639]	Wang Duo
+Q-0	[01] Fri  9 Aug 2013  3:28 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri  9 Aug 2013  3:28 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Fri  9 Aug 2013  3:28 AM UTC (UTC +0000)	1.00	None of the above.
+
+[234924]	anirudh
+Q-0	[01] Thu  1 Aug 2013  4:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[244969]	Jiajun Luo
+Q-0	[01] Thu 18 Jul 2013  5:21 AM UTC (UTC +0000)	1.00	None of the above.
+
+[250237]	Ilya Batozskiy
+Q-0	[01] Tue 16 Jul 2013  6:04 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 16 Jul 2013  6:04 AM UTC (UTC +0000)	1.00	None of the above.
+
+[251992]	Rich Walsh
+Q-0	[01] Fri 12 Jul 2013  9:06 PM UTC (UTC +0000)	1.00	None of the above.
+
+[257434]	JON A JONES
+Q-0	[01] Tue 23 Jul 2013  8:41 AM UTC (UTC +0000)	1.00	None of the above.
+
+[259264]	Anthony Kolasny
+Q-0	[01] Fri 12 Jul 2013  9:51 PM UTC (UTC +0000)	1.00	None of the above.
+
+[260380]	jinghua
+Q-0	[01] Tue 27 Aug 2013  5:18 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Tue 27 Aug 2013  5:18 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Tue 27 Aug 2013  5:18 AM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[263057]	Qiang Li
+Q-0	[01] Sun 14 Jul 2013  6:43 AM UTC (UTC +0000)	1.00	None of the above.
+
+[277571]	Robert
+Q-0	[01] Fri 12 Jul 2013  7:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[281695]	Mark DeSantis
+Q-0	[01] Mon 15 Jul 2013  7:35 PM UTC (UTC +0000)	1.00	None of the above.
+
+[290590]	Anonymous
+Q-0	[01] Fri 19 Jul 2013  6:04 PM UTC (UTC +0000)	1.00	None of the above.
+
+[292948]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  1:38 AM UTC (UTC +0000)	1.00	None of the above.
+
+[295601]	Anonymous
+Q-0	[01] Wed 31 Jul 2013  4:12 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Wed 31 Jul 2013  4:12 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Wed 31 Jul 2013  4:12 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[298903]	Pedro Baez
+Q-0	[01] Sat 20 Jul 2013  5:16 PM UTC (UTC +0000)	1.00	None of the above.
+
+[299297]	susan wilson
+Q-0	[02] Mon 15 Jul 2013 10:07 PM UTC (UTC +0000)	1.00	None of the above.
+
+[305077]	Radu Aldea
+Q-0	[01] Thu 18 Jul 2013  8:15 AM UTC (UTC +0000)	1.00	None of the above.
+
+[310826]	Greg Doyle
+Q-0	[01] Sun 14 Jul 2013  6:01 PM UTC (UTC +0000)	1.00	None of the above.
+
+[325086]	Sampath Kumar
+Q-0	[01] Fri 19 Jul 2013  7:40 AM UTC (UTC +0000)	1.00	None of the above.
+
+[326609]	Lior Meyer
+Q-0	[01] Wed 31 Jul 2013  9:26 AM UTC (UTC +0000)	1.00	None of the above.
+
+[328093]	keiko fukunaga
+Q-0	[01] Sat 13 Jul 2013  8:50 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 13 Jul 2013  8:50 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sat 13 Jul 2013  8:50 AM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[04] Tue 16 Jul 2013  2:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[328127]	William Pak
+Q-0	[01] Sat 20 Jul 2013 12:47 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 20 Jul 2013 12:47 PM UTC (UTC +0000)	1.00	None of the above.
+
+[329915]	John King
+Q-0	[01] Wed 17 Jul 2013  1:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[332085]	Pauline
+Q-0	[01] Wed 17 Jul 2013 11:00 AM UTC (UTC +0000)	1.00	None of the above.
+
+[344180]	Edward Niescior
+Q-0	[01] Wed 17 Jul 2013  4:27 PM UTC (UTC +0000)	1.00	None of the above.
+
+[345701]	Laurence Day
+Q-0	[01] Mon 22 Jul 2013  9:35 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Thu  8 Aug 2013  4:13 AM UTC (UTC +0000)	1.00	None of the above.
+
+[379153]	Teresa Riordan
+Q-0	[01] Thu  1 Aug 2013  8:00 PM UTC (UTC +0000)	1.00	None of the above.
+
+[379567]	Mark Rakowski
+Q-0	[01] Mon 15 Jul 2013  1:55 AM UTC (UTC +0000)	1.00	None of the above.
+
+[394664]	Mamoru Saito
+Q-0	[01] Fri 19 Jul 2013 12:38 AM UTC (UTC +0000)	1.00	None of the above.
+
+[398294]	Anonymous
+Q-0	[01] Mon 22 Jul 2013 11:55 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 22 Jul 2013 11:55 PM UTC (UTC +0000)	1.00	None of the above.
+
+[399024]	Antonio Feijoo
+Q-0	[01] Tue 23 Jul 2013  1:39 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Tue 23 Jul 2013  1:39 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Tue 23 Jul 2013  1:39 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[411658]	Nelson Garcia de Paula
+Q-0	[01] Sun 21 Jul 2013  5:27 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 21 Jul 2013  5:27 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sun 21 Jul 2013  5:27 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[435835]	John Murphy
+Q-0	[01] Thu 19 Sep 2013  5:01 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 19 Sep 2013  5:01 PM UTC (UTC +0000)	1.00	None of the above.
+
+[441112]	Federico Tagliani
+Q-0	[01] Tue 23 Jul 2013  1:42 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 23 Jul 2013  1:42 AM UTC (UTC +0000)	1.00	None of the above.
+
+[448079]	Darwin Tormis
+Q-0	[01] Mon 22 Jul 2013  2:25 PM UTC (UTC +0000)	1.00	None of the above.
+
+[450585]	Anonymous
+Q-0	[01] Sun 14 Jul 2013 10:46 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013 10:46 AM UTC (UTC +0000)	1.00	None of the above.
+
+[453093]	Cong Feng
+Q-0	[01] Wed 24 Jul 2013  7:25 AM UTC (UTC +0000)	1.00	None of the above.
+
+[458340]	Koshy Mohan George
+Q-0	[01] Sat 20 Jul 2013  6:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[464581]	Michael Bain
+Q-0	[01] Sun 14 Jul 2013  4:18 PM UTC (UTC +0000)	1.00	None of the above.
+
+[467899]	Herrick Gibbons
+Q-0	[01] Mon 22 Jul 2013  2:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[468841]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  2:20 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 16 Jul 2013  2:21 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Tue 16 Jul 2013  2:21 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[471028]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  7:34 PM UTC (UTC +0000)	1.00	None of the above.
+
+[471348]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  8:23 PM UTC (UTC +0000)	1.00	None of the above.
+
+[477868]	Corrie Watt
+Q-0	[01] Fri 12 Jul 2013  8:59 PM UTC (UTC +0000)	1.00	None of the above.
+
+[482173]	sunku venkata subramanya harsha
+Q-0	[01] Sun 11 Aug 2013  4:58 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sun 11 Aug 2013  4:58 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sun 11 Aug 2013  4:58 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[486289]	sunku venkata subramanya pruthvi
+Q-0	[01] Sun 11 Aug 2013 10:43 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sun 11 Aug 2013 10:43 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sun 11 Aug 2013 10:43 AM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[488262]	Anonymous
+Q-0	[01] Mon  5 Aug 2013  4:19 PM UTC (UTC +0000)	1.00	None of the above.
+
+[492256]	Lisa Rome
+Q-0	[01] Tue 16 Jul 2013  6:29 PM UTC (UTC +0000)	1.00	None of the above.
+
+[494313]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  8:18 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sat 13 Jul 2013  8:18 PM UTC (UTC +0000)	1.00	None of the above.
+
+[497025]	David Zhang
+Q-0	[01] Wed 21 Aug 2013  6:52 AM UTC (UTC +0000)	1.00	None of the above.
+
+[498780]	Liam Brennan
+Q-0	[01] Sat 13 Jul 2013 11:02 AM UTC (UTC +0000)	1.00	None of the above.
+
+[501896]	Veronica Wright
+Q-0	[01] Tue 16 Jul 2013  4:04 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Tue 16 Jul 2013  4:04 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Tue 16 Jul 2013  4:04 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[505586]	Wenshun
+Q-0	[01] Fri 23 Aug 2013 11:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[508091]	anne kerr
+Q-0	[01] Wed 17 Jul 2013  6:21 PM UTC (UTC +0000)	1.00	None of the above.
+
+[511277]	Hossam El-Ashkar
+Q-0	[01] Wed 17 Jul 2013  2:29 PM UTC (UTC +0000)	1.00	None of the above.
+
+[514265]	Seraphine Lishe Jong
+Q-0	[01] Fri 16 Aug 2013  9:58 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 16 Aug 2013  9:58 AM UTC (UTC +0000)	1.00	None of the above.
+
+[514979]	Anonymous
+Q-0	[01] Sat 20 Jul 2013  4:56 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 20 Jul 2013  4:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[515096]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  3:04 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Mon 22 Jul 2013  3:04 AM UTC (UTC +0000)	1.00	None of the above.
+
+[516090]	Anonymous
+Q-0	[01] Thu 18 Jul 2013 12:40 AM UTC (UTC +0000)	1.00	None of the above.
+
+[519679]	Kamran Tariq
+Q-0	[01] Sat 24 Aug 2013  6:12 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sat 24 Aug 2013  6:12 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 24 Aug 2013  6:12 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[521579]	jason
+Q-0	[01] Sat 13 Jul 2013 11:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[531213]	K S Senerath de Silva
+Q-0	[01] Sat 13 Jul 2013  4:39 AM UTC (UTC +0000)	1.00	None of the above.
+
+[537370]	Wojciech Zajkowski
+Q-0	[01] Thu 18 Jul 2013 10:04 PM UTC (UTC +0000)	1.00	None of the above.
+
+[539076]	Willian Thomazo Vaz
+Q-0	[01] Thu 18 Jul 2013 12:05 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 18 Jul 2013 12:05 PM UTC (UTC +0000)	1.00	None of the above.
+
+[540053]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  3:47 PM UTC (UTC +0000)	1.00	None of the above.
+
+[547145]	Roger Stanton
+Q-0	[01] Sun 14 Jul 2013 10:57 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013 10:57 AM UTC (UTC +0000)	1.00	None of the above.
+
+[548016]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  6:30 AM UTC (UTC +0000)	1.00	None of the above.
+
+[548458]	morsmordre
+Q-0	[01] Sun 28 Jul 2013  1:10 PM UTC (UTC +0000)	1.00	None of the above.
+
+[560534]	Juzar Motiwalla
+Q-0	[01] Sun 21 Jul 2013  9:25 AM UTC (UTC +0000)	1.00	None of the above.
+
+[565491]	Axel Schwanke
+Q-0	[01] Mon 22 Jul 2013  9:30 AM UTC (UTC +0000)	1.00	None of the above.
+
+[565624]	Tatyana
+Q-0	[01] Mon 19 Aug 2013  6:32 AM UTC (UTC +0000)	1.00	None of the above.
+
+[569763]	Nivedh Rajesh
+Q-0	[01] Fri  2 Aug 2013  4:09 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri  2 Aug 2013  4:09 PM UTC (UTC +0000)	1.00	None of the above.
+
+[572904]	Anonymous
+Q-0	[01] Sun 21 Jul 2013 10:24 AM UTC (UTC +0000)	1.00	None of the above.
+
+[573281]	John Fletcher
+Q-0	[01] Fri 19 Jul 2013  3:44 PM UTC (UTC +0000)	1.00	None of the above.
+
+[585870]	MiguelFernandez
+Q-0	[01] Fri 16 Aug 2013  3:46 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 16 Aug 2013  3:46 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Fri 16 Aug 2013  3:46 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[599303]	Faraz Rashid
+Q-0	[01] Sun 14 Jul 2013 11:14 AM UTC (UTC +0000)	1.00	None of the above.
+
+[616661]	K V Guruswami
+Q-0	[01] Sat 13 Jul 2013 10:02 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013 10:02 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sat 13 Jul 2013 10:02 AM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[617300]	Shahaf
+Q-0	[01] Thu 18 Jul 2013  2:55 PM UTC (UTC +0000)	1.00	None of the above.
+
+[654557]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  6:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[657659]	Anonymous
+Q-0	[01] Fri 12 Jul 2013 11:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[673048]	Lee Won Seok
+Q-0	[01] Tue 30 Jul 2013  3:58 AM UTC (UTC +0000)	1.00	None of the above.
+
+[676173]	Nikolai Grudtcyn
+Q-0	[01] Thu 18 Jul 2013  5:30 PM UTC (UTC +0000)	1.00	None of the above.
+
+[678546]	matthew arnott
+Q-0	[01] Sat 13 Jul 2013  4:33 AM UTC (UTC +0000)	1.00	None of the above.
+
+[684655]	Sabina Anna Rydzek
+Q-0	[01] Sat 13 Jul 2013 12:18 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013 12:18 PM UTC (UTC +0000)	1.00	None of the above.
+
+[690882]	marco carlos avalos rosado
+Q-0	[01] Sun 21 Jul 2013 10:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[692135]	Sebastian Morana
+Q-0	[01] Sat 13 Jul 2013  8:48 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013  8:49 PM UTC (UTC +0000)	1.00	None of the above.
+
+[700244]	Frank Hernandez
+Q-0	[01] Sun 14 Jul 2013  8:49 PM UTC (UTC +0000)	1.00	None of the above.
+
+[703119]	Sumant
+Q-0	[01] Mon 29 Jul 2013  5:12 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 29 Jul 2013  5:12 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[708105]	Wendy Bryan
+Q-0	[01] Tue 16 Jul 2013  6:59 PM UTC (UTC +0000)	1.00	None of the above.
+
+[718067]	Christopher J. Sergio
+Q-0	[01] Sun 21 Jul 2013  4:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[722512]	Leszek Worosz
+Q-0	[01] Sat 13 Jul 2013  4:46 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013  4:46 PM UTC (UTC +0000)	1.00	None of the above.
+
+[724283]	Eli
+Q-0	[01] Tue 16 Jul 2013  2:15 AM UTC (UTC +0000)	1.00	None of the above.
+
+[743860]	Rogerio Leme
+Q-0	[01] Mon  5 Aug 2013  6:04 PM UTC (UTC +0000)	1.00	None of the above.
+
+[756611]	Anonymous
+Q-0	[01] Tue 23 Jul 2013 12:32 AM UTC (UTC +0000)	1.00	None of the above.
+
+[759170]	Eileen McDevitt
+Q-0	[01] Sun 14 Jul 2013  5:45 PM UTC (UTC +0000)	1.00	None of the above.
+
+[762459]	yaniv norman
+Q-0	[01] Thu 18 Jul 2013  8:38 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 18 Jul 2013  8:38 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Thu 18 Jul 2013  8:38 AM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[768475]	Bill Wolf
+Q-0	[01] Sat 13 Jul 2013  5:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[768527]	Jadranka Stojadinovic
+Q-0	[01] Fri 19 Jul 2013  1:25 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 19 Jul 2013  1:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[772395]	Harold Glascock
+Q-0	[01] Fri 19 Jul 2013  2:44 PM UTC (UTC +0000)	1.00	None of the above.
+
+[784139]	Tory DeBiaso
+Q-0	[01] Thu 18 Jul 2013  2:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[784620]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  2:07 AM UTC (UTC +0000)	1.00	None of the above.
+
+[793475]	Dimitri
+Q-0	[01] Mon  2 Sep 2013  9:58 AM UTC (UTC +0000)	1.00	None of the above.
+
+[801539]	Robert R. Boynton
+Q-0	[01] Sun 28 Jul 2013  8:57 PM UTC (UTC +0000)	1.00	None of the above.
+
+[806218]	shih-chun chang
+Q-0	[01] Sun 21 Jul 2013  1:40 AM UTC (UTC +0000)	1.00	None of the above.
+
+[809648]	Thomas Durlach
+Q-0	[01] Sat 20 Jul 2013  1:13 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 20 Jul 2013  1:13 PM UTC (UTC +0000)	1.00	None of the above.
+
+[809877]	Yau Choi George Lam
+Q-0	[01] Sun 14 Jul 2013 11:59 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013 12:00 AM UTC (UTC +0000)	1.00	None of the above.
+
+[813270]	matic.jazbar@gmail.com
+Q-0	[01] Thu 18 Jul 2013  9:13 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Thu 18 Jul 2013  9:13 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Thu 18 Jul 2013  9:13 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[813476]	Shawn Oakley
+Q-0	[01] Fri 19 Jul 2013  4:36 AM UTC (UTC +0000)	1.00	None of the above.
+
+[815366]	Andre Zaru
+Q-0	[01] Sun 14 Jul 2013  5:56 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  5:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[830157]	Goran Macut
+Q-0	[01] Wed  7 Aug 2013  1:49 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed  7 Aug 2013  1:49 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Wed  7 Aug 2013  1:49 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[838521]	Supatcharee
+Q-0	[01] Fri 16 Aug 2013  2:48 AM UTC (UTC +0000)	1.00	None of the above.
+
+[839054]	Daniel Goyzueta Saenz
+Q-0	[01] Mon 15 Jul 2013  7:03 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013  7:03 AM UTC (UTC +0000)	1.00	None of the above.
+
+[839369]	Kenny Hiep Ngo
+Q-0	[01] Fri 12 Jul 2013  7:43 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 12 Jul 2013  7:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[841843]	Lazaros Aggelou
+Q-0	[01] Sun 21 Jul 2013  6:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[843549]	Fu Cehui Merle
+Q-0	[01] Fri 19 Jul 2013  3:34 PM UTC (UTC +0000)	1.00	None of the above.
+
+[844535]	Angel Y
+Q-0	[01] Sat 20 Jul 2013  1:47 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 20 Jul 2013  1:47 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sat 20 Jul 2013  1:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[857944]	usheer
+Q-0	[01] Fri 19 Jul 2013  9:05 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013  9:05 AM UTC (UTC +0000)	1.00	None of the above.
+
+[858163]	Vladimir Sachanski
+Q-0	[01] Mon 15 Jul 2013  3:01 PM UTC (UTC +0000)	1.00	None of the above.
+
+[868372]	Anonymous
+Q-0	[01] Tue  6 Aug 2013 12:37 AM UTC (UTC +0000)	1.00	None of the above.
+
+[884075]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  3:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[892325]	Elijah Agbayani
+Q-0	[01] Mon 15 Jul 2013  1:30 AM UTC (UTC +0000)	1.00	None of the above.
+
+[921909]	Pakdee Makejumroen
+Q-0	[01] Wed 21 Aug 2013 12:18 PM UTC (UTC +0000)	1.00	None of the above.
+
+[925966]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  4:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[934710]	Donat Vegh
+Q-0	[01] Thu 25 Jul 2013 12:40 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 25 Jul 2013 12:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[941128]	Piotr Roksela
+Q-0	[01] Mon 19 Aug 2013  5:46 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 19 Aug 2013  5:46 AM UTC (UTC +0000)	1.00	None of the above.
+
+[952833]	Supap Stiyosh
+Q-0	[01] Fri 26 Jul 2013  3:13 AM UTC (UTC +0000)	1.00	None of the above.
+
+[954000]	Rael Cine
+Q-0	[01] Sat 13 Jul 2013  8:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[960936]	shishir
+Q-0	[01] Mon 15 Jul 2013 12:19 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013 12:19 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon 15 Jul 2013 12:19 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[964434]	Chew Sock Lay Nellie
+Q-0	[01] Tue 23 Jul 2013 11:12 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Tue 23 Jul 2013 11:12 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Tue 23 Jul 2013 11:12 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[970243]	Jason Cline
+Q-0	[01] Sun 25 Aug 2013 11:46 PM UTC (UTC +0000)	1.00	None of the above.
+
+[971662]	Vinayak Kamath
+Q-0	[01] Mon  5 Aug 2013 12:25 PM UTC (UTC +0000)	1.00	None of the above.
+
+[971755]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  8:41 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  8:42 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[03] Sun 14 Jul 2013  9:04 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[04] Sun 14 Jul 2013 10:18 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[05] Sun 14 Jul 2013 10:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[979824]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  4:00 PM UTC (UTC +0000)	1.00	None of the above.
+
+[990744]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  6:03 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 14 Jul 2013  6:04 AM UTC (UTC +0000)	1.00	None of the above.
+
+[991529]	Pierre Mevellec
+Q-0	[01] Mon  5 Aug 2013  7:38 PM UTC (UTC +0000)	1.00	None of the above.
+
+[999423]	Xavier Griffin
+Q-0	[01] Mon 15 Jul 2013  5:23 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1000420]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  5:11 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1008669]	Charles Lu
+Q-0	[01] Thu 18 Jul 2013  2:59 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1013961]	Joan Caldwell
+Q-0	[01] Wed 17 Jul 2013  3:47 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1017091]	Emmanuel guilbert
+Q-0	[01] Tue 16 Jul 2013  9:54 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1024350]	Peter Seif
+Q-0	[01] Tue 16 Jul 2013 11:56 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1029818]	Jamie MacFarlane
+Q-0	[01] Sat 13 Jul 2013  6:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1030937]	David Knight
+Q-0	[01] Sun 28 Jul 2013  5:18 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1031818]	Peter Terlecky
+Q-0	[01] Fri 12 Jul 2013 10:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1034593]	Tony
+Q-0	[01] Tue 13 Aug 2013  3:43 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1047685]	Georgi Stefanov
+Q-0	[01] Mon 29 Jul 2013 12:38 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 29 Jul 2013 12:38 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon 29 Jul 2013 12:38 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1058767]	Anonymous
+Q-0	[01] Fri 19 Jul 2013  9:48 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1059412]	Tan Wei Chit
+Q-0	[01] Wed 24 Jul 2013  8:17 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1066809]	Andre Luis Hansen Caminada
+Q-0	[01] Wed 17 Jul 2013  7:37 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1068658]	Anonymous
+Q-0	[01] Tue 23 Jul 2013  4:45 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Tue 23 Jul 2013  4:45 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Tue 23 Jul 2013  4:45 AM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[1075198]	Fedorov Konstantin
+Q-0	[01] Fri  2 Aug 2013  3:00 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1077228]	may
+Q-0	[01] Wed 17 Jul 2013 10:27 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Wed 17 Jul 2013 10:27 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1077785]	michael
+Q-0	[01] Wed 24 Jul 2013  1:17 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Wed 24 Jul 2013  1:17 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Wed 24 Jul 2013  1:17 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1081453]	Vira Dolgushyna
+Q-0	[01] Sat 10 Aug 2013  8:21 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1087113]	Christos Vyzantios
+Q-0	[01] Sat 17 Aug 2013  4:13 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1093996]	Gurvinder Singh
+Q-0	[01] Fri 26 Jul 2013  2:29 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 26 Jul 2013  2:29 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1099052]	Murilo Machado Bastos
+Q-0	[01] Wed 24 Jul 2013 10:30 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1100814]	J Gill
+Q-0	[01] Tue  6 Aug 2013  6:03 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1109651]	Shawn Derrick
+Q-0	[01] Fri 19 Jul 2013  7:10 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013  7:10 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1118975]	Grzegorz Szczepaniak
+Q-0	[01] Sun 25 Aug 2013  7:30 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Tue 27 Aug 2013  2:08 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1122374]	Anonymous
+Q-0	[01] Wed 17 Jul 2013  2:00 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Wed 17 Jul 2013  2:00 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Wed 17 Jul 2013  2:00 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[1125309]	Anonymous
+Q-0	[01] Wed 17 Jul 2013  4:47 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1135591]	Katarzyna Silska
+Q-0	[01] Thu 18 Jul 2013  8:03 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1136512]	David Kearns
+Q-0	[01] Sat 10 Aug 2013 12:25 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 10 Aug 2013 12:25 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 10 Aug 2013 12:25 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[1137622]	Anonymous
+Q-0	[01] Fri 19 Jul 2013  4:20 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1147715]	Sherri Paisley
+Q-0	[01] Sat 27 Jul 2013  1:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1148167]	JOSEPH SERABO
+Q-0	[01] Thu 25 Jul 2013  4:00 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1152991]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  4:11 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Tue 16 Jul 2013  4:11 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1155770]	Sergey Utlyakov
+Q-0	[01] Thu  8 Aug 2013  5:21 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Fri  9 Aug 2013  5:17 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Fri  9 Aug 2013  5:17 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1165925]	Ian Pottinger
+Q-0	[01] Sun 14 Jul 2013  8:45 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1169308]	Anonymous
+Q-0	[01] Sun 18 Aug 2013  9:05 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 18 Aug 2013  9:05 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1170233]	Anonymous
+Q-0	[01] Fri 23 Aug 2013 12:59 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 23 Aug 2013 12:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1172627]	Shilo Ward
+Q-0	[01] Tue 16 Jul 2013  8:37 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1176417]	Georgi Kermekchiev
+Q-0	[01] Sun 21 Jul 2013 10:42 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sun 21 Jul 2013 10:42 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1181293]	Brandon Roberts
+Q-0	[01] Wed 24 Jul 2013  7:01 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1181645]	Igor Grudetskyi
+Q-0	[01] Mon 22 Jul 2013  7:50 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 22 Jul 2013  7:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1185212]	Anonymous
+Q-0	[01] Sat 27 Jul 2013  9:56 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 27 Jul 2013  9:56 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1188824]	Christian
+Q-0	[01] Sun 14 Jul 2013 11:03 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sun 14 Jul 2013 11:03 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sun 14 Jul 2013 11:03 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[1196296]	Irene Celino
+Q-0	[01] Mon  5 Aug 2013  3:01 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1199907]	moon seng kok
+Q-0	[01] Sat 20 Jul 2013 10:16 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1202176]	julian murillo ramos
+Q-0	[01] Tue 23 Jul 2013  7:13 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1206101]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  2:01 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1208375]	Warren young
+Q-0	[01] Mon 15 Jul 2013  3:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1210912]	Jirka Härkönen
+Q-0	[01] Fri 26 Jul 2013  8:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1211079]	Anonymous
+Q-0	[01] Sat 10 Aug 2013  1:25 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1222482]	Oscar Carreras
+Q-0	[01] Fri 23 Aug 2013  1:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1230490]	Shunpo Chang
+Q-0	[01] Thu  1 Aug 2013  9:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1242357]	Joe Kantoris
+Q-0	[01] Mon 15 Jul 2013 12:44 AM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Mon 15 Jul 2013  9:08 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1243686]	Anonymous
+Q-0	[01] Sat 20 Jul 2013  4:26 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 20 Jul 2013  4:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1248420]	Akira Hirai
+Q-0	[01] Fri 19 Jul 2013  7:43 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 19 Jul 2013  7:43 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1254063]	Anonymous
+Q-0	[01] Thu 18 Jul 2013  8:45 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1254709]	SCHMITT VINCENT
+Q-0	[01] Tue 30 Jul 2013 10:42 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1265974]	Michael Chou
+Q-0	[01] Fri  2 Aug 2013  1:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1273478]	Sary Beidas
+Q-0	[01] Sat 13 Jul 2013  5:09 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013  5:09 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Sat 13 Jul 2013  5:09 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1274458]	Don Fernandes
+Q-0	[01] Tue 16 Jul 2013 10:28 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1288375]	Marc Kimpe
+Q-0	[01] Fri  9 Aug 2013  6:40 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1300744]	Tan Kok Hui
+Q-0	[01] Sun 28 Jul 2013  1:32 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1307481]	Sotires Eleftheriou
+Q-0	[01] Sun 21 Jul 2013  4:28 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 21 Jul 2013  4:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1309476]	Robert Fountain
+Q-0	[01] Fri 26 Jul 2013  1:19 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1314441]	Aliaksei Liutsich
+Q-0	[01] Sat 13 Jul 2013  5:07 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1321748]	Michael Saarah
+Q-0	[01] Fri 19 Jul 2013  2:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1329837]	Rafael Ramos
+Q-0	[01] Sun 21 Jul 2013  4:29 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1346786]	Wlodzimierz Gontarz
+Q-0	[01] Mon 12 Aug 2013  8:37 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 12 Aug 2013  8:38 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1350344]	Michał Zając
+Q-0	[01] Wed 28 Aug 2013  6:33 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1358391]	Wing Kai Chu
+Q-0	[01] Wed 17 Jul 2013  7:55 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1366170]	Ernest Osei-Wusu
+Q-0	[01] Mon 29 Jul 2013  7:08 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1366638]	Anil Kumar
+Q-0	[01] Mon 15 Jul 2013  6:59 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1368335]	Anonymous
+Q-0	[01] Thu 18 Jul 2013  7:51 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Thu 18 Jul 2013  7:51 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1375215]	Pyun, Jisurk
+Q-0	[01] Mon 22 Jul 2013  2:05 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1392450]	Kelvin Yip
+Q-0	[01] Wed 28 Aug 2013  2:40 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1397097]	Sutharshini Illango
+Q-0	[01] Fri 16 Aug 2013  9:05 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1398910]	Anonymous
+Q-0	[01] Fri  2 Aug 2013  4:07 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Fri  2 Aug 2013  4:07 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Fri  2 Aug 2013  4:08 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[1405383]	Angus Ng Ka-chun
+Q-0	[01] Thu 18 Jul 2013  1:57 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1420060]	Betty Anne Day
+Q-0	[01] Mon 22 Jul 2013  4:15 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Mon 22 Jul 2013  4:15 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1424770]	Robert William Atkinson
+Q-0	[01] Tue 30 Jul 2013  2:18 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 30 Jul 2013  2:18 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1428989]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  3:14 AM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[1430338]	Anonymous
+Q-0	[01] Wed 31 Jul 2013  2:41 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1430340]	Anonymous
+Q-0	[01] Thu  8 Aug 2013  3:54 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu  8 Aug 2013  3:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1433115]	Noemi Anna Nemeth
+Q-0	[01] Fri 16 Aug 2013 11:02 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 16 Aug 2013 11:02 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1440001]	Mark Weston-Dawkes
+Q-0	[01] Fri 19 Jul 2013  4:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1440887]	Zongchen Teng
+Q-0	[01] Mon 15 Jul 2013 12:19 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Mon 15 Jul 2013 12:19 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Mon 15 Jul 2013 12:19 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1459371]	Eugene Sharygin
+Q-0	[01] Sat 20 Jul 2013  7:03 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1460153]	Laura Coto Sáenz
+Q-0	[01] Mon 15 Jul 2013  9:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1462112]	Rich Malcolm
+Q-0	[01] Sun 14 Jul 2013  5:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1473936]	Tanushree Bansal
+Q-0	[01] Mon 15 Jul 2013  6:34 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1488570]	Sam Katz
+Q-0	[01] Sat 10 Aug 2013  3:55 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 10 Aug 2013  3:55 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1488759]	Doruk Kutlu
+Q-0	[01] Mon 29 Jul 2013 10:19 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1492257]	Anonymous
+Q-0	[01] Sun 28 Jul 2013  5:46 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1498376]	LI PAK KEE
+Q-0	[01] Sat 13 Jul 2013  1:43 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Tue 16 Jul 2013  5:13 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1502677]	Zoltán Miklósi
+Q-0	[01] Fri  2 Aug 2013  4:05 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri  2 Aug 2013  4:05 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1522754]	Gelegukuma Alagoa
+Q-0	[01] Tue 23 Jul 2013  1:54 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Tue 23 Jul 2013  1:55 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1525436]	Milena Anna Malec
+Q-0	[01] Thu 25 Jul 2013 12:42 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 25 Jul 2013 12:42 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Thu 25 Jul 2013 12:42 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1529453]	Bradley Feingerts
+Q-0	[01] Mon 15 Jul 2013 10:19 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1534724]	Katarzyna Olędzka
+Q-0	[01] Thu 25 Jul 2013 12:19 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1564247]	Dang-Giao Nguyen
+Q-0	[01] Sun 14 Jul 2013  1:41 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1567507]	Stephen Matthews
+Q-0	[01] Sun 14 Jul 2013 12:47 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1569534]	Maresu Andrei-Razvan
+Q-0	[01] Mon 15 Jul 2013 11:57 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Mon 15 Jul 2013 11:57 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Mon 15 Jul 2013 11:57 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[1581585]	rajat aghi
+Q-0	[01] Thu 18 Jul 2013  5:20 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1586454]	Dennis Webb
+Q-0	[01] Wed  7 Aug 2013  1:37 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1587520]	Vrajitoru Daniel
+Q-0	[01] Sat 13 Jul 2013  4:49 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1589902]	Elizabeth T. Rummler
+Q-0	[01] Sat 13 Jul 2013  5:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1596725]	Graham Kirk
+Q-0	[01] Wed 24 Jul 2013  7:00 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1597353]	Rafał Maciejewski
+Q-0	[01] Wed 24 Jul 2013  8:29 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1603384]	Francois Alexis Martel
+Q-0	[01] Thu 22 Aug 2013  2:38 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1621261]	Can Goksel
+Q-0	[01] Sun 21 Jul 2013 10:58 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1621939]	Nataliia Zolotukhina
+Q-0	[01] Tue 16 Jul 2013  1:22 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 16 Jul 2013  1:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1623504]	Tomasz Szymanek
+Q-0	[01] Mon 15 Jul 2013  8:04 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1623612]	Steve Greenfield
+Q-0	[01] Sat 13 Jul 2013  8:33 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 13 Jul 2013  8:33 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sat 13 Jul 2013  8:34 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[1633880]	Mitchell Tilkin
+Q-0	[01] Tue 16 Jul 2013 11:27 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 16 Jul 2013 11:27 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Tue 16 Jul 2013 11:27 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1639691]	Tse Yang, Lim
+Q-0	[01] Mon 15 Jul 2013 12:17 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1662037]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  9:06 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1675062]	Cindy Ris Zanca
+Q-0	[01] Sat 13 Jul 2013 11:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1678839]	zhaoli lane
+Q-0	[01] Thu 25 Jul 2013 12:06 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1683710]	Cory Blaquiere
+Q-0	[01] Mon 15 Jul 2013 11:10 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1687304]	Robert Iverson
+Q-0	[01] Wed 24 Jul 2013  1:02 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 24 Jul 2013  1:03 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1698089]	Lynn Anthony
+Q-0	[01] Sun 21 Jul 2013 10:49 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 21 Jul 2013 10:49 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1715040]	Gary Ketchum
+Q-0	[01] Thu 25 Jul 2013  2:14 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 25 Jul 2013  2:14 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Thu 25 Jul 2013  2:14 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1715957]	Xing Chen
+Q-0	[01] Sat 20 Jul 2013  1:53 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1718816]	Bogdan Ionita
+Q-0	[01] Mon 15 Jul 2013 12:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1726759]	Alexander Wikstrom
+Q-0	[01] Thu 18 Jul 2013  4:17 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1735895]	Varun Singla
+Q-0	[01] Fri 12 Jul 2013 11:15 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Sun 14 Jul 2013 11:41 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1736619]	Pierre Lecointre
+Q-0	[01] Fri 26 Jul 2013  2:13 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 26 Jul 2013  2:13 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Fri 26 Jul 2013  2:13 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[1745656]	Anonymous
+Q-0	[01] Sat 20 Jul 2013  9:25 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 20 Jul 2013  9:25 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1754744]	Robert S. Feld
+Q-0	[01] Sun 14 Jul 2013  8:15 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1757059]	Vladimir Morozov
+Q-0	[01] Mon 15 Jul 2013  7:28 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1760141]	Roberto Castello
+Q-0	[01] Sun 28 Jul 2013 10:39 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1772146]	Anonymous
+Q-0	[01] Tue 16 Jul 2013 12:18 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Tue 16 Jul 2013 12:18 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Tue 16 Jul 2013 12:18 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1772255]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  1:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1775056]	andrzej
+Q-0	[01] Sat 20 Jul 2013  8:23 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1781929]	Anonymous
+Q-0	[01] Sat 20 Jul 2013 10:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1790773]	Anonymous
+Q-0	[01] Thu 25 Jul 2013  2:15 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1791528]	Peggy Lu
+Q-0	[01] Fri 19 Jul 2013  5:03 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1796276]	Richard Manley
+Q-0	[01] Sat 13 Jul 2013  5:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1800192]	Anonymous
+Q-0	[01] Fri 26 Jul 2013  4:43 AM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Sat 27 Jul 2013  3:31 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 27 Jul 2013  3:31 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1802286]	Vishwa Ajay Mukhtyar
+Q-0	[01] Thu 18 Jul 2013  5:16 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1802697]	Glen WK So
+Q-0	[01] Mon 22 Jul 2013  3:39 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 22 Jul 2013  3:39 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1808359]	Bojan Korecic
+Q-0	[01] Sat 13 Jul 2013 11:07 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1813523]	Chuck Schwing
+Q-0	[01] Fri 26 Jul 2013  8:17 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Fri 26 Jul 2013  8:17 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Fri 26 Jul 2013  8:17 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[1814474]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  7:05 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1817871]	Kirk ramble
+Q-0	[01] Sun 14 Jul 2013  5:25 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1824662]	Anonymous
+Q-0	[01] Wed 17 Jul 2013  7:24 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1833388]	Denise Ching
+Q-0	[01] Fri 26 Jul 2013  3:58 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1836168]	enrique valdes
+Q-0	[01] Sun  1 Sep 2013  3:42 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun  1 Sep 2013  3:42 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1851873]	Nour El Mawass
+Q-0	[01] Fri 12 Jul 2013 10:37 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1860176]	Danielle Jett
+Q-0	[01] Mon 26 Aug 2013  2:09 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1861013]	hh Yang
+Q-0	[01] Wed 17 Jul 2013  2:44 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1864915]	Anonymous
+Q-0	[01] Tue 23 Jul 2013  1:55 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 23 Jul 2013  1:55 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1866951]	Akarsh
+Q-0	[01] Thu 15 Aug 2013  6:49 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1871765]	Jacob Adopley
+Q-0	[01] Wed 24 Jul 2013  8:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1873631]	Anonymous
+Q-0	[01] Fri 12 Jul 2013  7:05 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1883354]	Michael Offei Akuffo
+Q-0	[01] Fri 19 Jul 2013  1:31 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1885519]	Anonymous
+Q-0	[01] Wed 17 Jul 2013 12:31 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1888003]	Robin Ehrlich
+Q-0	[01] Sun 21 Jul 2013  8:36 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1895633]	Don Robbins
+Q-0	[01] Mon 15 Jul 2013  8:31 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Mon 15 Jul 2013  8:31 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1897459]	Anonymous
+Q-0	[01] Tue 16 Jul 2013 11:15 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1908832]	Stephen H. Chan
+Q-0	[01] Fri 12 Jul 2013  9:36 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 12 Jul 2013  9:36 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1910546]	Rich Cullen
+Q-0	[01] Sun 14 Jul 2013  6:49 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 14 Jul 2013  6:49 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1911805]	Maziar Motahari
+Q-0	[01] Wed 17 Jul 2013 11:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1916244]	Nicola McGinty
+Q-0	[01] Thu  1 Aug 2013  1:46 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu  1 Aug 2013  1:46 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1920171]	Fanny Lin Danis
+Q-0	[01] Wed  7 Aug 2013  8:26 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Wed  7 Aug 2013  8:26 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Wed  7 Aug 2013  8:26 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[1922316]	EddyKung
+Q-0	[01] Wed 31 Jul 2013 11:55 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1926131]	Phillip Radmer
+Q-0	[01] Sat 13 Jul 2013 11:42 AM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Tue 16 Jul 2013  5:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1935357]	Matthew De Bono
+Q-0	[01] Tue 23 Jul 2013  3:25 AM UTC (UTC +0000)	1.00	None of the above.
+
+[1938700]	James Hansen
+Q-0	[01] Fri 19 Jul 2013  8:37 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013  8:37 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1955031]	Misook Heo
+Q-0	[01] Sat 13 Jul 2013 10:02 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1964305]	Anonymous
+Q-0	[01] Sat 20 Jul 2013  3:32 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1973671]	Anonymous
+Q-0	[01] Sun 28 Jul 2013  6:11 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 28 Jul 2013  6:11 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1980513]	MARIO CESAR BASTOS ANTUNES
+Q-0	[01] Sun 14 Jul 2013 11:06 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013 11:06 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1982200]	Michael Klinkiewicz
+Q-0	[01] Sun 28 Jul 2013 12:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1988001]	Ana Beatriz Taube Stamato
+Q-0	[01] Mon 15 Jul 2013  2:16 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Mon 15 Jul 2013  2:16 PM UTC (UTC +0000)	1.00	None of the above.
+
+[1997242]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  9:38 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 21 Jul 2013  9:38 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2003331]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  6:32 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 16 Jul 2013  6:32 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2012276]	Addisu Hailu
+Q-0	[01] Mon 29 Jul 2013  2:53 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2012995]	Bob Harriman
+Q-0	[01] Sun 21 Jul 2013 10:49 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2017611]	Anonymous
+Q-0	[01] Mon 15 Jul 2013 11:07 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013 11:07 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2033578]	Sherrill Hallmond
+Q-0	[01] Thu 18 Jul 2013 11:17 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2040538]	Liban Munye Abu
+Q-0	[01] Tue  6 Aug 2013  8:19 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2046408]	Nidhi
+Q-0	[01] Mon 12 Aug 2013  9:34 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Mon 12 Aug 2013  9:34 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2051074]	Marco Antonio Vera
+Q-0	[01] Sat 13 Jul 2013  9:26 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2052106]	Paula Melipillan Figueroa
+Q-0	[01] Sun 28 Jul 2013  5:04 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2060173]	Jermaine Charles
+Q-0	[01] Mon 15 Jul 2013  4:59 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2068301]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  8:35 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2068564]	Susan Joy Ellis
+Q-0	[01] Sun 14 Jul 2013  7:17 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2074014]	Vainapel
+Q-0	[01] Sun 14 Jul 2013  5:38 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2074211]	Anonymous
+Q-0	[01] Wed 17 Jul 2013  9:40 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Wed 17 Jul 2013  9:40 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Wed 17 Jul 2013  9:40 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[2076340]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  7:07 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2096563]	Vadim Andronov
+Q-0	[01] Mon 29 Jul 2013  9:15 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2100179]	Liu wenqi
+Q-0	[01] Sun 28 Jul 2013  3:43 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 28 Jul 2013  3:43 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2102532]	J. Walker
+Q-0	[01] Sun 21 Jul 2013  9:03 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 21 Jul 2013  9:03 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sun 21 Jul 2013  9:03 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2119660]	Anatoly Borisov
+Q-0	[01] Thu 18 Jul 2013  5:44 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2119685]	IanMitcham
+Q-0	[01] Sun 14 Jul 2013  4:45 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2123835]	Anonymous
+Q-0	[01] Tue 23 Jul 2013  9:14 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2128463]	foad mojgani
+Q-0	[01] Fri 12 Jul 2013 11:48 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Fri 12 Jul 2013 11:48 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Mon 29 Jul 2013  4:53 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2130360]	Eddie Park
+Q-0	[01] Wed 24 Jul 2013 12:51 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Wed 24 Jul 2013 12:51 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2133264]	Anonymous
+Q-0	[01] Tue 16 Jul 2013 10:23 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2135564]	Gail MacLeod
+Q-0	[01] Mon 15 Jul 2013  6:18 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2143652]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  2:36 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013  2:36 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon 15 Jul 2013  2:36 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2145165]	Paul van der Kroft
+Q-0	[01] Tue 20 Aug 2013  9:46 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 20 Aug 2013  9:46 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2146005]	Gorka Zabalbeitia
+Q-0	[01] Sat 13 Jul 2013 10:15 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2146214]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  9:06 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013  9:06 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sat 13 Jul 2013  9:06 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2147663]	Larry Worthey
+Q-0	[01] Sun 11 Aug 2013  7:15 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2151591]	Eileen Aiello
+Q-0	[01] Tue 16 Jul 2013 12:15 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2153884]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  7:22 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 29 Jul 2013  7:22 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon 29 Jul 2013  7:22 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2154515]	Anonymous
+Q-0	[01] Mon 29 Jul 2013 12:58 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2154871]	Erez Ichilov
+Q-0	[01] Sat 10 Aug 2013  1:40 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2155631]	Juan Carlos Liuzzi
+Q-0	[01] Sun 14 Jul 2013 10:04 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2158929]	Milena Eneva
+Q-0	[01] Tue 16 Jul 2013  4:09 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2167793]	Yuet Lau
+Q-0	[01] Tue 16 Jul 2013  6:05 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 16 Jul 2013  6:06 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2169700]	Oo Shuwen
+Q-0	[01] Sun 28 Jul 2013  5:11 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2174341]	McHardy M. Smith
+Q-0	[01] Fri 12 Jul 2013 10:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2175824]	Tiantian Ren
+Q-0	[01] Sun 21 Jul 2013  5:38 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2189586]	Anonymous
+Q-0	[01] Thu 25 Jul 2013  2:46 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 25 Jul 2013  2:46 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2190421]	Brian Anthony Gumiran
+Q-0	[01] Sun 14 Jul 2013 10:46 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2190518]	Joanna Marguier
+Q-0	[01] Tue 16 Jul 2013  4:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2196054]	Derek G. Rhys
+Q-0	[01] Mon 29 Jul 2013  6:57 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2207151]	ZHANG YONGJIE
+Q-0	[01] Sat 20 Jul 2013  1:18 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2208033]	Ross Kim
+Q-0	[01] Sun 14 Jul 2013 12:08 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2208648]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  9:36 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Mon 22 Jul 2013  9:36 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2217445]	Kathleen Olson
+Q-0	[01] Mon 22 Jul 2013 12:45 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2220133]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  1:01 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2221469]	Kenya Little
+Q-0	[01] Wed 31 Jul 2013  3:53 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2227146]	Diana Polulyakh
+Q-0	[01] Fri  2 Aug 2013 12:35 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri  2 Aug 2013 12:35 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2227822]	Anonymous
+Q-0	[01] Sun  4 Aug 2013  2:43 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2231243]	Doga Akar Bilgin
+Q-0	[01] Sat 20 Jul 2013  4:11 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2235134]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  8:28 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 16 Jul 2013  8:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2236735]	Andrew R Creighton
+Q-0	[01] Tue 16 Jul 2013 11:38 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2239801]	Maria Gabriela Simon
+Q-0	[01] Thu 18 Jul 2013  2:14 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2240310]	Anonymous
+Q-0	[01] Fri 19 Jul 2013  1:55 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013  1:56 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2248828]	Cristi Grigore
+Q-0	[01] Fri 19 Jul 2013 10:24 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Fri 19 Jul 2013 10:24 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2257218]	Ksenia Grozdova
+Q-0	[01] Fri 19 Jul 2013  2:41 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013  2:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2265343]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  4:22 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2266899]	Raghavendra Badiger
+Q-0	[01] Sat 13 Jul 2013 10:02 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013 10:02 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sat 13 Jul 2013 10:02 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[2276079]	Ákos Szemán
+Q-0	[01] Wed 31 Jul 2013  8:51 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2311566]	Anastasia Shatokhina
+Q-0	[01] Fri 19 Jul 2013  6:35 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013  6:35 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2311919]	Efstratios Tsolakis
+Q-0	[01] Sat 13 Jul 2013  2:15 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2319315]	Heike Naser
+Q-0	[01] Sat 13 Jul 2013 10:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2326734]	Nguyen Hong Bac
+Q-0	[01] Sun 14 Jul 2013  1:40 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  1:40 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sun 14 Jul 2013  1:40 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2332502]	Alvaro Espinel
+Q-0	[01] Fri  9 Aug 2013  9:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2345762]	Roman Titov
+Q-0	[01] Sat 13 Jul 2013  2:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2346706]	Natalia Teterkina
+Q-0	[01] Sun 21 Jul 2013  4:35 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2346973]	Ana Diaz Alvarez
+Q-0	[01] Sun 21 Jul 2013 12:02 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 21 Jul 2013 12:02 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2352559]	Stefan Ilić
+Q-0	[01] Wed 17 Jul 2013  6:58 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 17 Jul 2013  6:58 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2367053]	Terry Steven Barker
+Q-0	[01] Sat 13 Jul 2013  2:41 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013  2:41 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2372993]	Tomczyk Dariusz
+Q-0	[01] Thu 29 Aug 2013 12:59 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2375120]	Gerard Peyri Pellicer
+Q-0	[01] Thu 18 Jul 2013  3:35 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2398622]	Supap Stiyosh
+Q-0	[01] Wed 24 Jul 2013  2:08 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2415010]	Vatsala Ratnasabapathy
+Q-0	[01] Mon 15 Jul 2013  2:14 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2421430]	Anonymous
+Q-0	[01] Sun 21 Jul 2013 10:15 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2430375]	Changhwan Kim
+Q-0	[01] Mon 22 Jul 2013 11:46 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2434675]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  7:36 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013  7:36 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2440303]	Wray Harold Johnston III
+Q-0	[01] Fri 19 Jul 2013 10:45 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 19 Jul 2013 10:45 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Fri 19 Jul 2013 10:46 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2446281]	Ajay Jain
+Q-0	[01] Sat 13 Jul 2013 12:08 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2448813]	Dereje Taye
+Q-0	[01] Sat 24 Aug 2013 11:02 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2457975]	Alexandra Kavcova
+Q-0	[01] Sun 21 Jul 2013  2:03 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2459030]	opal chen
+Q-0	[01] Sat 13 Jul 2013  9:05 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2468825]	Anonymous
+Q-0	[01] Tue 23 Jul 2013  4:38 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Tue 23 Jul 2013  4:39 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Tue 23 Jul 2013  4:39 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[2475826]	Sanh Le
+Q-0	[01] Sat 13 Jul 2013  3:19 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2483316]	Xinyan Sun
+Q-0	[01] Sat 13 Jul 2013  2:08 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2493129]	Stephani Keane nee Mok
+Q-0	[01] Mon 15 Jul 2013  8:29 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Mon 15 Jul 2013  8:30 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon 15 Jul 2013  8:30 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2509352]	Anonymous
+Q-0	[01] Sun 25 Aug 2013 12:37 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2509596]	Jessica Leung
+Q-0	[01] Wed  7 Aug 2013  1:22 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2520771]	Bo Yu
+Q-0	[01] Sun 14 Jul 2013  4:57 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 14 Jul 2013  4:57 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2523817]	Norman Ongweso
+Q-0	[01] Sat 24 Aug 2013  3:22 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 24 Aug 2013  3:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2533502]	To Russell Hsing
+Q-0	[01] Sun 14 Jul 2013 10:21 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2539285]	Anonymous
+Q-0	[01] Thu 18 Jul 2013  6:51 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2545543]	Anikó Pohner
+Q-0	[01] Tue 16 Jul 2013  6:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2548999]	ROBERT P MACKAY
+Q-0	[01] Mon 22 Jul 2013 11:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2552211]	Carlos Hoecker Escuti
+Q-0	[01] Tue 16 Jul 2013  8:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2560458]	Michael Royo
+Q-0	[01] Tue 16 Jul 2013  5:26 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2565369]	Hassan Mohammad
+Q-0	[01] Fri 26 Jul 2013 10:50 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 26 Jul 2013 10:51 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2568184]	Anonymous
+Q-0	[01] Wed 24 Jul 2013 12:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2568756]	Barbara Di Mattia
+Q-0	[01] Fri 19 Jul 2013  8:16 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2573318]	Charles zafonte
+Q-0	[01] Tue 16 Jul 2013  1:53 AM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Tue 16 Jul 2013 11:48 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2578846]	Daniel Dragic
+Q-0	[01] Sat 20 Jul 2013  9:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2588294]	Jaehyun Ahn
+Q-0	[01] Mon 15 Jul 2013  9:28 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2595359]	Alexandru Filimon
+Q-0	[01] Sun 14 Jul 2013  2:20 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 14 Jul 2013  2:20 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2599940]	James Lohff
+Q-0	[01] Thu 18 Jul 2013  1:34 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2602432]	pamela escorza
+Q-0	[01] Fri  2 Aug 2013  6:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2603695]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  5:30 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2606972]	Mariia Liukshyna
+Q-0	[01] Sun 28 Jul 2013  9:32 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2608318]	Bill MacGillivray
+Q-0	[01] Fri 12 Jul 2013  9:21 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 12 Jul 2013  9:21 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Fri 12 Jul 2013  9:21 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2609490]	Robert C Brooks
+Q-0	[01] Sat 13 Jul 2013  4:30 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2613452]	Anonymous
+Q-0	[01] Sat 20 Jul 2013  2:24 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 20 Jul 2013  2:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2614144]	jules césar cabrera
+Q-0	[01] Fri 16 Aug 2013  6:39 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 16 Aug 2013  6:39 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Fri 16 Aug 2013  6:40 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[2618918]	Barbara A. Brewer
+Q-0	[01] Wed 17 Jul 2013  7:29 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2620921]	Juliet Jordan
+Q-0	[01] Fri 19 Jul 2013  6:08 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2636293]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  8:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2646582]	Nathan Mytelka
+Q-0	[01] Tue 16 Jul 2013 10:34 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2648122]	Anonymous
+Q-0	[01] Sat 27 Jul 2013  8:35 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2655014]	Artur Demek
+Q-0	[01] Fri 30 Aug 2013  6:05 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 30 Aug 2013  6:05 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2656321]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  3:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2658233]	Luis Loyola
+Q-0	[01] Wed  7 Aug 2013 12:08 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2665371]	Rachel Ruhlen
+Q-0	[01] Wed 17 Jul 2013 12:41 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2670056]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  5:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2674389]	Srilakshmi Jayaramappa
+Q-0	[01] Sun 14 Jul 2013  1:17 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2677019]	Daniel Contreras Corrius
+Q-0	[01] Sat 27 Jul 2013  4:51 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 27 Jul 2013  4:52 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 27 Jul 2013  4:52 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2679189]	Anonymous
+Q-0	[01] Fri 30 Aug 2013 10:44 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2679686]	Cleide
+Q-0	[01] Wed 17 Jul 2013 11:17 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2693675]	Nicolaas Roelofs
+Q-0	[01] Mon 29 Jul 2013  8:55 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 29 Jul 2013  8:55 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon 29 Jul 2013  8:55 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2698116]	Zack Harmon
+Q-0	[01] Mon 29 Jul 2013  5:21 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2698771]	Gisela Anahi Dari
+Q-0	[01] Sat 13 Jul 2013  9:41 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 13 Jul 2013  9:41 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sat 13 Jul 2013  9:41 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[2699184]	Kovey Coles
+Q-0	[01] Sat  3 Aug 2013  1:07 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat  3 Aug 2013  1:07 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2702075]	Chung Zhi Li, Denzel
+Q-0	[01] Fri 16 Aug 2013  7:07 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Fri 16 Aug 2013  7:07 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2704244]	Josine Stobbe
+Q-0	[01] Fri 12 Jul 2013 10:04 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Fri 12 Jul 2013 10:04 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2712820]	Jesus Alberto Delgado Rivera
+Q-0	[01] Mon 15 Jul 2013  2:41 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013  2:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2721125]	Anonymous
+Q-0	[01] Tue 16 Jul 2013 12:19 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 16 Jul 2013 12:19 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2723971]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  4:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2729132]	Denis Martynkin
+Q-0	[01] Sun 14 Jul 2013  2:13 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  2:13 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2733011]	swati bhatt
+Q-0	[01] Wed 17 Jul 2013  6:44 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2733791]	Pawan Uppadey
+Q-0	[01] Sat 20 Jul 2013 11:04 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2734320]	Andrew Sokolov
+Q-0	[01] Sun 14 Jul 2013  6:14 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2736076]	Hanlin Hu
+Q-0	[01] Sun 21 Jul 2013  6:00 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2740408]	Anonymous
+Q-0	[01] Fri 19 Jul 2013  3:57 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2740771]	Dendal Jean-Louis
+Q-0	[01] Sat 20 Jul 2013  2:35 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2751542]	Miguel Angel Valencia de Las Heras
+Q-0	[01] Tue 16 Jul 2013  7:48 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Sat 17 Aug 2013  3:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2752397]	Anonymous
+Q-0	[01] Sun 11 Aug 2013  3:21 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 11 Aug 2013  3:21 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sun 11 Aug 2013  3:21 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[2755081]	Rene Mercier
+Q-0	[01] Wed 24 Jul 2013  7:00 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Sat 27 Jul 2013  8:00 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2758720]	Anton Andrei-Valentin
+Q-0	[01] Sat 13 Jul 2013  3:27 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2759604]	Karin Nietiedt
+Q-0	[01] Sat 13 Jul 2013  5:55 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2760508]	Liviu Osman
+Q-0	[01] Wed 17 Jul 2013  5:26 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 17 Jul 2013  5:26 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Wed 17 Jul 2013  5:26 AM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[2773697]	ricardo nagamine motta
+Q-0	[01] Tue 16 Jul 2013 12:29 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2774890]	Bradley Warner
+Q-0	[01] Tue 16 Jul 2013  2:06 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 16 Jul 2013  2:06 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2778254]	Malia Joy
+Q-0	[01] Mon 15 Jul 2013  3:15 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2779970]	Vaibhav Jayaraman
+Q-0	[01] Wed 17 Jul 2013  5:51 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2791133]	Anonymous
+Q-0	[01] Fri 19 Jul 2013  7:12 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2793604]	Gregory Kulczycki
+Q-0	[01] Thu 25 Jul 2013  2:16 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 25 Jul 2013  2:16 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2799323]	Anonymous
+Q-0	[01] Sat 17 Aug 2013 10:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2799765]	Rashi Jain
+Q-0	[01] Thu 18 Jul 2013 11:42 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2800156]	Donald Marcelo Flores
+Q-0	[01] Tue  6 Aug 2013  9:38 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue  6 Aug 2013  9:38 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2800568]	Lawal muhd Aminu
+Q-0	[01] Tue 16 Jul 2013  2:32 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2805808]	Joseph Duarte
+Q-0	[01] Mon 22 Jul 2013  2:55 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2812312]	Ignacia
+Q-0	[01] Mon 15 Jul 2013  2:01 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2825931]	Anonymous
+Q-0	[01] Fri 19 Jul 2013 10:00 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2828957]	Rohan Alur
+Q-0	[01] Fri 19 Jul 2013  6:01 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2829538]	Nancy Mercedes Saenz Sanchez
+Q-0	[01] Mon 22 Jul 2013 12:26 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2836826]	Alexander Imre
+Q-0	[01] Sat 13 Jul 2013  5:05 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2845442]	eben hugo
+Q-0	[01] Mon 29 Jul 2013  3:24 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 29 Jul 2013  3:24 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Mon 29 Jul 2013  3:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2847535]	Kevin Starque
+Q-0	[01] Fri 19 Jul 2013 12:38 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2859264]	Chou Sui-Fen
+Q-0	[01] Wed 17 Jul 2013 10:56 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2867809]	Daniel Guerrero Andrioli
+Q-0	[01] Mon 15 Jul 2013  3:45 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2876927]	stewart gutoff
+Q-0	[01] Mon 29 Jul 2013 11:16 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2881571]	Aaron Stoddart-Cordova
+Q-0	[01] Sat 13 Jul 2013  3:07 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2882982]	Rajesh Bhat
+Q-0	[01] Sat 13 Jul 2013  4:37 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2889189]	Jacob Valencia
+Q-0	[01] Wed 21 Aug 2013  6:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2890558]	Adriano Kiyoshi Ogata Pinto
+Q-0	[01] Thu 25 Jul 2013  1:30 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Thu 25 Jul 2013  1:30 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2892714]	Andrew Klem
+Q-0	[01] Wed 24 Jul 2013  1:56 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2899874]	Wenlin Huang
+Q-0	[01] Mon 15 Jul 2013  3:38 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Mon 15 Jul 2013  3:38 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Mon 15 Jul 2013  3:38 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2900404]	John Golas
+Q-0	[01] Mon 15 Jul 2013  5:33 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2900415]	Song-Lin Young
+Q-0	[01] Wed 17 Jul 2013  5:50 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2907980]	Sean Lamb
+Q-0	[01] Thu 25 Jul 2013 12:21 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Thu 25 Jul 2013 12:21 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2914066]	Mutsuko Hasegawa
+Q-0	[01] Mon 15 Jul 2013  6:33 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Tue 16 Jul 2013  3:39 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[03] Thu  1 Aug 2013 10:10 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2915049]	Norbert William Heitz
+Q-0	[01] Fri 19 Jul 2013  3:55 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 19 Jul 2013  3:55 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Fri 19 Jul 2013  3:55 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[2916133]	Collin Stedman
+Q-0	[01] Fri 19 Jul 2013  3:51 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2916889]	Bing Sun
+Q-0	[01] Tue 16 Jul 2013 11:37 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2932986]	Vitaliy Sanaev
+Q-0	[01] Wed 28 Aug 2013  3:41 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Wed 28 Aug 2013  3:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2935374]	Delwaulle Alissa
+Q-0	[01] Mon 15 Jul 2013  2:21 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013  2:21 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2939104]	Mugambi Ibui
+Q-0	[01] Wed 17 Jul 2013  2:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2939922]	Adam Teman
+Q-0	[01] Mon 12 Aug 2013 12:54 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Mon 12 Aug 2013 12:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2943641]	Danny Flynn
+Q-0	[01] Sat 14 Sep 2013 11:52 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 14 Sep 2013 11:52 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 14 Sep 2013 11:52 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[2961953]	Anja Ludwig
+Q-0	[01] Thu  8 Aug 2013  9:36 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2963229]	Anonymous
+Q-0	[01] Thu  1 Aug 2013 12:44 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu  1 Aug 2013 12:44 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Thu  1 Aug 2013 12:44 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2965357]	Shuang Xu
+Q-0	[01] Sat 20 Jul 2013 10:23 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2969358]	Laurentiu Mamaliga
+Q-0	[01] Wed 24 Jul 2013 12:03 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Wed 24 Jul 2013 12:03 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2970053]	Julija Otto
+Q-0	[01] Sat 13 Jul 2013 10:02 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2972038]	Hakan Gursoy
+Q-0	[01] Mon 15 Jul 2013  6:32 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2978816]	LIWEN LIANG
+Q-0	[01] Thu 22 Aug 2013  4:59 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Thu 22 Aug 2013  4:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2986924]	Larry Dolce
+Q-0	[01] Mon 22 Jul 2013  3:12 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2987567]	Ruchi Sethi
+Q-0	[01] Tue 16 Jul 2013  3:50 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Thu 29 Aug 2013 12:34 AM UTC (UTC +0000)	1.00	None of the above.
+
+[2996443]	Anonymous
+Q-0	[01] Sun 14 Jul 2013 10:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[2997270]	Chandra Shekar Bommasamudra
+Q-0	[01] Mon 15 Jul 2013 10:18 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3007693]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  6:29 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3009708]	Mason Ferratt
+Q-0	[01] Fri 19 Jul 2013 10:12 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013 10:13 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3010833]	Arun Kumar
+Q-0	[01] Sun 14 Jul 2013  5:15 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3013947]	Jeffrey Boose
+Q-0	[01] Wed 17 Jul 2013  7:30 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3022892]	Anonymous
+Q-0	[01] Wed 28 Aug 2013  7:25 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3023248]	julio cano
+Q-0	[01] Sun 21 Jul 2013  4:05 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 21 Jul 2013  4:05 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sun 21 Jul 2013  4:05 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[3027057]	James Bonnell
+Q-0	[01] Tue 13 Aug 2013  7:47 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3030034]	Kamavosyan Shushan
+Q-0	[01] Tue 16 Jul 2013  8:37 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3030905]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  4:04 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3031772]	Jason Yuan
+Q-0	[01] Tue 16 Jul 2013  5:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3036064]	Reinhard Langner
+Q-0	[01] Wed 17 Jul 2013  8:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3063152]	Tea
+Q-0	[01] Thu 29 Aug 2013  1:31 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3082893]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  8:28 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 21 Jul 2013  8:28 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Sun 21 Jul 2013  8:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3085340]	Eric Rybicki
+Q-0	[01] Fri 19 Jul 2013 12:30 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3086647]	Matteo Marcon
+Q-0	[01] Sat 13 Jul 2013  1:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3088637]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  8:08 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3108208]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  7:17 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Sat 27 Jul 2013  2:16 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3109529]	Jerry Chang
+Q-0	[01] Mon 15 Jul 2013  3:08 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3118119]	Philip Tsang
+Q-0	[01] Fri 19 Jul 2013  9:49 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3119619]	Dipayan Sanyal
+Q-0	[01] Fri 19 Jul 2013  8:14 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013  8:14 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3124128]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  8:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3124384]	Davide Capasso
+Q-0	[01] Sat 13 Jul 2013  9:51 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3126439]	Parthasarathy Ganesh
+Q-0	[01] Sun 21 Jul 2013 11:57 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 21 Jul 2013 11:58 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3127231]	ZhangJun
+Q-0	[01] Sun 14 Jul 2013  3:02 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  3:02 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3135269]	sitabkhan
+Q-0	[01] Mon 15 Jul 2013 12:50 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Mon 15 Jul 2013 12:50 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon 15 Jul 2013 12:50 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3140007]	Kevin Hicks
+Q-0	[01] Thu 25 Jul 2013  2:25 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 25 Jul 2013  2:26 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3147601]	Matthew Yim
+Q-0	[01] Sun 21 Jul 2013  9:48 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3148420]	Agócs Bence
+Q-0	[01] Sat 13 Jul 2013  1:40 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3161210]	Grant Boicheff
+Q-0	[01] Mon  5 Aug 2013  5:48 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Mon  5 Aug 2013  5:48 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Mon  5 Aug 2013  5:48 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[3166739]	Soonhyung hwang
+Q-0	[01] Sat 13 Jul 2013  1:14 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3173485]	Cao Jin
+Q-0	[01] Mon 19 Aug 2013  9:26 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3177970]	Anonymous
+Q-0	[01] Sat 13 Jul 2013 10:33 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013 10:33 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3194594]	Anthony A Mann
+Q-0	[01] Tue 16 Jul 2013  9:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3197987]	Hugo Roussel
+Q-0	[01] Sun 21 Jul 2013  4:12 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3201231]	Carolyn Miaral
+Q-0	[01] Wed 17 Jul 2013  2:35 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3206088]	Don Silverman
+Q-0	[01] Fri 12 Jul 2013 10:06 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Sun 14 Jul 2013  6:40 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3207448]	Anonymous
+Q-0	[01] Sun 14 Jul 2013 10:56 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3211111]	abdelkader
+Q-0	[01] Fri 30 Aug 2013  3:36 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3211312]	Dario Tompkins II
+Q-0	[01] Tue 16 Jul 2013 11:39 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Tue 16 Jul 2013 11:39 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3214687]	Helen Sadler
+Q-0	[01] Sun 14 Jul 2013 11:24 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3217094]	Anonymous
+Q-0	[01] Thu 18 Jul 2013 12:53 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Thu 18 Jul 2013 12:53 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Thu 18 Jul 2013 12:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3223096]	Robert
+Q-0	[01] Wed 17 Jul 2013 12:31 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3232603]	José A. Velasco S.
+Q-0	[01] Thu  1 Aug 2013  3:52 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu  1 Aug 2013  3:52 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Thu  1 Aug 2013  3:52 AM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[3235168]	B. ISHAK
+Q-0	[01] Thu 18 Jul 2013  2:49 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 18 Jul 2013  2:49 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Thu 18 Jul 2013  2:50 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[3236669]	Lance Nelson
+Q-0	[01] Wed 17 Jul 2013  4:12 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 17 Jul 2013  4:12 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3237073]	Nikitas Marinos Sgouros
+Q-0	[01] Tue 16 Jul 2013  4:19 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3242824]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  1:55 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3246047]	Donna Pacanovsky
+Q-0	[01] Wed  7 Aug 2013  1:26 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3261998]	Anonymous
+Q-0	[01] Mon 15 Jul 2013 11:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3262415]	Tripp Cox
+Q-0	[01] Sat 10 Aug 2013  8:04 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sat 10 Aug 2013  8:04 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 10 Aug 2013  8:04 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3265563]	Jerico Loyd Pingul
+Q-0	[01] Wed 21 Aug 2013  2:12 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Wed 21 Aug 2013  2:12 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3272141]	Alan Cooper
+Q-0	[01] Tue 16 Jul 2013  2:06 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3273217]	Kevin Banks
+Q-0	[01] Mon 22 Jul 2013 12:00 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3274800]	Chris Nunes
+Q-0	[01] Wed 31 Jul 2013  7:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3280770]	Theresa S Aleguas
+Q-0	[01] Sun 21 Jul 2013  5:51 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 21 Jul 2013  5:51 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3282235]	Jason E Lopez
+Q-0	[01] Thu 25 Jul 2013 12:23 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3297465]	Rachel Edwards
+Q-0	[01] Sat 24 Aug 2013  4:36 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3299220]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  3:54 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Wed 24 Jul 2013  3:54 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Wed 24 Jul 2013  3:54 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3303382]	Romain Meyer
+Q-0	[01] Sat 13 Jul 2013  7:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3304508]	Madhu Maheswar B
+Q-0	[01] Fri 19 Jul 2013  8:14 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013  8:14 AM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[03] Fri 30 Aug 2013  9:04 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3307102]	Lei Wang
+Q-0	[01] Fri  9 Aug 2013  7:40 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri  9 Aug 2013  7:40 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3308484]	Mauricio Arnez
+Q-0	[01] Thu  8 Aug 2013  2:32 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3309183]	John Gouveia
+Q-0	[01] Mon 22 Jul 2013 12:36 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 22 Jul 2013 12:36 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3311289]	Chang Chi Chang
+Q-0	[01] Thu 18 Jul 2013  8:34 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3312098]	Adalberto Filho
+Q-0	[01] Fri 26 Jul 2013 12:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3317862]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  7:51 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  7:51 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Sun 14 Jul 2013  7:51 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[3320541]	Junaide Deva Paul
+Q-0	[01] Wed 24 Jul 2013  4:26 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Wed 24 Jul 2013  4:26 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Wed 24 Jul 2013  4:26 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[3322518]	Peter Politis
+Q-0	[01] Sat 13 Jul 2013 11:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3322520]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  5:02 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3323098]	Binnur Al-Kazily
+Q-0	[01] Wed 31 Jul 2013  8:47 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3331942]	Arul Janakiraman
+Q-0	[01] Tue 23 Jul 2013  7:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3338455]	Anonymous
+Q-0	[01] Thu 18 Jul 2013  8:35 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[3339187]	Xiaoyu Xu
+Q-0	[01] Tue 16 Jul 2013  4:57 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Tue 16 Jul 2013  4:57 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Tue 16 Jul 2013  4:57 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[3341511]	gabriela saldanha
+Q-0	[01] Fri 19 Jul 2013  6:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3342681]	Pete Vreeland
+Q-0	[01] Tue 16 Jul 2013 12:53 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3343682]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  4:11 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 14 Jul 2013  4:11 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sun 14 Jul 2013  4:11 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3345472]	Lindsley Abadia
+Q-0	[01] Sat 27 Jul 2013  5:54 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3351530]	Nancy Billmann
+Q-0	[01] Sat 13 Jul 2013  1:50 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013  1:50 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3359343]	Victor Wrobel
+Q-0	[01] Tue 16 Jul 2013  6:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3364739]	Luisa Camargo
+Q-0	[01] Wed 31 Jul 2013 11:16 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3370720]	Harold Hauser
+Q-0	[01] Mon 15 Jul 2013  9:21 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3371089]	Cheung Fung Yeung
+Q-0	[01] Mon 15 Jul 2013  5:58 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3383688]	Dimitris Natsiopoulos
+Q-0	[01] Fri  9 Aug 2013 10:19 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3385619]	Kate Jonasse
+Q-0	[01] Fri 19 Jul 2013 10:03 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3398853]	Anonymous
+Q-0	[01] Mon 15 Jul 2013 10:09 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013 10:09 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Mon 15 Jul 2013 10:09 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[3407341]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  6:51 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3416610]	Jerry Overton
+Q-0	[01] Sat 20 Jul 2013 10:20 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3419722]	vincent IP
+Q-0	[01] Sat 17 Aug 2013  2:33 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 17 Aug 2013  2:33 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sat 17 Aug 2013  2:33 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[3422367]	Ciaran Allen
+Q-0	[01] Fri  9 Aug 2013  7:57 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3427555]	Derrick
+Q-0	[01] Fri 19 Jul 2013  5:58 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013  5:58 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3435349]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  6:52 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3439924]	Michael Hartman
+Q-0	[01] Mon 15 Jul 2013  9:34 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013  9:34 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3441417]	Anonymous
+Q-0	[01] Wed 17 Jul 2013  5:24 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 17 Jul 2013  5:24 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Wed 17 Jul 2013  5:25 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3441662]	Priyanka Chandrabalan
+Q-0	[01] Tue 16 Jul 2013  3:17 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3442634]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  5:23 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3454558]	Andrey FIlippov
+Q-0	[01] Sun 14 Jul 2013 10:14 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013 10:14 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Sun 14 Jul 2013 10:14 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[3457359]	Oo Guolin
+Q-0	[01] Tue 30 Jul 2013 12:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3458528]	Virginie Renson
+Q-0	[01] Sun 14 Jul 2013 10:01 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3463849]	Bethany Elizabeth Johnson
+Q-0	[01] Fri 30 Aug 2013 11:55 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3465071]	Noah Eilken
+Q-0	[01] Thu 18 Jul 2013  4:09 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3465930]	Gunjan Gupta
+Q-0	[01] Tue 30 Jul 2013 11:50 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 30 Jul 2013 11:50 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Tue 30 Jul 2013 11:50 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[3471441]	Noah A Bearden
+Q-0	[01] Sun 25 Aug 2013  7:22 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 25 Aug 2013  7:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3495461]	Dee Senuta
+Q-0	[01] Fri 26 Jul 2013  2:29 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 26 Jul 2013  2:29 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3496208]	Aniket Samant
+Q-0	[01] Sat 20 Jul 2013  6:46 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 20 Jul 2013  6:46 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3499935]	Bruce Johnston
+Q-0	[01] Sun 14 Jul 2013 11:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3502291]	Chi W Chung
+Q-0	[01] Thu  8 Aug 2013  5:28 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3508209]	Lucas Cabral Maciel
+Q-0	[01] Sun 14 Jul 2013  7:38 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3515774]	Salomeja
+Q-0	[01] Mon 26 Aug 2013  5:54 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3518062]	Stasinopoulos Evangelos
+Q-0	[01] Mon 15 Jul 2013  6:27 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3518724]	Eduardo Garcia Amezola
+Q-0	[01] Thu 18 Jul 2013  1:44 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 18 Jul 2013  1:45 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3522487]	Richard F. DiFonzo
+Q-0	[01] Thu 18 Jul 2013  2:45 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3523714]	Radek Ušák
+Q-0	[01] Sun 14 Jul 2013  4:36 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3524562]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  2:37 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013  2:37 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3524714]	Max Li
+Q-0	[01] Thu 18 Jul 2013  1:09 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3526201]	KELLY HUNTER
+Q-0	[01] Sun  1 Sep 2013  4:59 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun  1 Sep 2013  5:00 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3526654]	Tony Chu
+Q-0	[01] Sun 21 Jul 2013  2:32 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3529217]	Aurelio Domingos Machado
+Q-0	[01] Sat 13 Jul 2013 10:36 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 13 Jul 2013 10:36 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 13 Jul 2013 10:36 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[04] Tue 16 Jul 2013  9:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3530479]	Tim Roach
+Q-0	[01] Mon 22 Jul 2013  1:42 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3530614]	Wolfgang Ruthner
+Q-0	[01] Sun 14 Jul 2013  6:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3532514]	Michael Philipson
+Q-0	[01] Fri 12 Jul 2013 11:33 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3543468]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  3:36 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3550229]	Hank Mishima
+Q-0	[01] Sun 21 Jul 2013  5:28 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 21 Jul 2013  5:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3557286]	Andrea Narancsik
+Q-0	[01] Tue 16 Jul 2013  9:50 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Tue 16 Jul 2013  9:50 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3560918]	Neal Coxworth
+Q-0	[01] Tue 30 Jul 2013 12:48 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Tue 30 Jul 2013 12:48 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3566222]	Alex Jones
+Q-0	[01] Wed 24 Jul 2013  5:12 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 24 Jul 2013  5:12 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3572617]	Igor Aleksic
+Q-0	[01] Sun 14 Jul 2013  8:33 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  8:33 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3573342]	Jason Ashman
+Q-0	[01] Wed 24 Jul 2013  5:45 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Wed 24 Jul 2013  5:46 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Wed 24 Jul 2013  5:46 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[3574434]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  1:05 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3575844]	Rock King
+Q-0	[01] Sat 13 Jul 2013 10:36 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013 10:36 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3576023]	Sunny Singh
+Q-0	[01] Thu 18 Jul 2013  4:44 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Thu 18 Jul 2013  4:44 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3576707]	George Bassem Eskandar
+Q-0	[01] Thu  1 Aug 2013 10:14 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3578327]	Anonymous
+Q-0	[01] Sat  3 Aug 2013  4:54 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat  3 Aug 2013  4:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3578513]	Ludwig Widerka
+Q-0	[01] Sun 14 Jul 2013  3:50 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  3:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3578594]	Tatiana Pavlova
+Q-0	[01] Thu 25 Jul 2013  8:21 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3579851]	Nikos Goumenakis
+Q-0	[01] Wed 31 Jul 2013 10:50 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3580841]	Marta Bozek
+Q-0	[01] Mon 22 Jul 2013  8:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3586798]	Robert Cichocki
+Q-0	[01] Sun 28 Jul 2013  7:37 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3590621]	Anonymous
+Q-0	[01] Sat  3 Aug 2013  1:30 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3592719]	Ed Corack
+Q-0	[01] Sat 20 Jul 2013  8:42 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sat 20 Jul 2013  8:42 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 20 Jul 2013  8:42 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[3592810]	ioannis siokos
+Q-0	[01] Mon 22 Jul 2013  8:12 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Mon 22 Jul 2013  8:12 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Mon 22 Jul 2013  8:12 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3593162]	Matthew Poirier
+Q-0	[01] Sun  4 Aug 2013  1:09 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3593345]	George
+Q-0	[01] Sun 14 Jul 2013  9:12 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3593779]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  1:07 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3595064]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  3:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3606105]	Anonymous
+Q-0	[01] Tue 30 Jul 2013  1:50 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3609083]	Cristina Avram
+Q-0	[01] Fri  2 Aug 2013 11:44 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3619862]	Suvradip Chakraborty
+Q-0	[01] Sat 13 Jul 2013  4:11 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3622737]	emanuel oniga
+Q-0	[01] Tue 30 Jul 2013  7:26 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 30 Jul 2013  7:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3623549]	Anonymous
+Q-0	[01] Wed 31 Jul 2013  4:17 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Wed 31 Jul 2013  4:17 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Wed 31 Jul 2013  4:17 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3627150]	Corden McKenzie
+Q-0	[01] Sun 14 Jul 2013  3:54 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  3:54 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3627390]	Fabian Vladimir Zambrano Coral
+Q-0	[01] Thu 18 Jul 2013  2:32 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Thu 18 Jul 2013  2:32 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3629791]	Priyanshu Dubey
+Q-0	[01] Fri 19 Jul 2013  1:34 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 19 Jul 2013  1:34 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3632099]	Cindy Wrede
+Q-0	[01] Fri 19 Jul 2013  2:46 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3632621]	Nicole Wagenblast
+Q-0	[01] Sat 13 Jul 2013  2:42 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 13 Jul 2013  2:42 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3635381]	Brian O'Connell
+Q-0	[01] Wed 24 Jul 2013  7:20 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3637101]	Ava Tartaglia
+Q-0	[01] Tue 23 Jul 2013  6:10 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 23 Jul 2013  6:10 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3640473]	Siwei Gao
+Q-0	[01] Tue 16 Jul 2013 12:54 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Tue 16 Jul 2013 12:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3641068]	Ivana Todorovic
+Q-0	[01] Fri 19 Jul 2013  3:49 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3641407]	Kevin Murphy
+Q-0	[01] Fri 19 Jul 2013  5:52 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013  5:52 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Fri 19 Jul 2013  5:52 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3643253]	Robert Bustichi
+Q-0	[01] Sun 14 Jul 2013  5:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3644628]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  5:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3648322]	Deborah quazzo
+Q-0	[01] Sat 20 Jul 2013 10:20 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 20 Jul 2013 10:20 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 20 Jul 2013 10:20 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3651455]	Craig
+Q-0	[01] Tue 23 Jul 2013  7:47 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3653814]	Anonymous
+Q-0	[01] Wed 17 Jul 2013  2:21 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Wed 17 Jul 2013  2:21 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Wed 17 Jul 2013  2:21 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3655778]	Anonymous
+Q-0	[01] Sat 20 Jul 2013  5:12 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3656865]	Alexander Masyagin
+Q-0	[01] Thu 18 Jul 2013  8:53 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3656898]	Patrick O'Connell
+Q-0	[01] Fri 26 Jul 2013 12:54 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 26 Jul 2013 12:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3662917]	Kyung Min Song
+Q-0	[01] Tue 23 Jul 2013 12:24 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3666005]	Richard Alexander Lara Quiroz
+Q-0	[01] Sat 27 Jul 2013 11:07 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 27 Jul 2013 11:07 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 27 Jul 2013 11:07 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[3666252]	Harold Patterson
+Q-0	[01] Wed 17 Jul 2013  7:34 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3669642]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  9:14 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3670695]	Jose M. Rios
+Q-0	[01] Wed 17 Jul 2013  8:58 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3671051]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  3:20 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 21 Jul 2013  3:20 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sun 21 Jul 2013  3:20 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3673394]	Stefano Pistillo
+Q-0	[01] Thu  1 Aug 2013  3:27 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu  1 Aug 2013  3:27 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3677184]	John McErlain
+Q-0	[01] Mon 15 Jul 2013  7:25 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013  7:25 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3680701]	Dodi Darsiyan
+Q-0	[01] Thu 18 Jul 2013  1:20 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Thu 18 Jul 2013  1:20 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3681427]	Maria Thomas
+Q-0	[01] Wed 17 Jul 2013  5:32 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Wed 17 Jul 2013  5:32 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Wed 17 Jul 2013  5:32 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[3682404]	Melinda Pethel
+Q-0	[01] Mon 22 Jul 2013  4:40 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3683803]	Caroline Quazzo
+Q-0	[01] Mon 15 Jul 2013  1:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3688105]	Dustin Maretz
+Q-0	[01] Fri 19 Jul 2013 12:57 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013 12:57 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3689776]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  9:59 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3693600]	steve kaleta
+Q-0	[01] Tue 23 Jul 2013  1:01 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3694396]	Cassandra Hammond
+Q-0	[01] Tue 16 Jul 2013  2:00 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Tue 16 Jul 2013  2:00 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3694609]	CRISTINA
+Q-0	[01] Mon  5 Aug 2013  7:55 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3696093]	Daniel Salefski
+Q-0	[01] Sun 14 Jul 2013  6:37 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3697485]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  6:09 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3698556]	Lynn Kobayashi
+Q-0	[01] Sat 13 Jul 2013  8:09 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013  8:09 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3702099]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  5:16 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Mon 22 Jul 2013  5:16 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Mon 22 Jul 2013  5:16 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3703975]	Anonymous
+Q-0	[01] Fri 19 Jul 2013  2:01 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 19 Jul 2013  2:02 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3704397]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  1:10 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3705453]	Anonymous
+Q-0	[01] Tue 30 Jul 2013  5:02 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 30 Jul 2013  5:02 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3708868]	nissim katry
+Q-0	[01] Mon 15 Jul 2013  5:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3712362]	Arnoud Morsink
+Q-0	[01] Fri 19 Jul 2013  1:29 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3712405]	Yixin He
+Q-0	[01] Wed 17 Jul 2013  6:49 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3714238]	Evangelos Deirmentzoglou
+Q-0	[01] Wed 17 Jul 2013  5:47 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3715513]	Lora Andronova
+Q-0	[01] Mon 15 Jul 2013  1:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3718396]	Laura Fung
+Q-0	[01] Wed 24 Jul 2013  7:48 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3718548]	Emily Morrison
+Q-0	[01] Thu 18 Jul 2013  5:24 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 18 Jul 2013  5:24 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3720934]	Cory Simmons-Edler
+Q-0	[01] Mon 29 Jul 2013  2:45 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Mon 29 Jul 2013  2:45 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Mon 29 Jul 2013  2:45 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[3722248]	Siobhain
+Q-0	[01] Mon 29 Jul 2013  2:23 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3722508]	Anonymous
+Q-0	[01] Sat 20 Jul 2013  9:34 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3722773]	Julius
+Q-0	[01] Wed  4 Sep 2013 11:21 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3726269]	Keith Hart
+Q-0	[01] Mon 22 Jul 2013  3:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3726377]	Mark Barondes
+Q-0	[01] Tue 16 Jul 2013  9:11 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3726410]	Paweł Borowski
+Q-0	[01] Mon 12 Aug 2013  9:19 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Mon 12 Aug 2013  9:19 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon 12 Aug 2013  9:19 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+
+[3727552]	Ingvi Þór Georgsson
+Q-0	[01] Wed 24 Jul 2013 11:56 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Wed 24 Jul 2013 11:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3728003]	Jared Wood
+Q-0	[01] Wed 17 Jul 2013  2:51 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3728174]	Bob Coull
+Q-0	[01] Mon 29 Jul 2013  9:47 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3728970]	Matthew Giordano
+Q-0	[01] Mon 15 Jul 2013 12:46 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3730858]	Joe Melliere
+Q-0	[01] Tue 13 Aug 2013 11:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3733462]	Anonymous
+Q-0	[01] Wed 17 Jul 2013  6:34 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Wed 17 Jul 2013  6:34 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3733775]	Ingrid Winstone
+Q-0	[01] Wed  4 Sep 2013  6:30 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Wed  4 Sep 2013  6:30 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Wed  4 Sep 2013  6:30 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[3734087]	Jay Zhang
+Q-0	[01] Wed  7 Aug 2013  7:32 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3736081]	Bethany A Caruso
+Q-0	[01] Sat 13 Jul 2013  5:30 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 13 Jul 2013  5:30 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3739871]	Marcela Gomes Correa
+Q-0	[01] Tue 16 Jul 2013 11:00 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3740066]	Greg Diment
+Q-0	[01] Tue 23 Jul 2013  8:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3741524]	Christine Chien
+Q-0	[01] Tue 30 Jul 2013 12:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3745873]	muayyad
+Q-0	[01] Fri 19 Jul 2013 12:50 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013 12:50 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Fri 19 Jul 2013 12:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3747641]	Anthony Glueck
+Q-0	[01] Mon 15 Jul 2013 10:46 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3750622]	Anonymous
+Q-0	[01] Mon 12 Aug 2013  4:59 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Mon 12 Aug 2013  4:59 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Mon 12 Aug 2013  4:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3755970]	Elvis De Abreu
+Q-0	[01] Fri 26 Jul 2013 10:36 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3756090]	Elizabeth OCON
+Q-0	[01] Mon 15 Jul 2013  6:44 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3758491]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  6:10 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3759447]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  2:43 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013  2:43 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3762070]	Kevin Joseph Kelly
+Q-0	[01] Sun  4 Aug 2013 12:28 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Wed 28 Aug 2013  3:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3767665]	Daniel Chen
+Q-0	[01] Mon 22 Jul 2013  5:11 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3767733]	Christian Camilo Reyes Solis
+Q-0	[01] Sat 27 Jul 2013  3:55 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sat 27 Jul 2013  3:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3768700]	KRITI BHANDARI
+Q-0	[01] Sat 20 Jul 2013  9:45 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 20 Jul 2013  9:45 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3770615]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  6:33 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3776747]	Anonymous
+Q-0	[01] Fri 12 Jul 2013  9:37 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3793326]	Senna Gildas Aplogan
+Q-0	[01] Fri 30 Aug 2013  9:35 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3793585]	Jyothi Suresh
+Q-0	[01] Wed 21 Aug 2013 12:46 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3797213]	Adrian Moskovitch
+Q-0	[01] Sat 20 Jul 2013 11:34 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3800093]	Kelly Clark
+Q-0	[01] Wed 31 Jul 2013 10:05 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Wed 31 Jul 2013 10:05 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3800159]	carlos rusu
+Q-0	[01] Tue 23 Jul 2013  6:24 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 23 Jul 2013  6:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3800669]	Noah Burhance
+Q-0	[01] Mon 15 Jul 2013 12:23 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3803436]	Helen Micheaux
+Q-0	[01] Wed 17 Jul 2013  4:24 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 17 Jul 2013  4:24 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Wed 17 Jul 2013  4:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3803840]	haim tsolker
+Q-0	[01] Wed 17 Jul 2013  7:30 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 17 Jul 2013  7:30 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3809222]	Anonymous
+Q-0	[01] Sun 18 Aug 2013  8:58 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 18 Aug 2013  8:58 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3811927]	Ananya Rajesh
+Q-0	[01] Sun 14 Jul 2013  3:52 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3812405]	Anonymous
+Q-0	[01] Mon 29 Jul 2013 11:05 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 29 Jul 2013 11:05 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon 29 Jul 2013 11:05 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3816314]	Salam Mustafa
+Q-0	[01] Sun 14 Jul 2013  3:47 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  3:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3817769]	Rafael Santisteban
+Q-0	[01] Wed 17 Jul 2013 11:03 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3825005]	Rahul Rajagopal
+Q-0	[01] Mon 15 Jul 2013  5:34 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3834675]	Frederick Tan
+Q-0	[01] Wed 17 Jul 2013  3:05 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3835929]	Do HOon Kim
+Q-0	[01] Thu 18 Jul 2013  8:44 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3838476]	Suzanne Parks
+Q-0	[01] Sat 13 Jul 2013  9:17 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3840617]	Anonymous
+Q-0	[01] Fri 19 Jul 2013  9:22 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 19 Jul 2013  9:22 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Fri 19 Jul 2013  9:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3841641]	Duaine lewis
+Q-0	[01] Tue 16 Jul 2013  8:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3842196]	Louis Lucas
+Q-0	[01] Sun 21 Jul 2013  4:01 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sun 21 Jul 2013  4:01 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Sun 21 Jul 2013  4:01 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[04] Wed 24 Jul 2013  3:02 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[05] Wed 24 Jul 2013  3:02 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3842807]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  8:26 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3845211]	Martin Kamar
+Q-0	[01] Thu  1 Aug 2013 10:49 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3845464]	Farid Bakir
+Q-0	[01] Mon 15 Jul 2013  4:53 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3845688]	Annemarie Widmer
+Q-0	[01] Sat 13 Jul 2013 12:16 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3846897]	Viktor Dimitrov
+Q-0	[01] Mon 19 Aug 2013  8:57 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3851906]	Luis Guerra
+Q-0	[01] Wed 17 Jul 2013  5:04 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3855108]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  9:31 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3855156]	Lenny Fortnash
+Q-0	[01] Sun 21 Jul 2013 12:25 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3855530]	Jeff H Federer
+Q-0	[01] Mon 15 Jul 2013  1:17 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3855705]	Eric
+Q-0	[01] Mon 15 Jul 2013 12:15 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3856486]	Yacov m
+Q-0	[01] Sat 13 Jul 2013  1:33 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3858378]	Rafa Rueda
+Q-0	[01] Sat 13 Jul 2013  3:04 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sat 13 Jul 2013  3:04 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Sat 13 Jul 2013  3:04 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3861791]	yun-chieh
+Q-0	[01] Wed 17 Jul 2013  7:09 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3862301]	Allen chen
+Q-0	[01] Mon 15 Jul 2013  4:39 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3864611]	Austin Samuel Carr
+Q-0	[01] Wed 17 Jul 2013  1:14 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3864914]	Craig Watkins
+Q-0	[01] Sat 13 Jul 2013  5:23 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3865543]	Thierry EBENER
+Q-0	[01] Mon 22 Jul 2013  8:28 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 22 Jul 2013  8:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3869521]	Jeffrey Santi
+Q-0	[01] Thu 18 Jul 2013  7:07 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3870895]	Adam Barrett
+Q-0	[01] Tue 23 Jul 2013 10:31 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Tue 23 Jul 2013 11:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3870957]	Aaron Huang
+Q-0	[01] Thu 25 Jul 2013 12:10 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3871907]	Anonymous
+Q-0	[01] Fri 12 Jul 2013 11:00 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 12 Jul 2013 11:00 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3873014]	Jen Garcia
+Q-0	[01] Sat 20 Jul 2013  4:42 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 20 Jul 2013  4:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3874578]	Yiew Hock Mark
+Q-0	[01] Tue 20 Aug 2013  5:02 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3876356]	Anjali Deshmukh
+Q-0	[01] Sat 20 Jul 2013 11:15 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3879133]	Sarina Pradhananga
+Q-0	[01] Tue 16 Jul 2013  4:01 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Tue 16 Jul 2013  4:02 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Tue 16 Jul 2013  4:02 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[3880618]	Ginger Rieser
+Q-0	[01] Thu 25 Jul 2013  6:02 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3882076]	padma jagannathan
+Q-0	[01] Mon 15 Jul 2013  3:42 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3883367]	Dennis Kunimura
+Q-0	[01] Fri 12 Jul 2013  9:53 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 12 Jul 2013  9:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3884871]	Anonymous
+Q-0	[01] Sat 27 Jul 2013  9:24 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3885026]	Lisa Fraser
+Q-0	[01] Sun 21 Jul 2013  7:03 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sun 21 Jul 2013  7:03 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3885049]	Dustin Farley
+Q-0	[01] Sat 13 Jul 2013  9:12 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013  9:12 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3888579]	Eleanor A. Hagen
+Q-0	[01] Sun 14 Jul 2013  6:49 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3893727]	Esteban Arroyo
+Q-0	[01] Thu 18 Jul 2013  4:37 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3896149]	Victoria Chikaldina
+Q-0	[01] Sun 14 Jul 2013 12:48 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3896898]	Stefan Becker
+Q-0	[01] Fri 19 Jul 2013  2:11 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 19 Jul 2013  2:11 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Fri 19 Jul 2013  2:11 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[3898205]	Carlos Jaramillo
+Q-0	[01] Wed 31 Jul 2013 10:46 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 31 Jul 2013 10:46 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3899470]	Jessica O'Connell-Lynch
+Q-0	[01] Fri 19 Jul 2013  8:03 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3901736]	John Gathings
+Q-0	[01] Sun 21 Jul 2013  9:26 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3902771]	Anonymous
+Q-0	[01] Fri 26 Jul 2013  6:11 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 26 Jul 2013  6:11 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3906535]	Ryan Wong
+Q-0	[01] Mon 29 Jul 2013  4:25 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3907846]	Kevin Manley
+Q-0	[01] Wed 17 Jul 2013  1:49 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3908300]	Patricia Wang
+Q-0	[01] Tue 16 Jul 2013  3:51 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Sun 28 Jul 2013  1:29 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3912656]	Monika Maria Cabaj
+Q-0	[01] Sun  4 Aug 2013  6:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3913715]	Ganqin Huang
+Q-0	[01] Tue 30 Jul 2013  2:00 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Tue 30 Jul 2013  2:01 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3913768]	Galina
+Q-0	[01] Sat 20 Jul 2013  2:08 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 20 Jul 2013  2:09 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3915175]	Anonymous
+Q-0	[01] Fri 19 Jul 2013  1:43 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3916170]	Curtis Luis Leister
+Q-0	[01] Mon 15 Jul 2013  4:06 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3916826]	Niket Patel
+Q-0	[01] Wed 24 Jul 2013  1:31 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3918571]	Anonymous
+Q-0	[01] Sun 14 Jul 2013 10:06 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sun 14 Jul 2013 10:07 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sun 14 Jul 2013 10:07 AM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[3919098]	Anonymous
+Q-0	[01] Mon 15 Jul 2013 11:05 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013 11:05 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Mon 15 Jul 2013 11:05 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3919495]	Calin Constantin-Cosmin
+Q-0	[01] Wed 17 Jul 2013  9:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3923316]	Anonymous
+Q-0	[01] Wed  7 Aug 2013  5:16 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3928349]	Eduardo
+Q-0	[01] Wed 31 Jul 2013 10:59 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3929721]	Loida Betiz
+Q-0	[01] Mon 22 Jul 2013  8:30 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3932301]	LINGZI JIN
+Q-0	[01] Fri 26 Jul 2013 12:40 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3932458]	Linda Park
+Q-0	[01] Wed  7 Aug 2013  7:54 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3935138]	Carl
+Q-0	[01] Sun 14 Jul 2013  8:13 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3935247]	Chris Confalone
+Q-0	[01] Mon 15 Jul 2013  6:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3936323]	Anne Moeller
+Q-0	[01] Fri 12 Jul 2013  9:06 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3936681]	Ike Ma
+Q-0	[01] Fri 26 Jul 2013  6:25 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3936889]	Angela Weil
+Q-0	[01] Fri 19 Jul 2013 12:52 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3938066]	John Rutkowski
+Q-0	[01] Tue 30 Jul 2013  5:59 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3939645]	leigh richardson
+Q-0	[01] Thu 18 Jul 2013  6:02 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3939885]	Apoorav Gupta
+Q-0	[01] Mon 15 Jul 2013  9:32 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3939893]	Cheri Tolar
+Q-0	[01] Thu 25 Jul 2013  3:19 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3943663]	anshu mittal
+Q-0	[01] Sat 10 Aug 2013  1:33 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sat 10 Aug 2013  1:33 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 10 Aug 2013  1:34 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[3944101]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  4:10 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3945217]	Reesa Arshoff
+Q-0	[01] Sat 27 Jul 2013  4:00 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Sat 27 Jul 2013  4:00 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Sat 27 Jul 2013  4:00 AM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[3946801]	Roman Gorpenko
+Q-0	[01] Mon  5 Aug 2013  6:59 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon  5 Aug 2013  6:59 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon  5 Aug 2013  7:00 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3949487]	mikhail wagdy
+Q-0	[01] Fri 19 Jul 2013  4:29 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 19 Jul 2013  4:29 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3949612]	Patricia
+Q-0	[01] Sat 13 Jul 2013  1:37 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3951783]	Michal Medovic
+Q-0	[01] Sun 21 Jul 2013  7:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3952015]	kodali naveen
+Q-0	[01] Wed 17 Jul 2013 10:27 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Wed 17 Jul 2013 10:27 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3953862]	Adeline
+Q-0	[01] Fri 12 Jul 2013  8:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3954114]	Anonymous
+Q-0	[01] Wed 17 Jul 2013  1:45 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 17 Jul 2013  1:45 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3954139]	Fabian Rodriguez
+Q-0	[01] Sat 13 Jul 2013  4:33 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3957025]	Christina Kwok
+Q-0	[01] Sat 13 Jul 2013  1:35 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 13 Jul 2013  1:36 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3958141]	Visakh Sankar
+Q-0	[01] Tue 16 Jul 2013  9:24 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Mon 22 Jul 2013  6:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3958725]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  1:11 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3960336]	Lawrence Viljoen
+Q-0	[01] Mon 15 Jul 2013  6:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3960445]	Anonymous
+Q-0	[01] Fri 19 Jul 2013  2:51 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3960837]	Maria Weißenborn
+Q-0	[01] Wed 14 Aug 2013  5:32 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3961192]	Jeffrey K. Bingham
+Q-0	[01] Sun  4 Aug 2013  9:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3961545]	Gautam Kandlikar
+Q-0	[01] Sat 20 Jul 2013 12:00 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3962649]	Anonymous
+Q-0	[01] Sat 13 Jul 2013  9:31 AM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Sun 14 Jul 2013  6:49 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Sun 14 Jul 2013  6:49 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3963932]	Anonymous
+Q-0	[01] Fri 19 Jul 2013  6:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3964098]	Anonymous
+Q-0	[01] Fri 23 Aug 2013  8:54 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3965327]	Gregory Connors
+Q-0	[01] Sun 14 Jul 2013 11:05 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3966773]	Peter Ip
+Q-0	[01] Sun 14 Jul 2013  2:18 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  2:18 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3970320]	Anonymous
+Q-0	[01] Tue 16 Jul 2013 10:34 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3970785]	Anonymous
+Q-0	[01] Tue 16 Jul 2013 12:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3971765]	Daniel Haller
+Q-0	[01] Tue 27 Aug 2013  1:08 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3972340]	Olfert Rahbek
+Q-0	[01] Fri 19 Jul 2013 12:25 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3972380]	Kingsten Banh
+Q-0	[01] Mon 15 Jul 2013  9:15 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3972984]	Andrew CHAN
+Q-0	[01] Sun 21 Jul 2013  7:54 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3973619]	Elizabeth McGinty
+Q-0	[01] Sat 13 Jul 2013  5:22 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3974749]	Ricardo Elias
+Q-0	[01] Sun 18 Aug 2013  6:09 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3975182]	iuri soares
+Q-0	[01] Sun 14 Jul 2013  7:42 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  7:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3976189]	Abderraouf
+Q-0	[01] Sun 15 Sep 2013  2:28 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 15 Sep 2013  2:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3976801]	Lainie Cohen
+Q-0	[01] Sat 20 Jul 2013  8:47 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3976907]	Anonymous
+Q-0	[01] Thu 25 Jul 2013  9:23 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3977242]	Yury Aglyamov
+Q-0	[01] Tue 16 Jul 2013  7:14 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3977304]	Anonymous
+Q-0	[01] Sun 14 Jul 2013  5:20 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3977522]	Elidier Moya
+Q-0	[01] Mon 29 Jul 2013  2:51 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3977578]	Greg Schwab
+Q-0	[01] Sun 14 Jul 2013  2:49 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun 14 Jul 2013  2:49 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3977967]	Anonymous
+Q-0	[01] Thu 25 Jul 2013  1:36 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3978157]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  5:01 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3978826]	Xinyu Liu
+Q-0	[01] Sun 21 Jul 2013 12:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3980117]	Anonymous
+Q-0	[01] Thu 25 Jul 2013  3:28 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 25 Jul 2013  3:28 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Thu 25 Jul 2013  3:28 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[3980641]	Alexei Valerievich Borisov
+Q-0	[01] Sun 14 Jul 2013  5:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3982431]	Sebastián Rodas
+Q-0	[01] Sat 13 Jul 2013 11:34 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3983050]	Jvon Eugene Mitchell
+Q-0	[01] Mon 15 Jul 2013  3:03 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013  3:04 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[03] Tue 16 Jul 2013  2:31 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3986185]	Anonymous
+Q-0	[01] Tue 16 Jul 2013  1:44 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3988179]	Ariadna Manzano
+Q-0	[01] Thu 18 Jul 2013  1:12 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3989451]	Mansa van der Scheer-Briscoe
+Q-0	[01] Thu 18 Jul 2013 11:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3991303]	BUNDHUN Antee Kumari
+Q-0	[01] Tue 16 Jul 2013 11:29 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Tue 16 Jul 2013 11:29 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Tue 16 Jul 2013 11:29 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3992284]	anne maloney
+Q-0	[01] Sat 13 Jul 2013  9:35 PM UTC (UTC +0000)	1.00	None of the above.
+
+[3993801]	John Mastrogiovanni
+Q-0	[01] Fri 12 Jul 2013  8:43 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Sat 13 Jul 2013  6:00 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3994218]	Wolfgang Reuber
+Q-0	[01] Mon 15 Jul 2013  5:20 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013  5:20 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon 15 Jul 2013  5:20 PM UTC (UTC +0000)	0.00	The duration of the collision.
+
+[3996736]	Jay Chen
+Q-0	[01] Fri 26 Jul 2013  3:26 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Fri 26 Jul 2013  3:26 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3996921]	ricardo bazile
+Q-0	[01] Fri 19 Jul 2013 12:25 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 19 Jul 2013 12:26 AM UTC (UTC +0000)	1.00	None of the above.
+
+[3999510]	Quan Chun Lin
+Q-0	[01] Mon 22 Jul 2013  1:09 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 22 Jul 2013  1:09 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[03] Mon 22 Jul 2013  1:09 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+
+[4001272]	Sjoerd van Geloven
+Q-0	[01] Tue 16 Jul 2013 12:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4003348]	p choudhury
+Q-0	[01] Thu 18 Jul 2013  8:59 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 18 Jul 2013  8:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4004095]	Richard Saunders
+Q-0	[01] Sun 14 Jul 2013 10:02 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4005214]	Donald Feltham
+Q-0	[01] Tue 23 Jul 2013  8:07 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4005317]	Sabine Weber
+Q-0	[01] Mon 15 Jul 2013  5:24 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4005379]	Leo Chan
+Q-0	[01] Fri 23 Aug 2013  9:45 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4005391]	Anonymous
+Q-0	[01] Tue 16 Jul 2013 10:41 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4007552]	Rivers Cornelson
+Q-0	[01] Wed 31 Jul 2013  9:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4010718]	Michiel Ghyselinck
+Q-0	[01] Thu 25 Jul 2013  6:57 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Thu 25 Jul 2013  6:57 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4011174]	Shyuechinglu
+Q-0	[01] Sun 14 Jul 2013  7:26 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4012072]	Habiba Al-Toudy
+Q-0	[01] Sun 14 Jul 2013  4:15 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4014273]	Kenneth Papai
+Q-0	[01] Sat 13 Jul 2013 12:11 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4014565]	Anonymous
+Q-0	[01] Thu 22 Aug 2013  5:49 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Thu 22 Aug 2013  5:49 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4015334]	Vasil Martiko
+Q-0	[01] Fri 12 Jul 2013  9:07 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri 12 Jul 2013  9:07 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4016016]	Anonymous
+Q-0	[01] Sat 13 Jul 2013 10:33 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4020361]	Kaitlin Ardiff
+Q-0	[01] Mon 15 Jul 2013  5:56 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4021892]	Maria Margarida Gouveia Ribeiro
+Q-0	[01] Wed 17 Jul 2013  4:45 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4030774]	Teodor Atroshenko
+Q-0	[01] Fri 12 Jul 2013 11:11 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 12 Jul 2013 11:11 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4031231]	Fabio Carletti
+Q-0	[01] Mon 15 Jul 2013 10:33 AM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[02] Mon 15 Jul 2013 10:33 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4032377]	Cole Rodenberg
+Q-0	[01] Tue 30 Jul 2013 12:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4033171]	bob bones
+Q-0	[01] Tue 16 Jul 2013  9:28 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Tue 16 Jul 2013  9:28 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4037837]	Jamil Akkad
+Q-0	[01] Thu 18 Jul 2013  9:18 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4038078]	Yogesh Dave
+Q-0	[01] Sun  4 Aug 2013  7:44 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4040712]	yamini chandrasekar
+Q-0	[01] Mon 22 Jul 2013 12:44 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4042175]	Aditya Pahade
+Q-0	[01] Mon 15 Jul 2013  9:49 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4042182]	Luciano
+Q-0	[01] Thu 18 Jul 2013 10:20 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4043096]	Hae Jeong
+Q-0	[01] Sat 31 Aug 2013 11:55 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4043238]	Tyler Olson
+Q-0	[01] Tue 16 Jul 2013  2:34 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4043800]	Lim Chin Wee
+Q-0	[01] Sun 14 Jul 2013  6:10 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4049685]	chaojun zhou
+Q-0	[01] Mon 15 Jul 2013  1:17 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4052494]	George Ilio
+Q-0	[01] Mon 15 Jul 2013  6:50 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4053394]	Xiyang Zhang
+Q-0	[01] Fri 19 Jul 2013  2:01 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4057727]	Zenogio Joker Velasquez
+Q-0	[01] Wed  7 Aug 2013  3:33 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4060993]	Timothy Smith
+Q-0	[01] Sun 14 Jul 2013  9:48 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4061112]	Tomer Greenberg
+Q-0	[01] Mon 15 Jul 2013  7:35 PM UTC (UTC +0000)	1.00	None of the above.
+Q-0	[02] Fri 26 Jul 2013 10:57 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4065098]	Tracie Middleton
+Q-0	[01] Mon 26 Aug 2013  4:51 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Mon 26 Aug 2013  4:51 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4065204]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  6:52 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4066715]	Roxana Flori SEITAN
+Q-0	[01] Fri 19 Jul 2013  9:47 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4069286]	Akuoko
+Q-0	[01] Mon 15 Jul 2013  9:47 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013  9:47 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4076797]	Tom.Dou
+Q-0	[01] Fri 30 Aug 2013 10:16 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Fri 30 Aug 2013 10:16 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4078804]	Muhammad Fahad uddin
+Q-0	[01] Thu 18 Jul 2013  8:46 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4080205]	Anonymous
+Q-0	[01] Sun 21 Jul 2013 12:33 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4082130]	Varun Bhargava
+Q-0	[01] Mon 15 Jul 2013  1:08 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 15 Jul 2013  1:08 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4082885]	sanchit Bagai
+Q-0	[01] Mon 29 Jul 2013  3:32 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Mon 29 Jul 2013  3:32 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Mon 29 Jul 2013  3:32 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4082935]	Lindsay Brooks
+Q-0	[01] Mon  2 Sep 2013  6:07 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4084174]	Justinas Baronas
+Q-0	[01] Sun 28 Jul 2013 10:59 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Sun 28 Jul 2013 10:59 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4084482]	Helge Kvernerud
+Q-0	[01] Tue 16 Jul 2013  2:36 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4088215]	Anonymous
+Q-0	[01] Mon 15 Jul 2013  4:12 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4103835]	Juan F. Castro
+Q-0	[01] Wed 21 Aug 2013  8:36 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4108322]	Sanon Ollrich
+Q-0	[01] Fri 19 Jul 2013  2:42 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4113978]	Rakesh Tripathi
+Q-0	[01] Fri 26 Jul 2013  3:09 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4121517]	Patricia Demestre
+Q-0	[01] Mon  2 Sep 2013  4:32 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4124412]	Alex King
+Q-0	[01] Sat 20 Jul 2013 11:59 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 20 Jul 2013 11:59 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4144150]	Joe Means
+Q-0	[01] Wed 24 Jul 2013  6:46 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4154603]	Raïsa Carmen
+Q-0	[01] Wed 24 Jul 2013  2:29 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Wed 24 Jul 2013  2:29 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4239268]	luu
+Q-0	[01] Fri  9 Aug 2013  1:48 AM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[02] Fri  9 Aug 2013  1:48 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[03] Fri  9 Aug 2013  1:48 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4253413]	Anonymous
+Q-0	[01] Wed  7 Aug 2013  3:09 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4267269]	Fernando Aguirre
+Q-0	[01] Mon 12 Aug 2013 11:38 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4270421]	Anonymous
+Q-0	[01] Sun  4 Aug 2013  1:33 PM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sun  4 Aug 2013  1:33 PM UTC (UTC +0000)	0.00	The difference in SIR between the two frames.
+Q-0	[03] Sun  4 Aug 2013  1:33 PM UTC (UTC +0000)	0.00	The duration of the collision.
+Q-0	[04] Wed 21 Aug 2013  3:35 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[05] Wed 21 Aug 2013  3:36 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4283709]	David Mark Ballantine
+Q-0	[01] Sun 11 Aug 2013  5:10 AM UTC (UTC +0000)	1.00	None of the above.
+
+[4391149]	Rajat
+Q-0	[01] Sat 31 Aug 2013  5:53 PM UTC (UTC +0000)	1.00	None of the above.
+
+[4395092]	Corey Autrey
+Q-0	[01] Sat 24 Aug 2013  2:35 AM UTC (UTC +0000)	0.00	The required SIR at the receiver(s). 
+Q-0	[02] Sat 24 Aug 2013  2:35 AM UTC (UTC +0000)	1.00	None of the above.

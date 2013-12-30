@@ -1,0 +1,1042 @@
+Questions
+---------------
+Q-0	For the current implementation of TCP/IP, which of the following statements is true?
+
+Student Answers
+---------------
+
+[5273]	Dmytro Krasnoshtan
+Q-0	[01] Thu 15 Aug 2013  6:56 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[17500]	Sergey Zinov
+Q-0	[01] Sat 31 Aug 2013  6:56 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[23141]	Atakan Dogan
+Q-0	[01] Mon 19 Aug 2013  6:33 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[02] Mon 19 Aug 2013 10:16 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[27268]	Stephen Horwat
+Q-0	[01] Thu 15 Aug 2013 12:03 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[39836]	Mohammad Muntasir Biojid Sirajee
+Q-0	[01] Tue 27 Aug 2013  3:44 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[50242]	Sean Lip
+Q-0	[01] Mon 26 Aug 2013 12:35 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[54103]	Gawain Bosworth
+Q-0	[01] Wed 14 Aug 2013  5:37 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[64094]	Lars Johnsen
+Q-0	[01] Sun 25 Aug 2013 10:37 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[66539]	amit verma
+Q-0	[01] Wed 14 Aug 2013 11:57 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[92726]	Rafal Jasiak
+Q-0	[01] Sat 17 Aug 2013  3:31 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Sat 17 Aug 2013  3:31 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[03] Sat 17 Aug 2013  3:31 PM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+
+[101222]	Jonghyun Park
+Q-0	[01] Wed 28 Aug 2013  2:53 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[118308]	Otma
+Q-0	[01] Tue 13 Aug 2013  5:21 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[121674]	Evan Pokroy
+Q-0	[01] Mon 19 Aug 2013  1:23 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[133614]	Sudeep Conoor
+Q-0	[01] Fri 23 Aug 2013  6:38 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Fri 23 Aug 2013  6:38 AM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[03] Fri 23 Aug 2013  6:39 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[138405]	bill palacio
+Q-0	[01] Sun 18 Aug 2013  6:02 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[152631]	david beaurpere
+Q-0	[01] Sat 17 Aug 2013  1:38 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[154804]	James C Weaver
+Q-0	[01] Thu 15 Aug 2013  3:53 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[164947]	Amy
+Q-0	[01] Thu 29 Aug 2013 11:19 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[190487]	Anonymous
+Q-0	[01] Fri 23 Aug 2013  6:59 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[219161]	Jill Dunham
+Q-0	[01] Tue 13 Aug 2013  9:30 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Tue 13 Aug 2013  9:30 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[227287]	Shirlyn Wong
+Q-0	[01] Mon 19 Aug 2013 10:29 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[243541]	Larry Furlong
+Q-0	[01] Thu 15 Aug 2013  1:56 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[251992]	Rich Walsh
+Q-0	[01] Mon 19 Aug 2013  3:13 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[257434]	JON A JONES
+Q-0	[01] Wed 21 Aug 2013  6:47 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[259264]	Anthony Kolasny
+Q-0	[01] Wed 21 Aug 2013  5:26 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[260380]	jinghua
+Q-0	[01] Thu 19 Sep 2013  4:21 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[277571]	Robert
+Q-0	[01] Sun 25 Aug 2013  3:53 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[298903]	Pedro Baez
+Q-0	[01] Fri 30 Aug 2013 12:22 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[305077]	Radu Aldea
+Q-0	[01] Sun 18 Aug 2013  6:43 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[325086]	Sampath Kumar
+Q-0	[01] Fri 30 Aug 2013  6:31 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[326609]	Lior Meyer
+Q-0	[01] Fri 30 Aug 2013  5:16 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[328093]	keiko fukunaga
+Q-0	[01] Sun 18 Aug 2013  6:58 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[332085]	Pauline
+Q-0	[01] Tue 13 Aug 2013  7:39 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[342176]	Michael Goldshmidt
+Q-0	[01] Sat 17 Aug 2013  4:39 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[394664]	Mamoru Saito
+Q-0	[01] Tue 20 Aug 2013  2:03 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[411658]	Nelson Garcia de Paula
+Q-0	[01] Sat 31 Aug 2013  4:18 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[417205]	Lars Hvidegaard
+Q-0	[01] Tue 13 Aug 2013  7:33 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[464581]	Michael Bain
+Q-0	[01] Wed 14 Aug 2013  4:49 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[471028]	Anonymous
+Q-0	[01] Fri 16 Aug 2013  3:24 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[477868]	Corrie Watt
+Q-0	[01] Wed 21 Aug 2013 12:24 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[486289]	sunku venkata subramanya pruthvi
+Q-0	[01] Sun  1 Sep 2013  8:29 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[488262]	Anonymous
+Q-0	[01] Thu 15 Aug 2013  4:30 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[498780]	Liam Brennan
+Q-0	[01] Sat 24 Aug 2013 10:50 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Sat 24 Aug 2013 10:50 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[508091]	anne kerr
+Q-0	[01] Wed 14 Aug 2013  6:17 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[514265]	Seraphine Lishe Jong
+Q-0	[01] Fri 23 Aug 2013  7:58 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[519493]	Stefano Moretti
+Q-0	[01] Tue 20 Aug 2013  4:03 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[531213]	K S Senerath de Silva
+Q-0	[01] Tue 13 Aug 2013 11:42 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[547145]	Roger Stanton
+Q-0	[01] Wed 14 Aug 2013  9:07 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[548458]	morsmordre
+Q-0	[01] Sat 31 Aug 2013  7:21 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[565491]	Axel Schwanke
+Q-0	[01] Wed 14 Aug 2013  3:22 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[565624]	Tatyana
+Q-0	[01] Thu 29 Aug 2013  2:54 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[569763]	Nivedh Rajesh
+Q-0	[01] Thu 29 Aug 2013 12:27 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[02] Thu 29 Aug 2013  6:42 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[570760]	Xiaoye Steven Sun
+Q-0	[01] Tue 13 Aug 2013  9:42 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[573281]	John Fletcher
+Q-0	[01] Wed 21 Aug 2013 11:17 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[585870]	MiguelFernandez
+Q-0	[01] Sun 25 Aug 2013 11:42 AM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+Q-0	[02] Sun 25 Aug 2013 11:42 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[03] Sun 25 Aug 2013 11:42 AM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[04] Mon  2 Sep 2013  6:53 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[599303]	Faraz Rashid
+Q-0	[01] Sat 17 Aug 2013  7:35 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[625100]	Alexander King Ejiofor
+Q-0	[01] Sat 14 Sep 2013  7:37 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[684655]	Sabina Anna Rydzek
+Q-0	[01] Mon 19 Aug 2013  7:11 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[692135]	Sebastian Morana
+Q-0	[01] Wed 14 Aug 2013 11:57 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[703119]	Sumant
+Q-0	[01] Fri 16 Aug 2013  4:09 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[02] Sat 24 Aug 2013  5:49 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[03] Tue 27 Aug 2013  4:52 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[708105]	Wendy Bryan
+Q-0	[01] Fri 16 Aug 2013  5:17 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[722512]	Leszek Worosz
+Q-0	[01] Fri 16 Aug 2013  8:51 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Fri 16 Aug 2013  8:52 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[759170]	Eileen McDevitt
+Q-0	[01] Thu 15 Aug 2013 12:55 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[768475]	Bill Wolf
+Q-0	[01] Tue 13 Aug 2013 11:42 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[768527]	Jadranka Stojadinovic
+Q-0	[01] Mon 26 Aug 2013  2:12 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[772395]	Harold Glascock
+Q-0	[01] Mon 19 Aug 2013  2:49 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[806218]	shih-chun chang
+Q-0	[01] Mon 19 Aug 2013  1:28 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[809877]	Yau Choi George Lam
+Q-0	[01] Tue 13 Aug 2013  9:36 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[815366]	Andre Zaru
+Q-0	[01] Fri 16 Aug 2013  1:15 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Fri 16 Aug 2013  1:15 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[831265]	Andy Leung
+Q-0	[01] Sat 17 Aug 2013  7:33 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[839054]	Daniel Goyzueta Saenz
+Q-0	[01] Tue 20 Aug 2013  1:31 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Tue 20 Aug 2013  1:31 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[839369]	Kenny Hiep Ngo
+Q-0	[01] Wed 14 Aug 2013  4:35 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Wed 14 Aug 2013  4:35 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[841843]	Lazaros Aggelou
+Q-0	[01] Mon 19 Aug 2013  7:04 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[858163]	Vladimir Sachanski
+Q-0	[01] Fri 23 Aug 2013  3:37 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[881583]	Carlos Zhu
+Q-0	[01] Mon 16 Sep 2013 12:38 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[892325]	Elijah Agbayani
+Q-0	[01] Thu 15 Aug 2013  4:16 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[960936]	shishir
+Q-0	[01] Tue 20 Aug 2013  5:19 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[964434]	Chew Sock Lay Nellie
+Q-0	[01] Sun 18 Aug 2013  6:56 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Sun 18 Aug 2013  6:56 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1013961]	Joan Caldwell
+Q-0	[01] Mon 19 Aug 2013 12:35 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1021195]	Elena Zacarias de Palacios
+Q-0	[01] Sun 18 Aug 2013  8:19 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1024350]	Peter Seif
+Q-0	[01] Tue 20 Aug 2013 11:45 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1031818]	Peter Terlecky
+Q-0	[01] Tue 13 Aug 2013  9:35 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1122374]	Anonymous
+Q-0	[01] Wed 14 Aug 2013  3:17 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1165925]	Ian Pottinger
+Q-0	[01] Thu 15 Aug 2013  6:11 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1176417]	Georgi Kermekchiev
+Q-0	[01] Fri 16 Aug 2013 12:17 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Fri 16 Aug 2013 12:17 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[03] Fri 16 Aug 2013 12:18 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1181293]	Brandon Roberts
+Q-0	[01] Tue 20 Aug 2013  7:27 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1185212]	Anonymous
+Q-0	[01] Wed 14 Aug 2013 12:55 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1202176]	julian murillo ramos
+Q-0	[01] Sat 24 Aug 2013  4:30 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1211079]	Anonymous
+Q-0	[01] Wed  4 Sep 2013 12:38 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1242357]	Joe Kantoris
+Q-0	[01] Fri 23 Aug 2013  5:54 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1248420]	Akira Hirai
+Q-0	[01] Sun 18 Aug 2013  1:24 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1288375]	Marc Kimpe
+Q-0	[01] Wed 21 Aug 2013  5:15 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1300744]	Tan Kok Hui
+Q-0	[01] Tue 13 Aug 2013  2:50 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1309476]	Robert Fountain
+Q-0	[01] Tue 13 Aug 2013  7:38 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1314441]	Aliaksei Liutsich
+Q-0	[01] Tue 20 Aug 2013  4:19 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1405383]	Angus Ng Ka-chun
+Q-0	[01] Sun 18 Aug 2013  5:14 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1440001]	Mark Weston-Dawkes
+Q-0	[01] Wed 14 Aug 2013  5:00 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1460153]	Laura Coto Sáenz
+Q-0	[01] Fri 16 Aug 2013  9:07 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[02] Tue 27 Aug 2013 10:16 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1462112]	Rich Malcolm
+Q-0	[01] Wed 14 Aug 2013 11:13 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Wed 14 Aug 2013 11:13 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1471983]	Timothy Kohrumel
+Q-0	[01] Thu 19 Sep 2013 10:18 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1498376]	LI PAK KEE
+Q-0	[01] Wed 14 Aug 2013  6:00 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1502597]	Grace H
+Q-0	[01] Tue 20 Aug 2013  3:50 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Tue 20 Aug 2013  3:50 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1529453]	Bradley Feingerts
+Q-0	[01] Wed 14 Aug 2013  1:41 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1567507]	Stephen Matthews
+Q-0	[01] Tue 13 Aug 2013  6:45 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1569534]	Maresu Andrei-Razvan
+Q-0	[01] Mon 19 Aug 2013 11:29 AM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[02] Mon 19 Aug 2013 11:29 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1589902]	Elizabeth T. Rummler
+Q-0	[01] Mon 19 Aug 2013  9:54 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1597353]	Rafał Maciejewski
+Q-0	[01] Wed 18 Sep 2013 11:18 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1639691]	Tse Yang, Lim
+Q-0	[01] Tue 20 Aug 2013 11:35 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1675062]	Cindy Ris Zanca
+Q-0	[01] Mon 19 Aug 2013 12:07 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Mon 19 Aug 2013 12:07 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1683710]	Cory Blaquiere
+Q-0	[01] Sun 18 Aug 2013  6:20 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1718816]	Bogdan Ionita
+Q-0	[01] Thu 22 Aug 2013  1:12 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1728157]	Anonymous
+Q-0	[01] Thu 29 Aug 2013  1:46 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Thu 29 Aug 2013  1:46 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1736619]	Pierre Lecointre
+Q-0	[01] Sun  1 Sep 2013  5:16 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1754744]	Robert S. Feld
+Q-0	[01] Wed 14 Aug 2013 12:44 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1757059]	Vladimir Morozov
+Q-0	[01] Thu 22 Aug 2013  7:50 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Thu 22 Aug 2013  7:50 AM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[03] Thu 22 Aug 2013  7:50 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1772255]	Anonymous
+Q-0	[01] Tue 13 Aug 2013  7:43 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1791528]	Peggy Lu
+Q-0	[01] Sat 31 Aug 2013 10:51 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1796276]	Richard Manley
+Q-0	[01] Wed 14 Aug 2013 11:54 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1799544]	Sampieru SIMEONI
+Q-0	[01] Fri 23 Aug 2013  3:01 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1801984]	Ariana Bleau Lugo
+Q-0	[01] Thu 15 Aug 2013  2:21 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1808359]	Bojan Korecic
+Q-0	[01] Thu 22 Aug 2013  5:40 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Thu 22 Aug 2013  5:40 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1861013]	hh Yang
+Q-0	[01] Fri 16 Aug 2013  4:13 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1895633]	Don Robbins
+Q-0	[01] Wed 14 Aug 2013  7:42 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1908832]	Stephen H. Chan
+Q-0	[01] Mon 26 Aug 2013  8:19 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1910546]	Rich Cullen
+Q-0	[01] Sat 24 Aug 2013  6:42 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1910601]	Jeffrey M. Stearney
+Q-0	[01] Sun 25 Aug 2013  9:59 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1911805]	Maziar Motahari
+Q-0	[01] Fri 23 Aug 2013  9:12 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1926131]	Phillip Radmer
+Q-0	[01] Mon 19 Aug 2013  8:12 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Mon 19 Aug 2013  8:12 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1938700]	James Hansen
+Q-0	[01] Tue 13 Aug 2013  8:03 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1955031]	Misook Heo
+Q-0	[01] Wed 14 Aug 2013  8:13 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[1988001]	Ana Beatriz Taube Stamato
+Q-0	[01] Thu 15 Aug 2013  4:46 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2046408]	Nidhi
+Q-0	[01] Wed 14 Aug 2013  3:25 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2068301]	Anonymous
+Q-0	[01] Sun  1 Sep 2013  9:03 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2074014]	Vainapel
+Q-0	[01] Fri 16 Aug 2013  7:01 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Fri 16 Aug 2013  7:01 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2119660]	Anatoly Borisov
+Q-0	[01] Tue 13 Aug 2013  6:59 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2123835]	Anonymous
+Q-0	[01] Tue 13 Aug 2013  5:32 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2135564]	Gail MacLeod
+Q-0	[01] Mon 26 Aug 2013  5:47 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[02] Mon 26 Aug 2013  6:12 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2146005]	Gorka Zabalbeitia
+Q-0	[01] Mon  2 Sep 2013  6:02 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2155631]	Juan Carlos Liuzzi
+Q-0	[01] Tue 13 Aug 2013  8:44 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2167793]	Yuet Lau
+Q-0	[01] Sun 25 Aug 2013  5:12 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2174661]	Anonymous
+Q-0	[01] Wed 14 Aug 2013  7:49 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Wed 14 Aug 2013  7:49 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2178119]	Todd Curtis
+Q-0	[01] Mon 26 Aug 2013  2:00 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2190421]	Brian Anthony Gumiran
+Q-0	[01] Sun 18 Aug 2013  1:20 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2207151]	ZHANG YONGJIE
+Q-0	[01] Thu 22 Aug 2013  3:07 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[02] Sat 24 Aug 2013  3:26 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2227146]	Diana Polulyakh
+Q-0	[01] Fri 23 Aug 2013 12:01 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2233110]	Bruce Craig Gumbert
+Q-0	[01] Thu 15 Aug 2013 11:20 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2236735]	Andrew R Creighton
+Q-0	[01] Wed 14 Aug 2013 12:23 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2265343]	Anonymous
+Q-0	[01] Sun 25 Aug 2013 11:15 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2281940]	zhen xue
+Q-0	[01] Wed  4 Sep 2013  9:21 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2345762]	Roman Titov
+Q-0	[01] Thu 15 Aug 2013  5:58 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2367053]	Terry Steven Barker
+Q-0	[01] Thu 22 Aug 2013  7:53 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2459030]	opal chen
+Q-0	[01] Wed 14 Aug 2013  6:49 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2475826]	Sanh Le
+Q-0	[01] Wed 14 Aug 2013 10:03 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2493129]	Stephani Keane nee Mok
+Q-0	[01] Wed 14 Aug 2013  5:00 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2519699]	James Craft
+Q-0	[01] Mon  2 Sep 2013  2:59 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2520771]	Bo Yu
+Q-0	[01] Thu 29 Aug 2013  9:03 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2545543]	Anikó Pohner
+Q-0	[01] Sat 17 Aug 2013  8:34 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2548999]	ROBERT P MACKAY
+Q-0	[01] Thu 15 Aug 2013  2:07 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2565369]	Hassan Mohammad
+Q-0	[01] Thu 29 Aug 2013 11:20 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2578846]	Daniel Dragic
+Q-0	[01] Thu 15 Aug 2013 10:40 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2599940]	James Lohff
+Q-0	[01] Sat 31 Aug 2013  1:46 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2608318]	Bill MacGillivray
+Q-0	[01] Tue 13 Aug 2013  9:10 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2618918]	Barbara A. Brewer
+Q-0	[01] Mon 19 Aug 2013  5:14 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2620921]	Juliet Jordan
+Q-0	[01] Fri 13 Sep 2013  7:18 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2646582]	Nathan Mytelka
+Q-0	[01] Fri 16 Aug 2013  2:59 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2658233]	Luis Loyola
+Q-0	[01] Tue 13 Aug 2013  5:13 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2665371]	Rachel Ruhlen
+Q-0	[01] Sat 17 Aug 2013 12:57 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2670056]	Anonymous
+Q-0	[01] Fri 30 Aug 2013  8:29 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2677019]	Daniel Contreras Corrius
+Q-0	[01] Sat 24 Aug 2013  4:22 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2695256]	Kesav Kaza
+Q-0	[01] Sun 18 Aug 2013  4:52 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2698771]	Gisela Anahi Dari
+Q-0	[01] Sat 17 Aug 2013  9:29 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2721125]	Anonymous
+Q-0	[01] Mon 19 Aug 2013  7:48 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2728057]	Ho Wei Lip
+Q-0	[01] Thu 22 Aug 2013  5:21 AM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+Q-0	[02] Thu 22 Aug 2013  5:26 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2751542]	Miguel Angel Valencia de Las Heras
+Q-0	[01] Tue 13 Aug 2013  5:03 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[02] Thu 22 Aug 2013  5:04 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[03] Sat 31 Aug 2013  4:31 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[04] Sat 31 Aug 2013  4:31 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2755081]	Rene Mercier
+Q-0	[01] Thu 15 Aug 2013  1:36 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2774890]	Bradley Warner
+Q-0	[01] Thu 15 Aug 2013  9:41 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2810112]	Marian Szabo
+Q-0	[01] Sat 17 Aug 2013  7:29 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2829538]	Nancy Mercedes Saenz Sanchez
+Q-0	[01] Thu 29 Aug 2013  7:20 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[02] Sat 31 Aug 2013  1:26 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2836826]	Alexander Imre
+Q-0	[01] Sat 17 Aug 2013  9:19 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2881571]	Aaron Stoddart-Cordova
+Q-0	[01] Sat 24 Aug 2013  2:11 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Sat 24 Aug 2013  2:11 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[03] Sat 24 Aug 2013  2:11 PM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+
+[2894802]	Gyan Deep
+Q-0	[01] Mon 19 Aug 2013 11:08 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2900404]	John Golas
+Q-0	[01] Wed 21 Aug 2013  5:58 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2907980]	Sean Lamb
+Q-0	[01] Sat 17 Aug 2013  5:19 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Sat 17 Aug 2013  5:19 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[03] Sat 17 Aug 2013  5:19 PM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+
+[2914066]	Mutsuko Hasegawa
+Q-0	[01] Tue 20 Aug 2013  6:17 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2916889]	Bing Sun
+Q-0	[01] Fri 23 Aug 2013  8:44 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[02] Fri 23 Aug 2013  8:44 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2943641]	Danny Flynn
+Q-0	[01] Wed 18 Sep 2013 12:38 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2945654]	Anonymous
+Q-0	[01] Sat 17 Aug 2013 12:06 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Sat 17 Aug 2013 12:06 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2965357]	Shuang Xu
+Q-0	[01] Thu 15 Aug 2013 12:03 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2965445]	Vu Hai
+Q-0	[01] Mon 16 Sep 2013  3:42 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Mon 16 Sep 2013  3:42 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[2970053]	Julija Otto
+Q-0	[01] Tue  3 Sep 2013 12:36 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Tue  3 Sep 2013 12:36 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[03] Tue  3 Sep 2013 12:36 PM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+
+[2986924]	Larry Dolce
+Q-0	[01] Wed 14 Aug 2013  7:47 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3010833]	Arun Kumar
+Q-0	[01] Wed  4 Sep 2013  8:51 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3023248]	julio cano
+Q-0	[01] Wed 21 Aug 2013  9:51 AM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[02] Wed 21 Aug 2013  9:51 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[03] Wed 21 Aug 2013  9:51 AM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+
+[3031772]	Jason Yuan
+Q-0	[01] Sun 25 Aug 2013  4:36 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3036064]	Reinhard Langner
+Q-0	[01] Thu 15 Aug 2013  4:59 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3044294]	William Lide
+Q-0	[01] Tue 27 Aug 2013  6:09 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3045526]	Mark Nieuwmans
+Q-0	[01] Sat 31 Aug 2013  6:51 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3118119]	Philip Tsang
+Q-0	[01] Wed 14 Aug 2013 12:51 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3135269]	sitabkhan
+Q-0	[01] Thu 15 Aug 2013  2:33 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3162569]	Praveen Sharma
+Q-0	[01] Mon 26 Aug 2013  1:03 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3166739]	Soonhyung hwang
+Q-0	[01] Fri 16 Aug 2013 12:23 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[02] Fri 16 Aug 2013 12:23 PM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+Q-0	[03] Fri 16 Aug 2013 12:23 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3173485]	Cao Jin
+Q-0	[01] Wed 28 Aug 2013  1:11 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[02] Wed 28 Aug 2013  1:11 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3191788]	Mike Bainter
+Q-0	[01] Mon  2 Sep 2013  5:54 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Mon  2 Sep 2013  5:54 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3194594]	Anthony A Mann
+Q-0	[01] Sun 18 Aug 2013 11:42 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3206088]	Don Silverman
+Q-0	[01] Tue 13 Aug 2013  3:55 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3214687]	Helen Sadler
+Q-0	[01] Mon 19 Aug 2013  1:08 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3223096]	Robert
+Q-0	[01] Wed 21 Aug 2013  4:58 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3235168]	B. ISHAK
+Q-0	[01] Fri 16 Aug 2013 12:51 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[02] Mon  2 Sep 2013 11:33 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3236669]	Lance Nelson
+Q-0	[01] Mon 26 Aug 2013  8:05 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Mon 26 Aug 2013  8:05 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[03] Mon 26 Aug 2013  8:05 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3272141]	Alan Cooper
+Q-0	[01] Mon  2 Sep 2013 11:09 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3273217]	Kevin Banks
+Q-0	[01] Wed 21 Aug 2013 10:24 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3297465]	Rachel Edwards
+Q-0	[01] Tue 27 Aug 2013  3:39 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+
+[3303382]	Romain Meyer
+Q-0	[01] Tue 13 Aug 2013  9:18 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3306966]	Vladimir Vilensky
+Q-0	[01] Sat 31 Aug 2013  3:27 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3312098]	Adalberto Filho
+Q-0	[01] Tue 27 Aug 2013  1:10 AM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[02] Tue 27 Aug 2013  1:10 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[03] Tue 27 Aug 2013  1:11 AM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+
+[3322518]	Peter Politis
+Q-0	[01] Tue 13 Aug 2013  8:46 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Tue 13 Aug 2013  8:46 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3359343]	Victor Wrobel
+Q-0	[01] Thu 15 Aug 2013  1:15 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3364739]	Luisa Camargo
+Q-0	[01] Mon  2 Sep 2013  7:07 PM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+Q-0	[02] Mon  2 Sep 2013  7:07 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[03] Mon  2 Sep 2013  7:07 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3371089]	Cheung Fung Yeung
+Q-0	[01] Sat 17 Aug 2013  7:09 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3383688]	Dimitris Natsiopoulos
+Q-0	[01] Thu 22 Aug 2013  5:51 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Thu 22 Aug 2013  5:51 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3398853]	Anonymous
+Q-0	[01] Thu 15 Aug 2013  9:58 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3452322]	HuiLinChang
+Q-0	[01] Tue 13 Aug 2013  1:03 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[02] Tue 13 Aug 2013  1:03 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[03] Tue 13 Aug 2013  1:04 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3495461]	Dee Senuta
+Q-0	[01] Wed  4 Sep 2013  1:59 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3496208]	Aniket Samant
+Q-0	[01] Sun 25 Aug 2013  4:39 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3499935]	Bruce Johnston
+Q-0	[01] Sat 17 Aug 2013 11:30 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3508209]	Lucas Cabral Maciel
+Q-0	[01] Thu 22 Aug 2013  2:43 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3522487]	Richard F. DiFonzo
+Q-0	[01] Sat 17 Aug 2013  8:00 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3524714]	Max Li
+Q-0	[01] Wed 21 Aug 2013  6:54 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3526030]	Patrick Jean-Baptiste
+Q-0	[01] Fri 30 Aug 2013  1:07 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3526654]	Tony Chu
+Q-0	[01] Wed 21 Aug 2013  4:52 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3530614]	Wolfgang Ruthner
+Q-0	[01] Tue 20 Aug 2013  7:30 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3532514]	Michael Philipson
+Q-0	[01] Fri 16 Aug 2013 12:55 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3574434]	Anonymous
+Q-0	[01] Wed 21 Aug 2013 12:33 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3576707]	George Bassem Eskandar
+Q-0	[01] Mon 26 Aug 2013  8:48 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3578513]	Ludwig Widerka
+Q-0	[01] Tue 13 Aug 2013 10:30 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3591027]	JIM, Kwok Ming (Jimmy)
+Q-0	[01] Wed 14 Aug 2013  9:55 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3592810]	ioannis siokos
+Q-0	[01] Mon 26 Aug 2013  5:26 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3593345]	George
+Q-0	[01] Mon 26 Aug 2013  6:29 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3593779]	Anonymous
+Q-0	[01] Sun 18 Aug 2013 12:37 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Sun 18 Aug 2013 12:37 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3595064]	Anonymous
+Q-0	[01] Thu 15 Aug 2013  9:09 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3615575]	Anonymous
+Q-0	[01] Tue 20 Aug 2013 10:52 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3632099]	Cindy Wrede
+Q-0	[01] Thu 29 Aug 2013  4:10 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3637101]	Ava Tartaglia
+Q-0	[01] Sat 31 Aug 2013  7:56 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Sat 31 Aug 2013  7:56 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[03] Sat 31 Aug 2013  7:56 PM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+
+[3643253]	Robert Bustichi
+Q-0	[01] Sat 17 Aug 2013  6:04 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3649929]	susan miskowitch
+Q-0	[01] Sun  1 Sep 2013  5:51 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3653814]	Anonymous
+Q-0	[01] Tue 27 Aug 2013 10:41 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Tue 27 Aug 2013 10:41 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3663561]	Natalia Mokina
+Q-0	[01] Sat 24 Aug 2013  3:24 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3666252]	Harold Patterson
+Q-0	[01] Sat 24 Aug 2013  1:45 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3680701]	Dodi Darsiyan
+Q-0	[01] Thu 15 Aug 2013  1:32 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3698556]	Lynn Kobayashi
+Q-0	[01] Mon  2 Sep 2013 12:52 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3704397]	Anonymous
+Q-0	[01] Fri 16 Aug 2013  7:07 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3708868]	nissim katry
+Q-0	[01] Wed 14 Aug 2013 12:52 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Wed 14 Aug 2013 12:52 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3712405]	Yixin He
+Q-0	[01] Fri 23 Aug 2013  4:53 PM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+Q-0	[02] Fri 23 Aug 2013  4:53 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[03] Fri 23 Aug 2013  4:53 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3718396]	Laura Fung
+Q-0	[01] Fri 23 Aug 2013  7:21 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3728970]	Matthew Giordano
+Q-0	[01] Tue 13 Aug 2013  7:11 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Tue 13 Aug 2013  7:11 PM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+Q-0	[03] Tue 13 Aug 2013  7:12 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+
+[3739871]	Marcela Gomes Correa
+Q-0	[01] Mon  2 Sep 2013  9:15 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3747641]	Anthony Glueck
+Q-0	[01] Wed 14 Aug 2013 10:36 AM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[02] Wed 14 Aug 2013 10:36 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[03] Sat 31 Aug 2013 10:56 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3756090]	Elizabeth OCON
+Q-0	[01] Thu 22 Aug 2013  6:41 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3795491]	Luciano Fernandes da Silva
+Q-0	[01] Tue 20 Aug 2013 11:52 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Tue 20 Aug 2013 11:52 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3797242]	Patrick Oman
+Q-0	[01] Mon 26 Aug 2013  6:59 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3800669]	Noah Burhance
+Q-0	[01] Sat 24 Aug 2013 11:19 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3809222]	Anonymous
+Q-0	[01] Sun  1 Sep 2013 10:17 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3811927]	Ananya Rajesh
+Q-0	[01] Mon 19 Aug 2013  3:24 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3817769]	Rafael Santisteban
+Q-0	[01] Fri 16 Aug 2013 12:20 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3825005]	Rahul Rajagopal
+Q-0	[01] Mon 19 Aug 2013  8:37 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3845464]	Farid Bakir
+Q-0	[01] Mon 19 Aug 2013  4:54 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3845688]	Annemarie Widmer
+Q-0	[01] Tue 13 Aug 2013 12:57 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3855530]	Jeff H Federer
+Q-0	[01] Wed 14 Aug 2013  6:23 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3855705]	Eric
+Q-0	[01] Tue 13 Aug 2013  6:54 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3856486]	Yacov m
+Q-0	[01] Tue 20 Aug 2013  8:45 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3864611]	Austin Samuel Carr
+Q-0	[01] Tue 27 Aug 2013  3:38 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3883367]	Dennis Kunimura
+Q-0	[01] Wed 14 Aug 2013  9:13 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3885049]	Dustin Farley
+Q-0	[01] Fri 16 Aug 2013 12:38 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3896149]	Victoria Chikaldina
+Q-0	[01] Sat 17 Aug 2013  9:38 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3896898]	Stefan Becker
+Q-0	[01] Wed 21 Aug 2013  7:52 AM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+Q-0	[02] Wed 21 Aug 2013  7:52 AM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[03] Wed 21 Aug 2013  7:52 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+
+[3906535]	Ryan Wong
+Q-0	[01] Mon 26 Aug 2013  4:42 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[02] Mon 26 Aug 2013  4:42 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3908300]	Patricia Wang
+Q-0	[01] Wed 14 Aug 2013  7:31 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3918571]	Anonymous
+Q-0	[01] Wed 14 Aug 2013  4:54 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[02] Wed 14 Aug 2013  4:54 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[03] Wed 14 Aug 2013  4:54 PM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+
+[3935138]	Carl
+Q-0	[01] Sun 18 Aug 2013  4:16 PM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+Q-0	[02] Sun 18 Aug 2013  4:16 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[03] Sun 18 Aug 2013  4:21 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3935247]	Chris Confalone
+Q-0	[01] Fri 16 Aug 2013  4:31 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3936323]	Anne Moeller
+Q-0	[01] Mon 19 Aug 2013  8:22 PM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[02] Mon 19 Aug 2013  8:22 PM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+Q-0	[03] Mon 19 Aug 2013  8:22 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+
+[3939812]	Darlene M Brownlee
+Q-0	[01] Tue  3 Sep 2013  6:57 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3939893]	Cheri Tolar
+Q-0	[01] Mon 26 Aug 2013 11:34 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+Q-0	[02] Mon 26 Aug 2013 11:35 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3949612]	Patricia
+Q-0	[01] Thu 22 Aug 2013  2:34 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3953862]	Adeline
+Q-0	[01] Tue 13 Aug 2013  1:46 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3954139]	Fabian Rodriguez
+Q-0	[01] Wed 14 Aug 2013  4:59 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3957025]	Christina Kwok
+Q-0	[01] Tue 13 Aug 2013 10:50 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3960336]	Lawrence Viljoen
+Q-0	[01] Tue 27 Aug 2013  6:36 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3960837]	Maria Weißenborn
+Q-0	[01] Tue  3 Sep 2013  4:51 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3966773]	Peter Ip
+Q-0	[01] Wed 14 Aug 2013  4:44 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3975182]	iuri soares
+Q-0	[01] Thu 15 Aug 2013  9:06 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3977242]	Yury Aglyamov
+Q-0	[01] Thu 15 Aug 2013  7:53 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3977522]	Elidier Moya
+Q-0	[01] Tue 20 Aug 2013 12:47 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3978826]	Xinyu Liu
+Q-0	[01] Wed  4 Sep 2013  5:24 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3983050]	Jvon Eugene Mitchell
+Q-0	[01] Thu 29 Aug 2013  4:51 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3992284]	anne maloney
+Q-0	[01] Fri 16 Aug 2013 11:44 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[3994218]	Wolfgang Reuber
+Q-0	[01] Wed 28 Aug 2013  8:44 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4001272]	Sjoerd van Geloven
+Q-0	[01] Tue 27 Aug 2013 10:29 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4005317]	Sabine Weber
+Q-0	[01] Mon 26 Aug 2013  3:18 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4011174]	Shyuechinglu
+Q-0	[01] Sun 18 Aug 2013 11:37 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4014273]	Kenneth Papai
+Q-0	[01] Tue 20 Aug 2013  6:35 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4020361]	Kaitlin Ardiff
+Q-0	[01] Thu 29 Aug 2013  4:27 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4021892]	Maria Margarida Gouveia Ribeiro
+Q-0	[01] Wed 14 Aug 2013  6:07 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4033171]	bob bones
+Q-0	[01] Sat 17 Aug 2013  5:18 PM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Sat 17 Aug 2013  5:18 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4040712]	yamini chandrasekar
+Q-0	[01] Thu 15 Aug 2013 10:13 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Thu 15 Aug 2013 10:13 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4043800]	Lim Chin Wee
+Q-0	[01] Thu 15 Aug 2013 10:56 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4065098]	Tracie Middleton
+Q-0	[01] Sat 31 Aug 2013  3:55 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4084482]	Helge Kvernerud
+Q-0	[01] Tue 27 Aug 2013  1:42 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4088878]	Alex Rybchinsky
+Q-0	[01] Wed 28 Aug 2013  9:13 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4144150]	Joe Means
+Q-0	[01] Wed 21 Aug 2013  9:20 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4169910]	Anonymous
+Q-0	[01] Sun  1 Sep 2013  6:35 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4267269]	Fernando Aguirre
+Q-0	[01] Sat 24 Aug 2013  2:55 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4270421]	Anonymous
+Q-0	[01] Wed 14 Aug 2013  5:22 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[02] Wed 14 Aug 2013  5:22 AM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[03] Wed 14 Aug 2013  5:23 AM UTC (UTC +0000)	0.00	The transport layer is applicationless, while the network layer is application-oriented.
+Q-0	[04] Tue 27 Aug 2013  4:49 AM UTC (UTC +0000)	0.00	The transport layer is connectionless, while the network layer is connection-oriented.
+Q-0	[05] Tue 27 Aug 2013  4:51 AM UTC (UTC +0000)	0.00	The transport layer is application-oriented, while the network layer is applicationless.
+Q-0	[06] Tue 27 Aug 2013  4:51 AM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.
+
+[4283709]	David Mark Ballantine
+Q-0	[01] Thu  5 Sep 2013 12:36 PM UTC (UTC +0000)	1.00	The transport layer is connection-oriented, while the network layer is connectionless.

@@ -1,0 +1,2121 @@
+Questions
+---------------
+Q-0	Which of the following statements is NOT true?
+
+Student Answers
+---------------
+
+[1152]	Bocheng Zhou
+Q-0	[01] Fri 16 Aug 2013  2:09 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Fri 16 Aug 2013  2:09 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1587]	Anonymous
+Q-0	[01] Fri 26 Jul 2013  5:26 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[5273]	Dmytro Krasnoshtan
+Q-0	[01] Tue 23 Jul 2013 11:57 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[6283]	martin zhuang
+Q-0	[01] Fri 26 Jul 2013  6:30 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Fri 26 Jul 2013  6:30 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[03] Fri 26 Jul 2013  6:30 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[8516]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  8:55 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[9371]	Estevo Urbano Caamanho Castro
+Q-0	[01] Mon 22 Jul 2013  1:28 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[13796]	Friedrich
+Q-0	[01] Sun 28 Jul 2013  6:49 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[17500]	Sergey Zinov
+Q-0	[01] Mon  5 Aug 2013 12:11 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[23141]	Atakan Dogan
+Q-0	[01] Fri 26 Jul 2013  8:32 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[27268]	Stephen Horwat
+Q-0	[01] Wed 24 Jul 2013 12:56 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[32951]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  5:51 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[33462]	Silvano Spencer
+Q-0	[01] Mon 22 Jul 2013  5:27 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[37014]	Anonymous
+Q-0	[01] Sun  4 Aug 2013  6:51 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[39836]	Mohammad Muntasir Biojid Sirajee
+Q-0	[01] Wed 14 Aug 2013 11:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[41178]	Donald Bashline
+Q-0	[01] Thu  1 Aug 2013  4:58 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Thu  1 Aug 2013  4:59 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[49881]	John Slankas
+Q-0	[01] Fri  9 Aug 2013  5:03 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[50242]	Sean Lip
+Q-0	[01] Wed 24 Jul 2013  7:40 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[51494]	Vineet Pruthi
+Q-0	[01] Mon 22 Jul 2013  5:32 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[54103]	Gawain Bosworth
+Q-0	[01] Tue 23 Jul 2013  9:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[67712]	nidhin pattaniyil
+Q-0	[01] Mon 22 Jul 2013  6:36 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[78954]	paul brakke
+Q-0	[01] Wed 31 Jul 2013 11:48 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[92726]	Rafal Jasiak
+Q-0	[01] Sun 21 Jul 2013  2:22 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Sun 21 Jul 2013  2:22 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[101222]	Jonghyun Park
+Q-0	[01] Thu 25 Jul 2013  3:34 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[107003]	Alberto
+Q-0	[01] Thu 15 Aug 2013  2:49 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[118308]	Otma
+Q-0	[01] Mon 22 Jul 2013  6:50 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[121674]	Evan Pokroy
+Q-0	[01] Tue 30 Jul 2013  2:11 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[122953]	Ray Mulligan
+Q-0	[01] Fri 26 Jul 2013  3:54 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[130522]	Yury Kirpichev
+Q-0	[01] Sun 28 Jul 2013  9:09 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[133614]	Sudeep Conoor
+Q-0	[01] Sun 28 Jul 2013  2:19 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[138405]	bill palacio
+Q-0	[01] Sun 21 Jul 2013  6:36 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[148701]	Rostyslav Fridman
+Q-0	[01] Thu 25 Jul 2013  2:31 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[152631]	david beaurpere
+Q-0	[01] Sun 21 Jul 2013  4:55 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[154804]	James C Weaver
+Q-0	[01] Sun 21 Jul 2013  5:39 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[164947]	Amy
+Q-0	[01] Tue  6 Aug 2013 11:21 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[190487]	Anonymous
+Q-0	[01] Thu 22 Aug 2013  8:47 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Thu 22 Aug 2013  8:47 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[194059]	Anonymous
+Q-0	[01] Fri 26 Jul 2013  3:30 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[194284]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  7:18 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[198247]	Rick Albano
+Q-0	[01] Wed 24 Jul 2013 10:14 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[203444]	Bill McGarrigle
+Q-0	[01] Tue 27 Aug 2013  7:51 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[212994]	Utsav Banerjee
+Q-0	[01] Tue 23 Jul 2013  5:20 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Tue 23 Jul 2013  5:20 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[219161]	Jill Dunham
+Q-0	[01] Sun 28 Jul 2013 11:09 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[223087]	Anonymous
+Q-0	[01] Wed 31 Jul 2013  1:34 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[227287]	Shirlyn Wong
+Q-0	[01] Tue 23 Jul 2013  3:18 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[231371]	Konstantin Ivanov
+Q-0	[01] Fri 26 Jul 2013  3:09 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[234924]	anirudh
+Q-0	[01] Mon  5 Aug 2013 12:01 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[243541]	Larry Furlong
+Q-0	[01] Thu  1 Aug 2013  4:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[244969]	Jiajun Luo
+Q-0	[01] Wed 24 Jul 2013  5:54 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[250237]	Ilya Batozskiy
+Q-0	[01] Mon 22 Jul 2013 10:39 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[251992]	Rich Walsh
+Q-0	[01] Mon 22 Jul 2013  3:42 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[257434]	JON A JONES
+Q-0	[01] Sat 27 Jul 2013  8:09 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[259264]	Anthony Kolasny
+Q-0	[01] Sun 21 Jul 2013 11:22 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[260380]	jinghua
+Q-0	[01] Thu 29 Aug 2013  3:26 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[272414]	judith wallace
+Q-0	[01] Thu 12 Sep 2013  7:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[281695]	Mark DeSantis
+Q-0	[01] Mon 22 Jul 2013  5:41 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[285075]	Khanh
+Q-0	[01] Fri 26 Jul 2013  4:15 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Fri 26 Jul 2013  4:15 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[298903]	Pedro Baez
+Q-0	[01] Mon 29 Jul 2013  2:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[305077]	Radu Aldea
+Q-0	[01] Tue 23 Jul 2013  6:49 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[326609]	Lior Meyer
+Q-0	[01] Thu  8 Aug 2013  2:30 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[328093]	keiko fukunaga
+Q-0	[01] Thu 25 Jul 2013  7:26 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Thu 25 Jul 2013  7:27 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[329915]	John King
+Q-0	[01] Mon 22 Jul 2013  1:05 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[332085]	Pauline
+Q-0	[01] Mon 22 Jul 2013  7:54 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[334354]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  1:51 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[342176]	Michael Goldshmidt
+Q-0	[01] Mon 22 Jul 2013  4:00 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[344180]	Edward Niescior
+Q-0	[01] Thu  1 Aug 2013  3:53 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[362465]	Ramesh
+Q-0	[01] Thu 25 Jul 2013  5:34 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[394664]	Mamoru Saito
+Q-0	[01] Tue 23 Jul 2013  3:11 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[399024]	Antonio Feijoo
+Q-0	[01] Fri 26 Jul 2013  6:07 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Fri 26 Jul 2013  6:07 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[411658]	Nelson Garcia de Paula
+Q-0	[01] Fri 26 Jul 2013  3:26 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[417205]	Lars Hvidegaard
+Q-0	[01] Sun 21 Jul 2013 11:54 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[450585]	Anonymous
+Q-0	[01] Sat  3 Aug 2013 11:22 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[453093]	Cong Feng
+Q-0	[01] Fri 26 Jul 2013 10:19 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[457869]	Mike Saltzman
+Q-0	[01] Mon 22 Jul 2013  5:46 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[464581]	Michael Bain
+Q-0	[01] Sat 27 Jul 2013  5:19 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[471028]	Anonymous
+Q-0	[01] Wed 24 Jul 2013 10:28 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[477868]	Corrie Watt
+Q-0	[01] Mon 22 Jul 2013 11:04 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[486289]	sunku venkata subramanya pruthvi
+Q-0	[01] Tue 13 Aug 2013  5:50 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[488262]	Anonymous
+Q-0	[01] Thu  8 Aug 2013  4:04 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[492256]	Lisa Rome
+Q-0	[01] Tue 30 Jul 2013  6:22 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[498780]	Liam Brennan
+Q-0	[01] Mon 22 Jul 2013  9:29 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Mon 22 Jul 2013  9:29 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Mon 22 Jul 2013  9:29 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+
+[507434]	Glenn
+
+[508091]	anne kerr
+Q-0	[01] Wed 24 Jul 2013  5:59 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[511277]	Hossam El-Ashkar
+Q-0	[01] Tue 23 Jul 2013  2:00 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[514265]	Seraphine Lishe Jong
+Q-0	[01] Sun 18 Aug 2013  9:20 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[514979]	Anonymous
+Q-0	[01] Sun 21 Jul 2013 10:25 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[516090]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  7:36 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[521579]	jason
+Q-0	[01] Thu 25 Jul 2013  1:58 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[531213]	K S Senerath de Silva
+Q-0	[01] Sun 21 Jul 2013 10:41 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[540053]	Anonymous
+Q-0	[01] Sun 28 Jul 2013 12:02 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[547145]	Roger Stanton
+Q-0	[01] Mon 22 Jul 2013  9:13 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[548016]	Anonymous
+Q-0	[01] Sat 27 Jul 2013  6:34 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[548458]	morsmordre
+Q-0	[01] Sat 31 Aug 2013 12:51 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[565491]	Axel Schwanke
+Q-0	[01] Sun 21 Jul 2013 12:12 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Sun 21 Jul 2013 12:12 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[03] Mon 22 Jul 2013 10:51 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[565624]	Tatyana
+Q-0	[01] Tue 20 Aug 2013  6:55 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[569763]	Nivedh Rajesh
+Q-0	[01] Sat 10 Aug 2013  7:54 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[573281]	John Fletcher
+Q-0	[01] Fri 26 Jul 2013 11:32 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[599303]	Faraz Rashid
+Q-0	[01] Sun 21 Jul 2013 11:41 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[601264]	Anil Gurijala
+Q-0	[01] Thu 25 Jul 2013 11:28 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[618580]	Anonymous
+Q-0	[01] Tue 23 Jul 2013  4:12 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[653231]	Panchapol Chantarasereekul
+Q-0	[01] Wed 24 Jul 2013  4:38 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[673048]	Lee Won Seok
+Q-0	[01] Mon 12 Aug 2013  6:28 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Mon 19 Aug 2013  3:48 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[03] Tue 20 Aug 2013  3:26 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[676173]	Nikolai Grudtcyn
+Q-0	[01] Sun 28 Jul 2013  4:36 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[678546]	matthew arnott
+Q-0	[01] Sun 21 Jul 2013  5:45 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[684655]	Sabina Anna Rydzek
+Q-0	[01] Tue 23 Jul 2013  4:40 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[690882]	marco carlos avalos rosado
+Q-0	[01] Sun 28 Jul 2013  5:13 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[692135]	Sebastian Morana
+Q-0	[01] Fri 26 Jul 2013 12:11 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[708105]	Wendy Bryan
+Q-0	[01] Mon 22 Jul 2013  7:32 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[720986]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  1:56 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[722512]	Leszek Worosz
+Q-0	[01] Mon 22 Jul 2013  2:49 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[724283]	Eli
+Q-0	[01] Wed 31 Jul 2013  5:37 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[759170]	Eileen McDevitt
+Q-0	[01] Wed 24 Jul 2013 12:03 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[768475]	Bill Wolf
+Q-0	[01] Mon 22 Jul 2013 10:59 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[768527]	Jadranka Stojadinovic
+Q-0	[01] Fri 26 Jul 2013  8:39 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[772395]	Harold Glascock
+Q-0	[01] Wed 24 Jul 2013  1:11 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Wed 24 Jul 2013  1:12 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[784620]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  2:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[806218]	shih-chun chang
+Q-0	[01] Fri 26 Jul 2013  5:26 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[809877]	Yau Choi George Lam
+Q-0	[01] Sun 21 Jul 2013 10:39 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[815366]	Andre Zaru
+Q-0	[01] Tue 23 Jul 2013  3:46 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[831265]	Andy Leung
+Q-0	[01] Mon 12 Aug 2013  2:14 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[838521]	Supatcharee
+Q-0	[01] Wed 21 Aug 2013 10:17 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Wed 21 Aug 2013 10:17 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Wed 21 Aug 2013 10:17 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[839054]	Daniel Goyzueta Saenz
+Q-0	[01] Sun 21 Jul 2013  2:52 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[839369]	Kenny Hiep Ngo
+Q-0	[01] Mon 22 Jul 2013  3:51 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[841843]	Lazaros Aggelou
+Q-0	[01] Mon 22 Jul 2013  9:02 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[843549]	Fu Cehui Merle
+Q-0	[01] Sun 28 Jul 2013  7:04 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Sun 28 Jul 2013  7:04 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[858163]	Vladimir Sachanski
+Q-0	[01] Mon 22 Jul 2013  3:31 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[881583]	Carlos Zhu
+Q-0	[01] Wed  7 Aug 2013 11:39 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[884075]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  1:05 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Mon 22 Jul 2013  1:05 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Mon 22 Jul 2013  1:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[892325]	Elijah Agbayani
+Q-0	[01] Tue 23 Jul 2013  4:20 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[925966]	Anonymous
+Q-0	[01] Sun 21 Jul 2013 11:18 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[941128]	Piotr Roksela
+Q-0	[01] Thu 22 Aug 2013  3:14 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[954000]	Rael Cine
+Q-0	[01] Mon 22 Jul 2013  7:25 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[955126]	Evan Karpus
+Q-0	[01] Thu 19 Sep 2013  9:16 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[960936]	shishir
+Q-0	[01] Wed 24 Jul 2013  8:09 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[964434]	Chew Sock Lay Nellie
+Q-0	[01] Fri 26 Jul 2013  1:07 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[970243]	Jason Cline
+Q-0	[01] Mon 26 Aug 2013  3:00 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[971662]	Vinayak Kamath
+Q-0	[01] Tue  6 Aug 2013  6:53 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[979824]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  3:46 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1005682]	Rui Miguel Dias Loureiro
+Q-0	[01] Tue 23 Jul 2013  1:57 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1008669]	Charles Lu
+Q-0	[01] Wed 24 Jul 2013  3:14 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1013961]	Joan Caldwell
+Q-0	[01] Mon 22 Jul 2013  2:43 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1021195]	Elena Zacarias de Palacios
+Q-0	[01] Fri  9 Aug 2013  5:58 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1024350]	Peter Seif
+Q-0	[01] Tue 30 Jul 2013  5:57 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1034593]	Tony
+Q-0	[01] Sun 18 Aug 2013  8:27 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1058767]	Anonymous
+Q-0	[01] Wed 24 Jul 2013 10:52 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Wed 24 Jul 2013 10:52 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1059412]	Tan Wei Chit
+Q-0	[01] Wed 31 Jul 2013  6:41 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1077228]	may
+Q-0	[01] Sat 27 Jul 2013  1:05 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1077785]	michael
+Q-0	[01] Tue 30 Jul 2013  8:58 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1079434]	Wei
+Q-0	[01] Mon 22 Jul 2013  4:12 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1081453]	Vira Dolgushyna
+Q-0	[01] Sat 24 Aug 2013  8:24 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1094343]	pete holsten
+Q-0	[01] Sun 21 Jul 2013 11:03 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1099052]	Murilo Machado Bastos
+Q-0	[01] Sun 18 Aug 2013  1:42 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Sun 18 Aug 2013  1:42 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[03] Sun 18 Aug 2013  1:43 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[04] Tue 20 Aug 2013  8:21 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1122374]	Anonymous
+Q-0	[01] Fri  9 Aug 2013  9:18 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1142716]	Steve Ferree
+Q-0	[01] Wed  7 Aug 2013  7:37 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Wed  7 Aug 2013  7:37 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Wed  7 Aug 2013  7:37 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1148167]	JOSEPH SERABO
+Q-0	[01] Mon 19 Aug 2013  5:10 AM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Mon 19 Aug 2013  5:10 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[03] Mon 19 Aug 2013  5:11 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+
+[1165925]	Ian Pottinger
+Q-0	[01] Mon 22 Jul 2013  4:33 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1169308]	Anonymous
+Q-0	[01] Thu 22 Aug 2013 12:55 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Thu 22 Aug 2013 12:55 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1170233]	Anonymous
+Q-0	[01] Mon 26 Aug 2013 11:53 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1176417]	Georgi Kermekchiev
+Q-0	[01] Wed 24 Jul 2013  9:30 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1181293]	Brandon Roberts
+Q-0	[01] Fri 30 Aug 2013 10:45 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1185212]	Anonymous
+Q-0	[01] Sun 28 Jul 2013  2:13 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1202176]	julian murillo ramos
+Q-0	[01] Sun 28 Jul 2013  4:28 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1206101]	Anonymous
+Q-0	[01] Fri 26 Jul 2013  9:25 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1210912]	Jirka Härkönen
+Q-0	[01] Thu  1 Aug 2013  7:46 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1211079]	Anonymous
+Q-0	[01] Mon 26 Aug 2013 10:42 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1242357]	Joe Kantoris
+Q-0	[01] Mon 22 Jul 2013  5:10 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1243686]	Anonymous
+Q-0	[01] Tue 23 Jul 2013 12:51 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1248420]	Akira Hirai
+Q-0	[01] Wed 24 Jul 2013  6:30 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1254063]	Anonymous
+Q-0	[01] Sun 28 Jul 2013  7:23 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1254709]	SCHMITT VINCENT
+Q-0	[01] Fri  2 Aug 2013 11:42 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1273478]	Sary Beidas
+Q-0	[01] Fri 26 Jul 2013 11:23 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1281679]	Andrea LaMont
+Q-0	[01] Fri  2 Aug 2013  8:45 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1288375]	Marc Kimpe
+Q-0	[01] Wed 14 Aug 2013  5:10 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1290001]	Anonymous
+Q-0	[01] Mon 26 Aug 2013  5:02 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1300744]	Tan Kok Hui
+Q-0	[01] Sun 28 Jul 2013  3:04 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1307481]	Sotires Eleftheriou
+Q-0	[01] Tue 30 Jul 2013  4:21 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1309476]	Robert Fountain
+Q-0	[01] Sat 27 Jul 2013  6:52 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1314441]	Aliaksei Liutsich
+Q-0	[01] Tue 23 Jul 2013  7:24 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Tue 23 Jul 2013  7:24 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1321748]	Michael Saarah
+Q-0	[01] Mon 22 Jul 2013  2:37 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1350344]	Michał Zając
+Q-0	[01] Mon  2 Sep 2013  5:09 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1366638]	Anil Kumar
+Q-0	[01] Tue 23 Jul 2013  4:14 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Tue 23 Jul 2013  4:14 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1368335]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  9:12 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1375215]	Pyun, Jisurk
+Q-0	[01] Mon 22 Jul 2013  6:23 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Mon 22 Jul 2013  6:23 AM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Mon 22 Jul 2013  6:23 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1403297]	WONG YIU CHEONG
+Q-0	[01] Mon 22 Jul 2013 12:33 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1405383]	Angus Ng Ka-chun
+Q-0	[01] Thu 25 Jul 2013  1:45 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Thu 25 Jul 2013  1:45 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1430338]	Anonymous
+Q-0	[01] Thu  1 Aug 2013  4:19 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1440001]	Mark Weston-Dawkes
+Q-0	[01] Tue 23 Jul 2013  8:22 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1459371]	Eugene Sharygin
+Q-0	[02] Sat 27 Jul 2013 11:41 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1460153]	Laura Coto Sáenz
+Q-0	[01] Sun 21 Jul 2013  9:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1462112]	Rich Malcolm
+Q-0	[01] Sat 27 Jul 2013  7:04 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1473936]	Tanushree Bansal
+Q-0	[01] Mon 22 Jul 2013  5:28 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1488759]	Doruk Kutlu
+Q-0	[01] Sun 11 Aug 2013  2:49 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1498376]	LI PAK KEE
+Q-0	[01] Sun 21 Jul 2013  1:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1529453]	Bradley Feingerts
+Q-0	[01] Tue 23 Jul 2013  3:07 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1564247]	Dang-Giao Nguyen
+Q-0	[01] Thu 25 Jul 2013  1:06 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Thu 25 Jul 2013  1:06 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1567507]	Stephen Matthews
+Q-0	[01] Sun 21 Jul 2013  7:41 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1569534]	Maresu Andrei-Razvan
+Q-0	[01] Mon 22 Jul 2013 10:59 AM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Mon 22 Jul 2013 10:59 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1581585]	rajat aghi
+Q-0	[01] Fri 26 Jul 2013 12:11 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1586454]	Dennis Webb
+Q-0	[01] Thu  8 Aug 2013  9:07 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1589902]	Elizabeth T. Rummler
+Q-0	[01] Sun 28 Jul 2013  4:13 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1597353]	Rafał Maciejewski
+Q-0	[01] Wed 14 Aug 2013  8:32 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1623504]	Tomasz Szymanek
+Q-0	[01] Mon 22 Jul 2013  6:26 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1639691]	Tse Yang, Lim
+Q-0	[01] Tue 23 Jul 2013 10:37 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1675062]	Cindy Ris Zanca
+Q-0	[01] Mon 22 Jul 2013  9:12 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1689592]	Leonard Garden
+Q-0	[01] Tue 23 Jul 2013  9:25 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1701640]	Stasz Róbert
+Q-0	[01] Tue 30 Jul 2013  4:13 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1718816]	Bogdan Ionita
+Q-0	[01] Mon 12 Aug 2013  8:38 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1736619]	Pierre Lecointre
+Q-0	[01] Wed 31 Jul 2013 11:28 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1745656]	Anonymous
+Q-0	[01] Sat  3 Aug 2013  5:56 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Sat  3 Aug 2013  5:57 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1752312]	Rudo N Takavarasha
+Q-0	[01] Sun 28 Jul 2013  1:28 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1754744]	Robert S. Feld
+Q-0	[01] Sun 21 Jul 2013  3:31 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1757059]	Vladimir Morozov
+Q-0	[01] Tue 23 Jul 2013  5:56 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1760141]	Roberto Castello
+Q-0	[01] Thu 29 Aug 2013  3:18 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1772146]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  1:43 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Fri 26 Jul 2013  4:09 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1775056]	andrzej
+Q-0	[01] Fri 26 Jul 2013  2:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1790773]	Anonymous
+Q-0	[01] Sun 28 Jul 2013  6:13 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Sun 28 Jul 2013  6:13 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1796276]	Richard Manley
+Q-0	[01] Sun 21 Jul 2013  3:08 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1799544]	Sampieru SIMEONI
+Q-0	[01] Wed 24 Jul 2013  5:09 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1808359]	Bojan Korecic
+Q-0	[01] Sun 21 Jul 2013  9:36 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1809773]	Herbert Kwok
+Q-0	[01] Sun 28 Jul 2013 12:08 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1817871]	Kirk ramble
+Q-0	[01] Wed 24 Jul 2013  1:43 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1836896]	Peggy Hugot
+Q-0	[01] Mon  2 Sep 2013  6:12 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1851873]	Nour El Mawass
+Q-0	[01] Sun 21 Jul 2013  9:02 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1861013]	hh Yang
+Q-0	[01] Tue 23 Jul 2013  2:25 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Tue 23 Jul 2013  2:25 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Tue 23 Jul 2013  2:25 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1866951]	Akarsh
+Q-0	[01] Sun 18 Aug 2013  2:25 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1869070]	R ASHWIN
+Q-0	[01] Wed 21 Aug 2013  5:56 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1871765]	Jacob Adopley
+Q-0	[01] Sun 28 Jul 2013  2:26 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1873631]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  5:16 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1888003]	Robin Ehrlich
+Q-0	[01] Sun 21 Jul 2013 11:49 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1895633]	Don Robbins
+Q-0	[01] Mon 22 Jul 2013  2:59 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1897459]	Anonymous
+Q-0	[01] Thu 25 Jul 2013 12:02 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1900738]	Qian Mao
+Q-0	[01] Thu  1 Aug 2013  4:01 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Thu  1 Aug 2013  4:01 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[03] Thu  1 Aug 2013  4:01 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1908832]	Stephen H. Chan
+Q-0	[01] Mon 22 Jul 2013  1:57 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1910546]	Rich Cullen
+Q-0	[01] Mon 22 Jul 2013 11:47 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1911805]	Maziar Motahari
+Q-0	[01] Mon 22 Jul 2013 10:27 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1926131]	Phillip Radmer
+Q-0	[01] Sun 21 Jul 2013 11:42 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1935357]	Matthew De Bono
+Q-0	[01] Sat 27 Jul 2013  6:22 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1938700]	James Hansen
+Q-0	[01] Sun 21 Jul 2013  4:21 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1955031]	Misook Heo
+Q-0	[01] Thu 25 Jul 2013  1:07 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1964305]	Anonymous
+Q-0	[01] Fri 16 Aug 2013  6:24 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Fri 16 Aug 2013  6:25 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1973671]	Anonymous
+Q-0	[01] Fri 26 Jul 2013  2:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1980513]	MARIO CESAR BASTOS ANTUNES
+Q-0	[01] Thu 25 Jul 2013  7:22 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Thu 25 Jul 2013  7:22 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1988001]	Ana Beatriz Taube Stamato
+Q-0	[01] Mon 22 Jul 2013  4:14 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[1997242]	Anonymous
+Q-0	[01] Tue 30 Jul 2013  4:29 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2012995]	Bob Harriman
+Q-0	[01] Thu  8 Aug 2013  7:40 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2033578]	Sherrill Hallmond
+Q-0	[01] Thu 25 Jul 2013  8:34 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2040538]	Liban Munye Abu
+Q-0	[01] Wed  7 Aug 2013 10:03 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2051074]	Marco Antonio Vera
+Q-0	[01] Sun  4 Aug 2013  7:48 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2052106]	Paula Melipillan Figueroa
+Q-0	[01] Thu 15 Aug 2013  5:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2068217]	David Auslander
+Q-0	[01] Fri 26 Jul 2013  6:12 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2068301]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  2:46 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2068564]	Susan Joy Ellis
+Q-0	[01] Tue 30 Jul 2013  4:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2068693]	Michael Dorrian
+Q-0	[01] Fri 16 Aug 2013  5:17 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2074014]	Vainapel
+Q-0	[01] Mon 22 Jul 2013  8:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2119660]	Anatoly Borisov
+Q-0	[01] Thu 25 Jul 2013  5:01 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2119685]	IanMitcham
+Q-0	[01] Tue 23 Jul 2013  3:03 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2123835]	Anonymous
+Q-0	[01] Wed  7 Aug 2013 11:41 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2128463]	foad mojgani
+Q-0	[01] Thu  1 Aug 2013 11:35 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2130360]	Eddie Park
+Q-0	[01] Mon  5 Aug 2013  4:36 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2135564]	Gail MacLeod
+Q-0	[01] Sun 21 Jul 2013  1:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2146005]	Gorka Zabalbeitia
+Q-0	[01] Sun 21 Jul 2013  6:32 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2151591]	Eileen Aiello
+Q-0	[01] Sun 21 Jul 2013  8:43 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Sun 21 Jul 2013  8:43 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Sun 21 Jul 2013  8:43 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2154871]	Erez Ichilov
+Q-0	[01] Tue 13 Aug 2013  2:28 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2155631]	Juan Carlos Liuzzi
+Q-0	[01] Mon 22 Jul 2013  8:19 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2158929]	Milena Eneva
+Q-0	[01] Sat 27 Jul 2013  7:58 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2167793]	Yuet Lau
+Q-0	[01] Thu 25 Jul 2013  5:28 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2175911]	Anonymous
+Q-0	[01] Tue 23 Jul 2013  9:28 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2190421]	Brian Anthony Gumiran
+Q-0	[01] Sun  4 Aug 2013  4:43 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2190518]	Joanna Marguier
+Q-0	[01] Sun 21 Jul 2013  6:34 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2196054]	Derek G. Rhys
+Q-0	[01] Mon 12 Aug 2013  6:59 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2207151]	ZHANG YONGJIE
+Q-0	[01] Mon 29 Jul 2013  3:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2208648]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  9:43 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2220133]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  2:37 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2221469]	Kenya Little
+Q-0	[01] Tue  6 Aug 2013  4:38 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2227146]	Diana Polulyakh
+Q-0	[01] Thu  8 Aug 2013 11:24 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2227822]	Anonymous
+Q-0	[01] Sun  4 Aug 2013  3:59 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2231243]	Doga Akar Bilgin
+Q-0	[01] Mon 22 Jul 2013 10:30 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Mon 22 Jul 2013 10:30 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2233110]	Bruce Craig Gumbert
+Q-0	[01] Wed 24 Jul 2013 12:07 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2235134]	Anonymous
+Q-0	[01] Fri 26 Jul 2013  8:27 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2236735]	Andrew R Creighton
+Q-0	[01] Tue 23 Jul 2013 10:23 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2239801]	Maria Gabriela Simon
+Q-0	[01] Mon 22 Jul 2013  2:26 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2248828]	Cristi Grigore
+Q-0	[01] Mon 12 Aug 2013 11:23 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2257218]	Ksenia Grozdova
+Q-0	[01] Wed 24 Jul 2013  7:41 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Wed 24 Jul 2013  7:42 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2265343]	Anonymous
+Q-0	[01] Sat 24 Aug 2013  3:43 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Sat 24 Aug 2013  3:43 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2319315]	Heike Naser
+Q-0	[01] Wed 31 Jul 2013  8:23 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2326734]	Nguyen Hong Bac
+Q-0	[01] Fri  2 Aug 2013  4:14 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2345762]	Roman Titov
+Q-0	[01] Wed 24 Jul 2013  2:58 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2346706]	Natalia Teterkina
+Q-0	[01] Wed 31 Jul 2013  3:18 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2352559]	Stefan Ilić
+Q-0	[01] Sun 21 Jul 2013  9:05 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2367053]	Terry Steven Barker
+Q-0	[01] Sun 21 Jul 2013 11:33 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2372993]	Tomczyk Dariusz
+Q-0	[01] Tue  3 Sep 2013  9:36 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2375120]	Gerard Peyri Pellicer
+Q-0	[01] Fri 26 Jul 2013  7:17 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2434675]	Anonymous
+Q-0	[01] Thu 25 Jul 2013  2:36 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2446281]	Ajay Jain
+Q-0	[01] Tue 23 Jul 2013 11:35 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2448813]	Dereje Taye
+Q-0	[01] Tue 27 Aug 2013 11:23 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+
+[2455410]	Ken Cohrn
+Q-0	[01] Tue 23 Jul 2013  7:17 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2457975]	Alexandra Kavcova
+Q-0	[01] Wed  7 Aug 2013  8:45 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Wed  7 Aug 2013  8:45 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Wed  7 Aug 2013  8:45 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+
+[2459030]	opal chen
+Q-0	[01] Mon 22 Jul 2013 12:11 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2475826]	Sanh Le
+Q-0	[01] Tue 13 Aug 2013 10:01 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2483316]	Xinyan Sun
+Q-0	[01] Fri 26 Jul 2013 12:19 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2493037]	Samuel Omodiaogbe
+Q-0	[01] Fri 26 Jul 2013  6:00 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Fri 26 Jul 2013  6:01 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2493129]	Stephani Keane nee Mok
+Q-0	[01] Sun 21 Jul 2013  5:40 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2509352]	Anonymous
+Q-0	[01] Sun 25 Aug 2013  3:58 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2509596]	Jessica Leung
+Q-0	[01] Wed  7 Aug 2013  4:27 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Wed  7 Aug 2013  4:27 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2520771]	Bo Yu
+Q-0	[01] Thu  1 Aug 2013  4:53 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2533502]	To Russell Hsing
+Q-0	[01] Fri  2 Aug 2013  2:09 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2537987]	Anonymous
+Q-0	[01] Sun 21 Jul 2013 12:52 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2539285]	Anonymous
+Q-0	[01] Sat 27 Jul 2013  8:23 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2545543]	Anikó Pohner
+Q-0	[01] Mon 22 Jul 2013  6:13 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2545599]	Alin-Andrei Marin
+Q-0	[01] Mon 22 Jul 2013  6:58 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Thu 25 Jul 2013 11:53 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Thu 25 Jul 2013 11:53 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2548999]	ROBERT P MACKAY
+Q-0	[01] Thu 25 Jul 2013  1:09 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2552211]	Carlos Hoecker Escuti
+Q-0	[01] Sun 28 Jul 2013  3:32 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2560458]	Michael Royo
+Q-0	[01] Thu 29 Aug 2013  5:37 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2568184]	Anonymous
+Q-0	[01] Tue 20 Aug 2013 10:23 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2568756]	Barbara Di Mattia
+Q-0	[01] Tue 30 Jul 2013  1:22 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2578846]	Daniel Dragic
+Q-0	[01] Mon 22 Jul 2013  8:32 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2588294]	Jaehyun Ahn
+Q-0	[01] Mon 22 Jul 2013 12:08 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2595359]	Alexandru Filimon
+Q-0	[01] Mon 29 Jul 2013  2:56 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2599940]	James Lohff
+Q-0	[01] Thu 22 Aug 2013 12:34 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Thu 22 Aug 2013 12:34 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Thu 22 Aug 2013 12:34 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2603463]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  5:40 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Mon 29 Jul 2013  5:40 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Mon 29 Jul 2013  5:40 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2606972]	Mariia Liukshyna
+Q-0	[01] Wed 31 Jul 2013  8:54 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Wed 31 Jul 2013  8:54 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2608318]	Bill MacGillivray
+Q-0	[01] Tue 23 Jul 2013 12:59 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2609490]	Robert C Brooks
+Q-0	[01] Mon 22 Jul 2013  2:41 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2615107]	Anonymous
+Q-0	[01] Sun 28 Jul 2013  9:01 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Sun 28 Jul 2013  9:01 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Sun 28 Jul 2013  9:01 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+
+[2618918]	Barbara A. Brewer
+Q-0	[01] Fri 26 Jul 2013  3:35 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2620921]	Juliet Jordan
+Q-0	[01] Fri 26 Jul 2013 11:28 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2646582]	Nathan Mytelka
+Q-0	[01] Wed  7 Aug 2013 12:36 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2656321]	Anonymous
+Q-0	[01] Sun  4 Aug 2013  6:31 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2658233]	Luis Loyola
+Q-0	[01] Wed  7 Aug 2013  5:45 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Wed  7 Aug 2013  5:46 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Wed  7 Aug 2013  5:46 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+
+[2665371]	Rachel Ruhlen
+Q-0	[01] Sun 21 Jul 2013  4:04 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2670056]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  3:02 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2677019]	Daniel Contreras Corrius
+Q-0	[01] Tue  6 Aug 2013  7:51 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2679686]	Cleide
+Q-0	[01] Fri 26 Jul 2013  1:14 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Fri 26 Jul 2013  1:15 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Fri 26 Jul 2013  1:28 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[04] Fri 26 Jul 2013  1:28 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2693675]	Nicolaas Roelofs
+Q-0	[01] Tue  6 Aug 2013  8:06 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2698771]	Gisela Anahi Dari
+Q-0	[01] Mon 22 Jul 2013  3:28 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2702075]	Chung Zhi Li, Denzel
+Q-0	[01] Sun  1 Sep 2013  1:53 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2712820]	Jesus Alberto Delgado Rivera
+Q-0	[01] Sun 21 Jul 2013  1:54 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2714387]	Lillie Thomas
+Q-0	[01] Tue 23 Jul 2013  9:28 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2721125]	Anonymous
+Q-0	[01] Wed 24 Jul 2013 11:28 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Wed 24 Jul 2013 11:28 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2733011]	swati bhatt
+Q-0	[01] Mon 29 Jul 2013  7:41 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2736076]	Hanlin Hu
+Q-0	[01] Tue 23 Jul 2013 12:24 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Tue 23 Jul 2013 12:24 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Tue 23 Jul 2013 12:24 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2740771]	Dendal Jean-Louis
+Q-0	[01] Tue 23 Jul 2013 10:28 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2751542]	Miguel Angel Valencia de Las Heras
+Q-0	[01] Thu 25 Jul 2013 10:02 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Mon 19 Aug 2013  2:42 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2755081]	Rene Mercier
+Q-0	[01] Thu 25 Jul 2013  3:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Tue 30 Jul 2013  4:20 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2758720]	Anton Andrei-Valentin
+Q-0	[01] Sun 21 Jul 2013  9:05 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2759604]	Karin Nietiedt
+Q-0	[01] Mon 22 Jul 2013  8:39 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2773697]	ricardo nagamine motta
+Q-0	[01] Sun 21 Jul 2013  5:31 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2774890]	Bradley Warner
+Q-0	[01] Sun 21 Jul 2013  8:26 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2778066]	Tay Wei-Yi
+Q-0	[01] Sun 28 Jul 2013  8:59 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Sun 28 Jul 2013  9:00 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2779970]	Vaibhav Jayaraman
+Q-0	[01] Fri 26 Jul 2013 10:21 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2793604]	Gregory Kulczycki
+Q-0	[01] Thu 25 Jul 2013  5:36 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2800568]	Lawal muhd Aminu
+Q-0	[01] Thu  1 Aug 2013  7:31 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2825931]	Anonymous
+Q-0	[01] Mon  5 Aug 2013 10:35 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2829538]	Nancy Mercedes Saenz Sanchez
+Q-0	[01] Mon 29 Jul 2013 11:29 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2836826]	Alexander Imre
+Q-0	[01] Mon 22 Jul 2013  2:49 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2845442]	eben hugo
+Q-0	[01] Tue 20 Aug 2013  9:37 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2847535]	Kevin Starque
+Q-0	[01] Mon 22 Jul 2013  6:53 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2859264]	Chou Sui-Fen
+Q-0	[01] Wed 31 Jul 2013 11:43 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2867809]	Daniel Guerrero Andrioli
+Q-0	[01] Mon 22 Jul 2013 11:42 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2876927]	stewart gutoff
+Q-0	[01] Wed 14 Aug 2013 11:26 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2881571]	Aaron Stoddart-Cordova
+Q-0	[01] Sun 21 Jul 2013  3:25 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2889189]	Jacob Valencia
+Q-0	[01] Wed 21 Aug 2013  8:30 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2890558]	Adriano Kiyoshi Ogata Pinto
+Q-0	[01] Sun  4 Aug 2013  1:25 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2894802]	Gyan Deep
+Q-0	[01] Wed 31 Jul 2013  3:54 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2900404]	John Golas
+Q-0	[01] Thu 25 Jul 2013  3:14 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2900415]	Song-Lin Young
+Q-0	[01] Fri 26 Jul 2013  5:34 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2907980]	Sean Lamb
+Q-0	[01] Sat  3 Aug 2013  5:55 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2914066]	Mutsuko Hasegawa
+Q-0	[01] Wed 24 Jul 2013  9:01 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Wed 24 Jul 2013  9:01 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[03] Thu  1 Aug 2013  8:06 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2916133]	Collin Stedman
+Q-0	[01] Sat 27 Jul 2013  6:31 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Sat 27 Jul 2013  6:32 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2916889]	Bing Sun
+Q-0	[01] Sat 27 Jul 2013  4:41 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2935374]	Delwaulle Alissa
+Q-0	[01] Sat 17 Aug 2013  3:15 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Sat 17 Aug 2013  3:15 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2939104]	Mugambi Ibui
+Q-0	[01] Fri  9 Aug 2013  2:28 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2939922]	Adam Teman
+Q-0	[01] Tue  3 Sep 2013 10:33 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Tue  3 Sep 2013 10:33 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Tue  3 Sep 2013 10:33 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2943641]	Danny Flynn
+Q-0	[01] Sat 14 Sep 2013  4:46 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2965357]	Shuang Xu
+Q-0	[01] Mon 22 Jul 2013  8:16 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2969358]	Laurentiu Mamaliga
+Q-0	[01] Wed 24 Jul 2013  3:09 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2970053]	Julija Otto
+Q-0	[01] Sun 21 Jul 2013 12:47 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2972038]	Hakan Gursoy
+Q-0	[01] Wed 24 Jul 2013  5:31 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2986924]	Larry Dolce
+Q-0	[01] Thu 25 Jul 2013  5:41 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2987567]	Ruchi Sethi
+Q-0	[01] Thu 25 Jul 2013  6:45 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Fri 30 Aug 2013  2:03 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2996443]	Anonymous
+Q-0	[01] Tue 23 Jul 2013 12:12 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[2997270]	Chandra Shekar Bommasamudra
+Q-0	[01] Sat  3 Aug 2013  4:06 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3023248]	julio cano
+Q-0	[01] Tue 23 Jul 2013  4:53 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Tue 23 Jul 2013  4:53 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Tue 23 Jul 2013  4:53 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3027057]	James Bonnell
+Q-0	[01] Wed 28 Aug 2013  9:29 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3030034]	Kamavosyan Shushan
+Q-0	[01] Sun 25 Aug 2013  4:51 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3031772]	Jason Yuan
+Q-0	[01] Sun 28 Jul 2013  6:51 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3031948]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  3:57 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3036064]	Reinhard Langner
+Q-0	[01] Fri 26 Jul 2013  7:59 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3063152]	Tea
+Q-0	[01] Thu 29 Aug 2013  8:39 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3082893]	Anonymous
+Q-0	[01] Mon  5 Aug 2013  5:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3086647]	Matteo Marcon
+Q-0	[01] Sun 21 Jul 2013 12:21 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3088637]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  9:33 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3108208]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  3:25 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Sat 27 Jul 2013  6:50 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3109529]	Jerry Chang
+Q-0	[01] Tue  3 Sep 2013 12:13 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3118119]	Philip Tsang
+Q-0	[01] Thu 25 Jul 2013  9:07 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3124128]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  1:22 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3124384]	Davide Capasso
+Q-0	[01] Tue  6 Aug 2013  3:50 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3127231]	ZhangJun
+Q-0	[01] Wed 24 Jul 2013  2:08 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3135269]	sitabkhan
+Q-0	[01] Tue 30 Jul 2013 12:01 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3148420]	Agócs Bence
+Q-0	[01] Sat 27 Jul 2013 12:04 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3166739]	Soonhyung hwang
+Q-0	[01] Sun 28 Jul 2013  6:20 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3173485]	Cao Jin
+Q-0	[01] Tue 20 Aug 2013  4:29 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3191788]	Mike Bainter
+Q-0	[01] Mon 26 Aug 2013  4:57 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3196070]	Ng Shi Han
+Q-0	[01] Mon 29 Jul 2013  2:21 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3206088]	Don Silverman
+Q-0	[01] Sun 21 Jul 2013  4:24 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3207448]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  8:57 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3211111]	abdelkader
+Q-0	[01] Mon  2 Sep 2013  9:19 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3211312]	Dario Tompkins II
+Q-0	[01] Tue 23 Jul 2013  4:23 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3214687]	Helen Sadler
+Q-0	[01] Wed 24 Jul 2013  9:31 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3223096]	Robert
+Q-0	[01] Mon 22 Jul 2013  5:38 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3232603]	José A. Velasco S.
+Q-0	[01] Thu  1 Aug 2013  7:57 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3235168]	B. ISHAK
+Q-0	[01] Mon 22 Jul 2013 10:55 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3236669]	Lance Nelson
+Q-0	[01] Wed 24 Jul 2013  8:20 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3237073]	Nikitas Marinos Sgouros
+Q-0	[01] Wed 24 Jul 2013  3:03 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Wed 24 Jul 2013  3:03 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[03] Wed 24 Jul 2013  3:03 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+
+[3259879]	Yan Cheng
+Q-0	[01] Mon 29 Jul 2013  3:25 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3261998]	Anonymous
+Q-0	[01] Thu  1 Aug 2013  5:02 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3262415]	Tripp Cox
+Q-0	[01] Sun 11 Aug 2013  6:15 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3265563]	Jerico Loyd Pingul
+Q-0	[01] Fri 30 Aug 2013  9:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3273217]	Kevin Banks
+Q-0	[01] Tue 30 Jul 2013 12:01 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Thu  1 Aug 2013  1:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3280770]	Theresa S Aleguas
+Q-0	[01] Tue 23 Jul 2013 10:18 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3282235]	Jason E Lopez
+Q-0	[01] Wed 14 Aug 2013  8:55 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3297465]	Rachel Edwards
+Q-0	[01] Sun 25 Aug 2013  2:48 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3304508]	Madhu Maheswar B
+Q-0	[01] Sat 31 Aug 2013  1:03 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3311289]	Chang Chi Chang
+Q-0	[01] Thu  1 Aug 2013  8:56 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Thu  1 Aug 2013  8:57 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Thu  1 Aug 2013  8:57 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3312098]	Adalberto Filho
+Q-0	[01] Sat 27 Jul 2013  7:31 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3320541]	Junaide Deva Paul
+Q-0	[01] Mon 29 Jul 2013  3:43 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3322145]	Earl Powell
+Q-0	[01] Fri 26 Jul 2013  1:11 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Fri 26 Jul 2013  1:11 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3322518]	Peter Politis
+Q-0	[01] Sat 27 Jul 2013  4:54 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3322520]	Anonymous
+Q-0	[01] Thu 25 Jul 2013  9:10 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Thu 25 Jul 2013  9:11 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3323098]	Binnur Al-Kazily
+Q-0	[01] Wed 28 Aug 2013  3:03 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3339187]	Xiaoyu Xu
+Q-0	[01] Tue 13 Aug 2013  3:01 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3341511]	gabriela saldanha
+Q-0	[01] Tue  6 Aug 2013  3:23 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3342681]	Pete Vreeland
+Q-0	[01] Wed 31 Jul 2013  1:19 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3343682]	Anonymous
+Q-0	[01] Thu 25 Jul 2013 10:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3351530]	Nancy Billmann
+Q-0	[01] Sun 21 Jul 2013  4:10 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3359343]	Victor Wrobel
+Q-0	[01] Mon 22 Jul 2013  4:06 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3364739]	Luisa Camargo
+Q-0	[01] Thu  1 Aug 2013  7:20 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Thu  1 Aug 2013  7:20 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3368193]	Wendy Face
+Q-0	[01] Thu 22 Aug 2013  9:46 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3370720]	Harold Hauser
+Q-0	[01] Tue 23 Jul 2013 10:26 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3371089]	Cheung Fung Yeung
+Q-0	[01] Wed 24 Jul 2013  1:08 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3377447]	Bev Wilson
+Q-0	[01] Sun 11 Aug 2013  5:37 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3383688]	Dimitris Natsiopoulos
+Q-0	[01] Sun 18 Aug 2013 11:32 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Sun 18 Aug 2013 11:32 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[03] Sun 18 Aug 2013 11:32 AM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+
+[3385619]	Kate Jonasse
+Q-0	[01] Mon 29 Jul 2013  1:17 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3398853]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  9:12 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3407341]	Anonymous
+Q-0	[01] Wed 14 Aug 2013  8:52 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3427555]	Derrick
+Q-0	[01] Fri 23 Aug 2013  6:57 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Fri 23 Aug 2013  6:57 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3435349]	Anonymous
+Q-0	[01] Tue 30 Jul 2013 11:40 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3439924]	Michael Hartman
+Q-0	[01] Sun 28 Jul 2013  5:19 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3441662]	Priyanka Chandrabalan
+Q-0	[01] Sat 27 Jul 2013  5:24 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3463849]	Bethany Elizabeth Johnson
+Q-0	[01] Sat 31 Aug 2013 10:36 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3465071]	Noah Eilken
+Q-0	[01] Tue 30 Jul 2013  5:33 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3495461]	Dee Senuta
+Q-0	[01] Wed 31 Jul 2013 12:44 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3496208]	Aniket Samant
+Q-0	[01] Thu 25 Jul 2013 10:50 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3499935]	Bruce Johnston
+Q-0	[01] Thu 25 Jul 2013  1:25 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3508209]	Lucas Cabral Maciel
+Q-0	[01] Tue 23 Jul 2013  3:41 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3518062]	Stasinopoulos Evangelos
+Q-0	[01] Thu 25 Jul 2013 12:39 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3522487]	Richard F. DiFonzo
+Q-0	[01] Sun 21 Jul 2013  9:30 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3524714]	Max Li
+Q-0	[01] Wed 24 Jul 2013  9:03 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3526654]	Tony Chu
+Q-0	[01] Thu 15 Aug 2013  2:55 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3529217]	Aurelio Domingos Machado
+Q-0	[01] Thu 25 Jul 2013  8:45 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3530614]	Wolfgang Ruthner
+Q-0	[01] Wed 31 Jul 2013  7:32 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3530817]	Dan Colacel
+Q-0	[01] Mon 22 Jul 2013  9:31 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Mon 29 Jul 2013  2:06 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3532514]	Michael Philipson
+Q-0	[01] Mon 22 Jul 2013  5:18 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3558479]	Anonymous
+Q-0	[01] Sun  1 Sep 2013  8:32 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Mon  2 Sep 2013  8:27 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3564759]	Ivy(Pei-Tzu) Huang
+Q-0	[01] Thu 25 Jul 2013  5:10 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3572617]	Igor Aleksic
+Q-0	[01] Wed 31 Jul 2013 11:36 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3574434]	Anonymous
+Q-0	[01] Wed 31 Jul 2013  3:25 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Wed 31 Jul 2013  3:25 AM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Wed 31 Jul 2013  3:25 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+
+[3576707]	George Bassem Eskandar
+Q-0	[01] Mon 22 Jul 2013  7:22 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3578327]	Anonymous
+Q-0	[01] Thu  8 Aug 2013  3:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3578513]	Ludwig Widerka
+Q-0	[01] Wed 24 Jul 2013  7:45 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Wed 24 Jul 2013  7:45 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3579851]	Nikos Goumenakis
+Q-0	[01] Mon 22 Jul 2013  9:04 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3580577]	G
+Q-0	[01] Fri 30 Aug 2013  7:57 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3591027]	JIM, Kwok Ming (Jimmy)
+Q-0	[01] Tue 23 Jul 2013  7:58 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3592810]	ioannis siokos
+Q-0	[01] Fri  2 Aug 2013 10:12 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3593345]	George
+Q-0	[01] Mon 29 Jul 2013  7:22 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Fri  9 Aug 2013  8:24 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3593779]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  4:42 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3595064]	Anonymous
+Q-0	[01] Fri 26 Jul 2013  1:25 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3609083]	Cristina Avram
+Q-0	[01] Mon 26 Aug 2013 12:53 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3615575]	Anonymous
+Q-0	[01] Tue 30 Jul 2013  3:38 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3619862]	Suvradip Chakraborty
+Q-0	[01] Thu  1 Aug 2013  6:39 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3632099]	Cindy Wrede
+Q-0	[01] Fri 26 Jul 2013 12:03 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3632621]	Nicole Wagenblast
+Q-0	[01] Mon 22 Jul 2013 12:27 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3637101]	Ava Tartaglia
+Q-0	[01] Tue 13 Aug 2013  3:53 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Tue 13 Aug 2013  3:53 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3641068]	Ivana Todorovic
+Q-0	[01] Tue 23 Jul 2013 12:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3643253]	Robert Bustichi
+Q-0	[01] Fri 26 Jul 2013  5:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3648322]	Deborah quazzo
+Q-0	[01] Sat 27 Jul 2013  3:50 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3649929]	susan miskowitch
+Q-0	[01] Sun  4 Aug 2013  1:24 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Sun  4 Aug 2013  1:24 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3651366]	Stuart Skinner Jr
+Q-0	[01] Thu  8 Aug 2013  8:50 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Mon 12 Aug 2013  2:53 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3653814]	Anonymous
+Q-0	[01] Tue 20 Aug 2013 12:52 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3655778]	Anonymous
+Q-0	[01] Fri 26 Jul 2013  6:01 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3656898]	Patrick O'Connell
+Q-0	[01] Thu  8 Aug 2013  3:25 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3662917]	Kyung Min Song
+Q-0	[01] Tue 20 Aug 2013  1:32 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3663252]	Anonymous
+Q-0	[01] Thu 25 Jul 2013  4:34 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Thu 25 Jul 2013  4:34 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[03] Thu 25 Jul 2013  4:34 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3663561]	Natalia Mokina
+Q-0	[01] Mon 29 Jul 2013  4:26 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3666252]	Harold Patterson
+Q-0	[01] Wed  7 Aug 2013  3:15 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3677184]	John McErlain
+Q-0	[01] Mon 22 Jul 2013  7:31 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3680701]	Dodi Darsiyan
+Q-0	[01] Tue 23 Jul 2013 10:11 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3681427]	Maria Thomas
+Q-0	[01] Sun 28 Jul 2013 12:42 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3682404]	Melinda Pethel
+Q-0	[01] Tue 23 Jul 2013  9:39 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3683830]	Antonio
+Q-0	[01] Wed 24 Jul 2013  4:35 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Wed 24 Jul 2013  4:35 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[03] Wed 24 Jul 2013  4:35 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3689652]	Hassan Elousami
+Q-0	[01] Wed 24 Jul 2013 11:45 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3693600]	steve kaleta
+Q-0	[01] Thu 15 Aug 2013  6:13 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3694609]	CRISTINA
+Q-0	[01] Tue 20 Aug 2013  5:33 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Tue 20 Aug 2013  5:34 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Tue 20 Aug 2013  5:34 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+
+[3696093]	Daniel Salefski
+Q-0	[01] Thu  1 Aug 2013  7:48 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3697485]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  4:02 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3698556]	Lynn Kobayashi
+Q-0	[01] Tue 23 Jul 2013  6:09 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3704397]	Anonymous
+Q-0	[01] Tue  6 Aug 2013 11:42 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3708868]	nissim katry
+Q-0	[01] Mon 22 Jul 2013  1:31 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Mon 22 Jul 2013  1:31 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3708895]	Ionut Plapamaru
+Q-0	[01] Wed 24 Jul 2013  9:46 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3712362]	Arnoud Morsink
+Q-0	[01] Wed 21 Aug 2013  7:18 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3712405]	Yixin He
+Q-0	[01] Mon 22 Jul 2013  3:38 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Fri 26 Jul 2013  5:59 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3714238]	Evangelos Deirmentzoglou
+Q-0	[01] Wed 24 Jul 2013  4:29 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Wed 24 Jul 2013  4:29 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[03] Wed 24 Jul 2013  4:29 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3715513]	Lora Andronova
+Q-0	[01] Thu 25 Jul 2013 10:02 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3718396]	Laura Fung
+Q-0	[01] Fri 26 Jul 2013  9:07 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3726269]	Keith Hart
+Q-0	[01] Tue 30 Jul 2013  5:27 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3728174]	Bob Coull
+Q-0	[01] Mon  5 Aug 2013 10:34 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3728970]	Matthew Giordano
+Q-0	[01] Mon 29 Jul 2013  7:47 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Mon 29 Jul 2013  7:47 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Mon 29 Jul 2013  7:47 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+
+[3730858]	Joe Melliere
+Q-0	[01] Sat 24 Aug 2013  5:47 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3733775]	Ingrid Winstone
+Q-0	[01] Wed  4 Sep 2013  1:22 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3734087]	Jay Zhang
+Q-0	[01] Wed 14 Aug 2013  7:11 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3736081]	Bethany A Caruso
+Q-0	[01] Tue 23 Jul 2013  1:08 AM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Tue 23 Jul 2013  1:08 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Tue 23 Jul 2013  1:08 AM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+
+[3739871]	Marcela Gomes Correa
+Q-0	[01] Wed  7 Aug 2013  8:48 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Wed  7 Aug 2013  8:48 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[03] Wed  7 Aug 2013  8:49 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3740601]	Shweta Naik
+Q-0	[01] Thu  1 Aug 2013  1:10 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3747641]	Anthony Glueck
+Q-0	[01] Fri 26 Jul 2013 10:36 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3755338]	Ingrid Schmidt
+Q-0	[01] Mon 12 Aug 2013  9:10 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3762070]	Kevin Joseph Kelly
+Q-0	[01] Sun 11 Aug 2013  1:37 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3770615]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  7:03 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3776747]	Anonymous
+Q-0	[01] Sun 21 Jul 2013  4:39 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3793585]	Jyothi Suresh
+Q-0	[01] Fri 23 Aug 2013 11:30 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3795491]	Luciano Fernandes da Silva
+Q-0	[01] Thu  8 Aug 2013  4:17 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3797242]	Patrick Oman
+Q-0	[01] Wed 21 Aug 2013 11:33 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3800669]	Noah Burhance
+Q-0	[01] Thu 25 Jul 2013  3:21 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Thu 25 Jul 2013  3:21 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[03] Thu 25 Jul 2013  3:24 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3809222]	Anonymous
+Q-0	[01] Thu 29 Aug 2013  1:40 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3811927]	Ananya Rajesh
+Q-0	[01] Sun 21 Jul 2013  6:25 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3817769]	Rafael Santisteban
+Q-0	[01] Mon 22 Jul 2013 11:02 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3825005]	Rahul Rajagopal
+Q-0	[01] Wed 31 Jul 2013 12:09 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3827013]	Hyran
+Q-0	[01] Wed 24 Jul 2013  1:04 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Wed 24 Jul 2013  1:05 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Wed 24 Jul 2013  1:05 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+
+[3834675]	Frederick Tan
+Q-0	[01] Mon 22 Jul 2013  4:00 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3845464]	Farid Bakir
+Q-0	[01] Sat 27 Jul 2013  4:06 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3845688]	Annemarie Widmer
+Q-0	[01] Sun 21 Jul 2013  3:02 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3846897]	Viktor Dimitrov
+Q-0	[01] Wed 21 Aug 2013  3:59 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3849459]	Anonymous
+Q-0	[01] Fri 26 Jul 2013  7:39 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3855156]	Lenny Fortnash
+Q-0	[01] Mon 22 Jul 2013 12:16 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3855530]	Jeff H Federer
+Q-0	[01] Sun 21 Jul 2013 11:14 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3855705]	Eric
+Q-0	[01] Sun 21 Jul 2013  5:01 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3856486]	Yacov m
+Q-0	[01] Fri 26 Jul 2013 11:44 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3858378]	Rafa Rueda
+Q-0	[01] Mon 22 Jul 2013  3:46 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3863805]	Ron Gerard
+Q-0	[01] Wed 24 Jul 2013  8:56 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Wed 24 Jul 2013  8:56 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3864611]	Austin Samuel Carr
+Q-0	[01] Wed 24 Jul 2013  5:49 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3865543]	Thierry EBENER
+Q-0	[01] Sun  4 Aug 2013 10:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3869521]	Jeffrey Santi
+Q-0	[01] Wed 24 Jul 2013  3:47 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3870895]	Adam Barrett
+Q-0	[01] Thu  1 Aug 2013 10:23 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3870957]	Aaron Huang
+Q-0	[01] Mon 29 Jul 2013  2:56 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Mon 29 Jul 2013  2:57 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3873014]	Jen Garcia
+Q-0	[01] Wed 31 Jul 2013  7:35 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3876356]	Anjali Deshmukh
+Q-0	[01] Sun 28 Jul 2013  4:34 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3879133]	Sarina Pradhananga
+Q-0	[01] Mon 22 Jul 2013  7:18 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Mon 22 Jul 2013  7:18 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3882076]	padma jagannathan
+Q-0	[01] Sun 21 Jul 2013 11:12 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3883367]	Dennis Kunimura
+Q-0	[01] Tue 23 Jul 2013  5:53 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3885026]	Lisa Fraser
+Q-0	[01] Sat 27 Jul 2013  7:06 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3896149]	Victoria Chikaldina
+Q-0	[01] Fri 26 Jul 2013  2:39 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3896898]	Stefan Becker
+Q-0	[01] Wed 24 Jul 2013  9:00 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3901736]	John Gathings
+Q-0	[01] Tue 30 Jul 2013  4:02 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3905187]	Jaime Santiago
+Q-0	[01] Mon 22 Jul 2013  5:32 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3905697]	William Fisher
+Q-0	[01] Sat 10 Aug 2013  5:17 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3906535]	Ryan Wong
+Q-0	[01] Sun  4 Aug 2013  6:17 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3907846]	Kevin Manley
+Q-0	[01] Tue 23 Jul 2013  3:02 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3908300]	Patricia Wang
+Q-0	[01] Mon 22 Jul 2013  2:03 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Thu 25 Jul 2013  4:02 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3913715]	Ganqin Huang
+Q-0	[01] Mon 12 Aug 2013  9:14 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Mon 12 Aug 2013  9:14 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3913768]	Galina
+Q-0	[01] Tue 23 Jul 2013  6:28 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3916170]	Curtis Luis Leister
+Q-0	[01] Tue 23 Jul 2013  4:10 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3916826]	Niket Patel
+Q-0	[01] Fri  9 Aug 2013  7:50 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3918571]	Anonymous
+Q-0	[01] Mon 22 Jul 2013  9:39 AM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Mon 22 Jul 2013  9:39 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Mon 22 Jul 2013  9:40 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+
+[3923316]	Anonymous
+Q-0	[01] Thu  8 Aug 2013  9:45 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3928349]	Eduardo
+Q-0	[01] Thu  1 Aug 2013  8:55 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3932301]	LINGZI JIN
+Q-0	[01] Tue 30 Jul 2013  2:36 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3932403]	Michelle Pang
+Q-0	[01] Sat 24 Aug 2013  7:38 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3935138]	Carl
+Q-0	[01] Sun 21 Jul 2013 11:01 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3935247]	Chris Confalone
+Q-0	[01] Tue 23 Jul 2013  5:55 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3936323]	Anne Moeller
+Q-0	[01] Sun 21 Jul 2013 11:22 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3936681]	Ike Ma
+Q-0	[01] Mon 29 Jul 2013  4:51 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3936889]	Angela Weil
+Q-0	[01] Mon 29 Jul 2013 11:01 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3937870]	Anonymous
+Q-0	[01] Wed 24 Jul 2013 12:33 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3939812]	Darlene M Brownlee
+Q-0	[01] Mon 22 Jul 2013  8:55 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3939885]	Apoorav Gupta
+Q-0	[01] Wed 24 Jul 2013 10:23 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3939893]	Cheri Tolar
+Q-0	[01] Sun 28 Jul 2013 11:46 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Sun 28 Jul 2013 11:46 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Sun 28 Jul 2013 11:46 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3943663]	anshu mittal
+Q-0	[01] Wed 14 Aug 2013  2:20 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Wed 14 Aug 2013  2:20 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3945217]	Reesa Arshoff
+Q-0	[01] Sat 27 Jul 2013  2:27 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Sat 27 Jul 2013  2:27 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3949612]	Patricia
+Q-0	[01] Mon 22 Jul 2013 11:25 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3952015]	kodali naveen
+Q-0	[01] Tue 23 Jul 2013 11:00 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[02] Tue 23 Jul 2013 11:00 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3953862]	Adeline
+Q-0	[01] Sun 21 Jul 2013 10:51 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3954114]	Anonymous
+Q-0	[01] Tue 30 Jul 2013 11:32 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3954139]	Fabian Rodriguez
+Q-0	[01] Sun 21 Jul 2013  4:30 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3957025]	Christina Kwok
+Q-0	[01] Wed 24 Jul 2013  2:08 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3957403]	Kevin Shen
+Q-0	[01] Mon 22 Jul 2013  5:07 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3958725]	Anonymous
+Q-0	[01] Fri 16 Aug 2013  8:32 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3960837]	Maria Weißenborn
+Q-0	[01] Fri 16 Aug 2013  9:33 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3962649]	Anonymous
+Q-0	[01] Thu 25 Jul 2013  7:22 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3963932]	Anonymous
+Q-0	[01] Thu 25 Jul 2013  6:35 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3966773]	Peter Ip
+Q-0	[01] Mon 22 Jul 2013  3:05 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3970785]	Anonymous
+Q-0	[01] Sun 21 Jul 2013 11:15 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3971765]	Daniel Haller
+Q-0	[01] Wed  4 Sep 2013  1:59 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3972340]	Olfert Rahbek
+Q-0	[01] Tue 23 Jul 2013 12:11 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3972492]	Adam Los
+Q-0	[01] Sun 21 Jul 2013  3:26 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3972984]	Andrew CHAN
+Q-0	[01] Sat 27 Jul 2013  8:38 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3973619]	Elizabeth McGinty
+Q-0	[01] Sun 21 Jul 2013  1:15 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3975182]	iuri soares
+Q-0	[01] Sun 21 Jul 2013  9:27 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3976801]	Lainie Cohen
+Q-0	[01] Fri 26 Jul 2013  2:19 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3976907]	Anonymous
+Q-0	[01] Fri 26 Jul 2013  3:43 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3977242]	Yury Aglyamov
+Q-0	[01] Tue 23 Jul 2013  4:24 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3977304]	Anonymous
+Q-0	[01] Tue 30 Jul 2013  1:57 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3977967]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  1:25 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3978826]	Xinyu Liu
+Q-0	[01] Fri 26 Jul 2013 12:04 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3982431]	Sebastián Rodas
+Q-0	[01] Wed 24 Jul 2013 11:30 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3983050]	Jvon Eugene Mitchell
+Q-0	[01] Mon 19 Aug 2013  9:15 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3986185]	Anonymous
+Q-0	[01] Thu 25 Jul 2013  1:19 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3989451]	Mansa van der Scheer-Briscoe
+Q-0	[01] Tue 23 Jul 2013  6:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3992284]	anne maloney
+Q-0	[01] Sat 27 Jul 2013  9:07 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3993801]	John Mastrogiovanni
+Q-0	[01] Tue 23 Jul 2013  5:46 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Tue 23 Jul 2013  5:46 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Tue 23 Jul 2013  5:46 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3994218]	Wolfgang Reuber
+Q-0	[01] Sun 28 Jul 2013  8:12 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[3999510]	Quan Chun Lin
+Q-0	[01] Mon 29 Jul 2013  7:29 AM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Mon 29 Jul 2013  7:29 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Mon 29 Jul 2013  7:29 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+
+[4001272]	Sjoerd van Geloven
+Q-0	[01] Thu 25 Jul 2013 10:52 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4003348]	p choudhury
+Q-0	[01] Sat 27 Jul 2013 10:36 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4005214]	Donald Feltham
+Q-0	[01] Fri 26 Jul 2013  5:04 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4005317]	Sabine Weber
+Q-0	[01] Sun 21 Jul 2013  4:58 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Tue 30 Jul 2013  6:51 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4009902]	Anonymous
+Q-0	[01] Mon 22 Jul 2013 11:54 AM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Mon 22 Jul 2013 11:55 AM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+Q-0	[03] Mon 22 Jul 2013 11:55 AM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+
+[4010718]	Michiel Ghyselinck
+Q-0	[01] Fri  9 Aug 2013  7:03 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4012072]	Habiba Al-Toudy
+Q-0	[01] Mon 22 Jul 2013 11:48 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4014273]	Kenneth Papai
+Q-0	[01] Mon 22 Jul 2013  6:12 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4014565]	Anonymous
+Q-0	[01] Wed 28 Aug 2013  5:15 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4015334]	Vasil Martiko
+Q-0	[01] Mon 22 Jul 2013  4:35 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Mon 22 Jul 2013  4:35 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4016016]	Anonymous
+Q-0	[01] Wed 24 Jul 2013  4:32 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4020361]	Kaitlin Ardiff
+Q-0	[01] Mon 22 Jul 2013  3:10 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[02] Mon 22 Jul 2013  3:10 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4021892]	Maria Margarida Gouveia Ribeiro
+Q-0	[01] Thu 25 Jul 2013  5:08 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4031231]	Fabio Carletti
+Q-0	[01] Mon 22 Jul 2013  8:50 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4031621]	Talha Irfan
+Q-0	[01] Thu  1 Aug 2013  6:26 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4032377]	Cole Rodenberg
+Q-0	[01] Thu  8 Aug 2013  5:33 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4033171]	bob bones
+Q-0	[01] Sat 27 Jul 2013  7:32 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4040712]	yamini chandrasekar
+Q-0	[01] Fri 26 Jul 2013 10:30 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4043800]	Lim Chin Wee
+Q-0	[01] Sat  3 Aug 2013  3:18 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4049685]	chaojun zhou
+Q-0	[01] Tue 30 Jul 2013 11:16 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4053394]	Xiyang Zhang
+Q-0	[01] Thu 25 Jul 2013  7:13 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4065204]	Anonymous
+Q-0	[01] Tue 23 Jul 2013  9:00 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4066715]	Roxana Flori SEITAN
+Q-0	[01] Wed 24 Jul 2013 12:30 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4067253]	AKSHAY K A
+Q-0	[01] Thu 25 Jul 2013  8:19 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4084482]	Helge Kvernerud
+Q-0	[01] Sun 21 Jul 2013 11:19 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4088215]	Anonymous
+Q-0	[01] Tue 23 Jul 2013  7:22 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4113978]	Rakesh Tripathi
+Q-0	[01] Sat 27 Jul 2013  7:14 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4124412]	Alex King
+Q-0	[01] Thu 25 Jul 2013  8:35 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4144150]	Joe Means
+Q-0	[01] Tue 30 Jul 2013  5:44 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4154603]	Raïsa Carmen
+Q-0	[01] Thu 25 Jul 2013  2:57 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4169910]	Anonymous
+Q-0	[01] Mon  2 Sep 2013  8:32 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4239268]	luu
+Q-0	[01] Fri  9 Aug 2013 11:15 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[02] Fri  9 Aug 2013 11:15 PM UTC (UTC +0000)	0.00	In aggregate, the world currently consumes more than 1 Exabyte of mobile data each month.
+Q-0	[03] Fri  9 Aug 2013 11:15 PM UTC (UTC +0000)	0.00	Traditionally, mobile data plans were flat-rate.
+
+[4253413]	Anonymous
+Q-0	[01] Thu  8 Aug 2013  5:28 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4270421]	Anonymous
+Q-0	[01] Mon  5 Aug 2013 11:28 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+Q-0	[02] Thu 22 Aug 2013  4:50 PM UTC (UTC +0000)	0.00	Video streaming consumes the largest fraction of mobile data today.
+Q-0	[03] Thu 22 Aug 2013  4:50 PM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4283709]	David Mark Ballantine
+Q-0	[01] Fri 16 Aug 2013  7:39 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4391149]	Rajat
+Q-0	[01] Tue  3 Sep 2013  6:40 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.
+
+[4395092]	Corey Autrey
+Q-0	[01] Wed 28 Aug 2013  3:22 AM UTC (UTC +0000)	1.00	With flat-rate pricing, you pay an amount based on the quantity of data you consume.

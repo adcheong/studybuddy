@@ -1,0 +1,1746 @@
+Questions
+---------------
+Q-0	Which term represents the bitrate from the application-side to the customer-side?
+
+Student Answers
+---------------
+
+[1587]	Anonymous
+Q-0	[01] Mon  5 Aug 2013  2:07 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1626]	Dattatreya P Sharma
+Q-0	[01] Wed  7 Aug 2013  5:49 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3302]	Oleksandra Zhosan
+Q-0	[01] Sat 24 Aug 2013  1:15 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[6174]	Anthony Flores
+Q-0	[01] Fri 23 Aug 2013  9:14 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[6283]	martin zhuang
+Q-0	[01] Mon  5 Aug 2013  1:34 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[9371]	Estevo Urbano Caamanho Castro
+Q-0	[01] Wed  7 Aug 2013  1:29 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[9849]	Ingyu Lee
+Q-0	[01] Sun  4 Aug 2013  1:38 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Thu  8 Aug 2013  1:27 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[13796]	Friedrich
+Q-0	[01] Tue  6 Aug 2013  6:23 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[17500]	Sergey Zinov
+Q-0	[01] Mon  5 Aug 2013  4:57 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[19616]	Ricky Ho
+Q-0	[01] Wed 31 Jul 2013  1:46 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[23141]	Atakan Dogan
+Q-0	[01] Mon 12 Aug 2013  6:32 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[27268]	Stephen Horwat
+Q-0	[01] Sat  3 Aug 2013  6:08 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[33462]	Silvano Spencer
+Q-0	[01] Wed  7 Aug 2013 12:58 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[37504]	Asanka
+Q-0	[01] Tue  6 Aug 2013  2:42 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[39836]	Mohammad Muntasir Biojid Sirajee
+Q-0	[01] Mon 19 Aug 2013  2:30 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[41178]	Donald Bashline
+Q-0	[01] Sun  4 Aug 2013  7:42 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[50242]	Sean Lip
+Q-0	[01] Mon  5 Aug 2013  4:49 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[52447]	Francisco
+Q-0	[01] Mon 12 Aug 2013  4:18 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[54103]	Gawain Bosworth
+Q-0	[01] Wed 31 Jul 2013  1:13 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[67712]	nidhin pattaniyil
+Q-0	[01] Tue 30 Jul 2013  1:43 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[71809]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  8:05 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[78954]	paul brakke
+Q-0	[01] Thu  1 Aug 2013  9:19 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[92597]	chsz wu
+Q-0	[01] Thu  8 Aug 2013  3:01 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[92726]	Rafal Jasiak
+Q-0	[01] Sun 28 Jul 2013  5:40 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[101222]	Jonghyun Park
+Q-0	[01] Tue  6 Aug 2013  5:55 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[118308]	Otma
+Q-0	[01] Mon 29 Jul 2013  7:44 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[121674]	Evan Pokroy
+Q-0	[01] Wed 31 Jul 2013  7:34 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[130522]	Yury Kirpichev
+Q-0	[01] Mon 29 Jul 2013  6:56 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Mon 29 Jul 2013  6:56 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[133614]	Sudeep Conoor
+Q-0	[01] Fri  2 Aug 2013  6:10 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[138405]	bill palacio
+Q-0	[01] Mon 29 Jul 2013 12:38 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[149260]	Senthil Kumar
+Q-0	[01] Wed  4 Sep 2013  4:57 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[152631]	david beaurpere
+Q-0	[01] Sun 28 Jul 2013  5:30 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[154804]	James C Weaver
+Q-0	[01] Sun 28 Jul 2013  4:45 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[190487]	Anonymous
+Q-0	[01] Thu 22 Aug 2013 12:02 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Thu 22 Aug 2013 12:02 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[194059]	Anonymous
+Q-0	[01] Sat 10 Aug 2013  7:05 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[198247]	Rick Albano
+Q-0	[01] Tue 30 Jul 2013 10:29 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[219161]	Jill Dunham
+Q-0	[01] Fri  9 Aug 2013  7:49 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Fri  9 Aug 2013  7:50 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[223087]	Anonymous
+Q-0	[01] Mon  5 Aug 2013 10:06 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[227287]	Shirlyn Wong
+Q-0	[01] Mon 29 Jul 2013 10:54 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[243541]	Larry Furlong
+Q-0	[01] Wed 14 Aug 2013 12:59 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[244969]	Jiajun Luo
+Q-0	[01] Wed 31 Jul 2013  7:12 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[250237]	Ilya Batozskiy
+Q-0	[01] Mon 29 Jul 2013  5:24 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[251992]	Rich Walsh
+Q-0	[01] Mon 29 Jul 2013 12:02 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[257434]	JON A JONES
+Q-0	[01] Sat  3 Aug 2013  7:08 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[259264]	Anthony Kolasny
+Q-0	[01] Sun 28 Jul 2013  5:32 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[260380]	jinghua
+Q-0	[01] Fri 30 Aug 2013  3:33 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Fri 30 Aug 2013  3:33 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Fri 30 Aug 2013  3:33 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+
+[277571]	Robert
+Q-0	[01] Mon 29 Jul 2013 10:54 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[281695]	Mark DeSantis
+Q-0	[01] Mon 29 Jul 2013  6:23 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[287451]	Eduardo Lopez
+Q-0	[01] Wed  7 Aug 2013  7:57 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[292948]	Anonymous
+Q-0	[01] Wed 31 Jul 2013  9:06 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[298903]	Pedro Baez
+Q-0	[01] Tue 13 Aug 2013  7:17 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[305077]	Radu Aldea
+Q-0	[01] Mon 29 Jul 2013  6:31 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[325086]	Sampath Kumar
+Q-0	[01] Mon 29 Jul 2013  7:41 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[328093]	keiko fukunaga
+Q-0	[01] Mon 29 Jul 2013  8:30 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Mon 29 Jul 2013  8:30 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[03] Mon 29 Jul 2013  8:31 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[329915]	John King
+Q-0	[01] Wed 31 Jul 2013  2:07 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Wed 31 Jul 2013  2:07 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[03] Wed 31 Jul 2013  2:07 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[332085]	Pauline
+Q-0	[01] Mon 29 Jul 2013  9:26 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[342176]	Michael Goldshmidt
+Q-0	[01] Fri  2 Aug 2013 10:49 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[362465]	Ramesh
+Q-0	[01] Tue 30 Jul 2013  5:28 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[394664]	Mamoru Saito
+Q-0	[01] Thu  1 Aug 2013 12:38 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[399024]	Antonio Feijoo
+Q-0	[01] Tue  6 Aug 2013  2:39 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Tue  6 Aug 2013  2:39 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[03] Tue  6 Aug 2013  2:39 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+
+[411658]	Nelson Garcia de Paula
+Q-0	[01] Mon  5 Aug 2013  1:52 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[417205]	Lars Hvidegaard
+Q-0	[01] Sun 28 Jul 2013  5:46 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[450585]	Anonymous
+Q-0	[01] Tue  6 Aug 2013  2:26 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Tue  6 Aug 2013  2:26 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Tue  6 Aug 2013  2:26 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[453093]	Cong Feng
+Q-0	[01] Fri 16 Aug 2013  5:40 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[464581]	Michael Bain
+Q-0	[01] Wed 31 Jul 2013 10:39 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[486289]	sunku venkata subramanya pruthvi
+Q-0	[01] Wed 21 Aug 2013 10:30 AM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Wed 21 Aug 2013 10:30 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Wed 21 Aug 2013 10:30 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+
+[488262]	Anonymous
+Q-0	[01] Sun 11 Aug 2013 12:45 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[492256]	Lisa Rome
+Q-0	[01] Thu  1 Aug 2013  4:38 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[498780]	Liam Brennan
+Q-0	[01] Tue 30 Jul 2013 10:56 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[507434]	Glenn
+Q-0	[01] Tue 30 Jul 2013 11:33 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[508091]	anne kerr
+Q-0	[01] Wed 31 Jul 2013  6:12 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[514979]	Anonymous
+Q-0	[01] Tue 30 Jul 2013 11:15 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[516090]	Anonymous
+Q-0	[01] Thu  1 Aug 2013  9:35 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[521579]	jason
+Q-0	[01] Sun  1 Sep 2013  5:14 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Sun  1 Sep 2013  5:14 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Sun  1 Sep 2013  5:14 AM UTC (UTC +0000)	0.00	Aggregate bandwidth
+
+[531213]	K S Senerath de Silva
+Q-0	[01] Sun 28 Jul 2013 11:54 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[540053]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  3:35 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Mon 29 Jul 2013  3:35 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[547145]	Roger Stanton
+Q-0	[01] Tue 30 Jul 2013  3:22 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[548016]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  2:23 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[548458]	morsmordre
+Q-0	[01] Sat 31 Aug 2013  2:29 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[565491]	Axel Schwanke
+Q-0	[01] Mon 29 Jul 2013  6:23 AM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Mon 29 Jul 2013  6:23 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[565624]	Tatyana
+Q-0	[01] Fri 23 Aug 2013  7:13 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[569763]	Nivedh Rajesh
+Q-0	[01] Fri 16 Aug 2013  3:19 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[573281]	John Fletcher
+Q-0	[01] Thu  8 Aug 2013  6:55 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[585870]	MiguelFernandez
+Q-0	[01] Sat 31 Aug 2013  1:34 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Sat 31 Aug 2013  1:35 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[03] Sun  1 Sep 2013 10:14 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[599303]	Faraz Rashid
+Q-0	[01] Mon 29 Jul 2013 11:59 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[616661]	K V Guruswami
+Q-0	[01] Mon  2 Sep 2013  6:17 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[617300]	Shahaf
+Q-0	[02] Wed 31 Jul 2013  4:33 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[618580]	Anonymous
+Q-0	[01] Sun 28 Jul 2013  6:53 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[625100]	Alexander King Ejiofor
+Q-0	[01] Mon 16 Sep 2013  9:38 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[653054]	Sharon Zmigrod
+Q-0	[01] Mon  5 Aug 2013  4:16 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[673048]	Lee Won Seok
+Q-0	[01] Tue 27 Aug 2013  3:58 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[678546]	matthew arnott
+Q-0	[01] Tue 30 Jul 2013  7:03 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[684655]	Sabina Anna Rydzek
+Q-0	[01] Tue 30 Jul 2013  3:14 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[692135]	Sebastian Morana
+Q-0	[01] Sat  3 Aug 2013  3:43 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[703119]	Sumant
+Q-0	[01] Mon 29 Jul 2013  7:34 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[708105]	Wendy Bryan
+Q-0	[01] Wed  7 Aug 2013  2:17 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[720986]	Anonymous
+Q-0	[01] Sun 11 Aug 2013  4:30 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[722512]	Leszek Worosz
+Q-0	[01] Sun 28 Jul 2013  5:49 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[724283]	Eli
+Q-0	[01] Tue 13 Aug 2013  8:59 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[735308]	Heng Wong
+Q-0	[01] Sat 31 Aug 2013  1:07 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[759170]	Eileen McDevitt
+Q-0	[01] Sun 28 Jul 2013  6:02 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[768475]	Bill Wolf
+Q-0	[01] Sun 28 Jul 2013  8:17 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[768527]	Jadranka Stojadinovic
+Q-0	[01] Mon  5 Aug 2013 11:46 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[772395]	Harold Glascock
+Q-0	[01] Wed  7 Aug 2013  4:47 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[782418]	Leung Hang Kin (Bosco)
+Q-0	[01] Thu  1 Aug 2013 11:48 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[806218]	shih-chun chang
+Q-0	[01] Tue 30 Jul 2013  1:18 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[809877]	Yau Choi George Lam
+Q-0	[01] Wed 31 Jul 2013  2:13 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[810790]	Victor W. Liu
+Q-0	[01] Tue 27 Aug 2013 12:06 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[815366]	Andre Zaru
+Q-0	[01] Wed 31 Jul 2013 12:39 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[831265]	Andy Leung
+Q-0	[01] Wed 14 Aug 2013  4:34 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[834554]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  6:24 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[839054]	Daniel Goyzueta Saenz
+Q-0	[01] Tue 30 Jul 2013  1:24 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Tue 30 Jul 2013  1:24 AM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[03] Tue 30 Jul 2013  1:24 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[839369]	Kenny Hiep Ngo
+Q-0	[01] Mon 29 Jul 2013  1:03 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[841843]	Lazaros Aggelou
+Q-0	[01] Mon 29 Jul 2013  5:20 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[858163]	Vladimir Sachanski
+Q-0	[01] Fri  2 Aug 2013  2:50 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[881583]	Carlos Zhu
+Q-0	[01] Thu  8 Aug 2013  3:21 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[892325]	Elijah Agbayani
+Q-0	[01] Mon 29 Jul 2013 12:10 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[921909]	Pakdee Makejumroen
+Q-0	[01] Wed 21 Aug 2013  1:53 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[930653]	Ratchapat Rongsawat
+Q-0	[01] Thu 15 Aug 2013  3:51 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[952833]	Supap Stiyosh
+Q-0	[01] Fri 16 Aug 2013  9:35 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Tue 27 Aug 2013  2:08 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[954000]	Rael Cine
+Q-0	[01] Mon 29 Jul 2013  7:59 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[960936]	shishir
+Q-0	[01] Tue 30 Jul 2013  9:42 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[964434]	Chew Sock Lay Nellie
+Q-0	[01] Wed 31 Jul 2013 10:35 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[971662]	Vinayak Kamath
+Q-0	[01] Tue  6 Aug 2013  7:34 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[972509]	Safar Ali Hanif
+Q-0	[01] Sun  4 Aug 2013  5:18 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[990744]	Anonymous
+Q-0	[01] Sun 28 Jul 2013  8:11 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1013961]	Joan Caldwell
+Q-0	[01] Thu  1 Aug 2013  3:20 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1024350]	Peter Seif
+Q-0	[01] Wed  7 Aug 2013 11:46 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1031818]	Peter Terlecky
+Q-0	[01] Sun 28 Jul 2013  7:04 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1058767]	Anonymous
+Q-0	[01] Wed  7 Aug 2013 12:51 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Wed  7 Aug 2013 12:51 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1059412]	Tan Wei Chit
+Q-0	[01] Thu  1 Aug 2013  2:45 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1077228]	may
+Q-0	[01] Thu  1 Aug 2013  7:04 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1079591]	Anonymous
+Q-0	[01] Fri  2 Aug 2013  4:46 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1081453]	Vira Dolgushyna
+Q-0	[01] Wed 28 Aug 2013  8:42 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Wed 28 Aug 2013  8:42 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[03] Wed 28 Aug 2013  8:42 AM UTC (UTC +0000)	0.00	Aggregate bandwidth
+
+[1098565]	Lillian Chou
+Q-0	[01] Thu 15 Aug 2013  8:16 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1110954]	Sam Johnson
+Q-0	[01] Mon 26 Aug 2013 11:23 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Mon 26 Aug 2013 11:23 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Mon 26 Aug 2013 11:23 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1122374]	Anonymous
+Q-0	[01] Fri  9 Aug 2013 12:43 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1142716]	Steve Ferree
+Q-0	[01] Tue 13 Aug 2013  2:28 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1148167]	JOSEPH SERABO
+Q-0	[01] Mon  2 Sep 2013  5:09 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1165925]	Ian Pottinger
+Q-0	[01] Wed 31 Jul 2013  4:01 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1169308]	Anonymous
+Q-0	[01] Fri 23 Aug 2013  8:12 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1169773]	Jianjun Huang
+Q-0	[01] Mon 29 Jul 2013  1:18 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1170233]	Anonymous
+Q-0	[01] Sat 31 Aug 2013  9:47 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1185212]	Anonymous
+Q-0	[01] Sat  3 Aug 2013  1:36 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1202176]	julian murillo ramos
+Q-0	[01] Wed 31 Jul 2013 10:39 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1210912]	Jirka Härkönen
+Q-0	[01] Fri 16 Aug 2013  5:18 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1211079]	Anonymous
+Q-0	[01] Tue 27 Aug 2013  7:24 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1228469]	Bethany Staley
+Q-0	[01] Mon  5 Aug 2013  1:51 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Mon  5 Aug 2013  1:51 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1242357]	Joe Kantoris
+Q-0	[01] Mon 29 Jul 2013 10:10 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1243686]	Anonymous
+Q-0	[01] Mon 26 Aug 2013  1:31 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1248420]	Akira Hirai
+Q-0	[01] Sun  4 Aug 2013 12:02 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1254709]	SCHMITT VINCENT
+Q-0	[01] Tue 20 Aug 2013 11:01 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1273478]	Sary Beidas
+Q-0	[01] Fri  9 Aug 2013  9:40 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1277731]	Anonymous
+Q-0	[01] Tue 30 Jul 2013  3:30 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1288375]	Marc Kimpe
+Q-0	[01] Mon 19 Aug 2013  5:05 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1300744]	Tan Kok Hui
+Q-0	[01] Wed 31 Jul 2013 12:58 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Wed 31 Jul 2013 12:58 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Wed 31 Jul 2013 12:58 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1307481]	Sotires Eleftheriou
+Q-0	[01] Sat 10 Aug 2013  7:00 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1309476]	Robert Fountain
+Q-0	[01] Sun 28 Jul 2013  5:54 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1314441]	Aliaksei Liutsich
+Q-0	[01] Sat  3 Aug 2013  4:41 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1321748]	Michael Saarah
+Q-0	[01] Mon 29 Jul 2013 10:38 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1350344]	Michał Zając
+Q-0	[01] Mon  2 Sep 2013  7:38 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1366638]	Anil Kumar
+Q-0	[01] Sat 31 Aug 2013 10:06 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1368335]	Anonymous
+Q-0	[01] Wed 31 Jul 2013  8:55 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1405383]	Angus Ng Ka-chun
+Q-0	[01] Tue 30 Jul 2013  1:22 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1440001]	Mark Weston-Dawkes
+Q-0	[01] Mon 29 Jul 2013  4:19 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1440887]	Zongchen Teng
+Q-0	[01] Mon 29 Jul 2013 10:24 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1447682]	ALEJANDRO LEON
+Q-0	[01] Tue 30 Jul 2013  8:48 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1460153]	Laura Coto Sáenz
+Q-0	[01] Mon 29 Jul 2013 12:11 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Fri  2 Aug 2013 10:26 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1462112]	Rich Malcolm
+Q-0	[01] Sat  3 Aug 2013  6:06 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1488759]	Doruk Kutlu
+Q-0	[01] Sat 17 Aug 2013  9:25 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1498376]	LI PAK KEE
+Q-0	[01] Tue 30 Jul 2013  3:41 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1502597]	Grace H
+Q-0	[01] Tue  6 Aug 2013  2:09 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1529453]	Bradley Feingerts
+Q-0	[01] Sun 28 Jul 2013  9:04 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1564247]	Dang-Giao Nguyen
+Q-0	[01] Wed 31 Jul 2013 11:19 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Wed 31 Jul 2013 11:19 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[03] Wed 31 Jul 2013 11:19 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+
+[1567507]	Stephen Matthews
+Q-0	[01] Tue 30 Jul 2013  7:53 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1569534]	Maresu Andrei-Razvan
+Q-0	[01] Mon 29 Jul 2013 12:47 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1581585]	rajat aghi
+Q-0	[01] Thu  1 Aug 2013 11:46 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1586454]	Dennis Webb
+Q-0	[01] Fri  9 Aug 2013 10:54 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1589902]	Elizabeth T. Rummler
+Q-0	[01] Tue  6 Aug 2013  9:43 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1597353]	Rafał Maciejewski
+Q-0	[01] Sat 24 Aug 2013  8:51 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1623504]	Tomasz Szymanek
+Q-0	[01] Wed  4 Sep 2013 12:01 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1633880]	Mitchell Tilkin
+Q-0	[01] Wed  7 Aug 2013 10:21 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Wed  7 Aug 2013 10:21 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1634016]	Olugbuyi Oluwayomi
+Q-0	[01] Mon 29 Jul 2013  3:34 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Fri  2 Aug 2013 12:54 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1639691]	Tse Yang, Lim
+Q-0	[01] Sat  3 Aug 2013  9:19 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1675062]	Cindy Ris Zanca
+Q-0	[01] Tue  6 Aug 2013 11:46 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1676633]	carlos alberto de almeida e costa
+Q-0	[01] Fri  2 Aug 2013  9:59 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1678839]	zhaoli lane
+Q-0	[01] Tue 17 Sep 2013  6:42 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1683710]	Cory Blaquiere
+Q-0	[01] Sat  3 Aug 2013  7:33 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1706462]	Ronald A. Méndez
+Q-0	[01] Tue 17 Sep 2013 12:52 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1718816]	Bogdan Ionita
+Q-0	[01] Tue 20 Aug 2013  9:17 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1736619]	Pierre Lecointre
+Q-0	[01] Sat 10 Aug 2013  7:38 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1745656]	Anonymous
+Q-0	[01] Mon  5 Aug 2013  4:19 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1757059]	Vladimir Morozov
+Q-0	[01] Mon 12 Aug 2013 11:50 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1760141]	Roberto Castello
+Q-0	[01] Thu  5 Sep 2013 10:52 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1772146]	Anonymous
+Q-0	[01] Tue 30 Jul 2013 12:56 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Thu  1 Aug 2013  8:44 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1775056]	andrzej
+Q-0	[01] Thu 22 Aug 2013  9:40 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1790773]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  6:00 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1791528]	Peggy Lu
+Q-0	[01] Wed 28 Aug 2013 10:26 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1799544]	Sampieru SIMEONI
+Q-0	[01] Fri  2 Aug 2013  7:49 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1808359]	Bojan Korecic
+Q-0	[01] Wed 31 Jul 2013  1:23 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1817871]	Kirk ramble
+Q-0	[01] Sun  4 Aug 2013  6:51 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1844512]	Matt lyons
+Q-0	[01] Tue  6 Aug 2013  6:47 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1851873]	Nour El Mawass
+Q-0	[01] Mon 29 Jul 2013 12:49 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1861013]	hh Yang
+Q-0	[01] Wed 31 Jul 2013  5:11 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1866951]	Akarsh
+Q-0	[01] Sun 18 Aug 2013  1:54 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1888003]	Robin Ehrlich
+Q-0	[01] Tue 30 Jul 2013  1:26 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1897459]	Anonymous
+Q-0	[01] Wed 31 Jul 2013 10:10 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1908832]	Stephen H. Chan
+Q-0	[01] Fri  2 Aug 2013  1:52 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1910546]	Rich Cullen
+Q-0	[01] Thu  8 Aug 2013  5:48 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1911805]	Maziar Motahari
+Q-0	[01] Thu  8 Aug 2013  6:16 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1926131]	Phillip Radmer
+Q-0	[01] Mon 29 Jul 2013  6:57 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1935357]	Matthew De Bono
+Q-0	[01] Tue 13 Aug 2013 12:45 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1938700]	James Hansen
+Q-0	[01] Mon 29 Jul 2013  2:52 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1943611]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  7:38 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1955031]	Misook Heo
+Q-0	[01] Mon 29 Jul 2013  7:24 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1964305]	Anonymous
+Q-0	[01] Sat 17 Aug 2013  4:25 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1973671]	Anonymous
+Q-0	[01] Sun 28 Jul 2013  8:23 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1980513]	MARIO CESAR BASTOS ANTUNES
+Q-0	[01] Sun 18 Aug 2013  8:14 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1988001]	Ana Beatriz Taube Stamato
+Q-0	[01] Mon 29 Jul 2013  1:59 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Mon 29 Jul 2013  2:00 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[1997242]	Anonymous
+Q-0	[01] Tue 30 Jul 2013 10:23 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2012276]	Addisu Hailu
+Q-0	[01] Mon 26 Aug 2013 12:54 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2012995]	Bob Harriman
+
+[2033578]	Sherrill Hallmond
+Q-0	[01] Wed 31 Jul 2013  9:29 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2046408]	Nidhi
+Q-0	[01] Sat 10 Aug 2013  9:14 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2052106]	Paula Melipillan Figueroa
+Q-0	[01] Sun 18 Aug 2013 11:18 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Sun 18 Aug 2013 11:18 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[03] Sun 18 Aug 2013 11:18 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+
+[2068301]	Anonymous
+Q-0	[01] Sun  4 Aug 2013  4:54 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2068564]	Susan Joy Ellis
+Q-0	[01] Wed 31 Jul 2013 12:43 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2074014]	Vainapel
+Q-0	[01] Fri  2 Aug 2013  8:23 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2119660]	Anatoly Borisov
+Q-0	[01] Sun 28 Jul 2013  6:26 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2119685]	IanMitcham
+Q-0	[01] Tue 30 Jul 2013  3:15 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Tue 30 Jul 2013  3:15 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2128463]	foad mojgani
+Q-0	[01] Tue  6 Aug 2013  5:25 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2130360]	Eddie Park
+Q-0	[01] Tue  6 Aug 2013  4:10 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2135564]	Gail MacLeod
+Q-0	[01] Mon 29 Jul 2013 12:51 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Fri 23 Aug 2013  5:22 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2143435]	Cruz Castillo Alcantara
+Q-0	[01] Thu  8 Aug 2013  9:16 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2151591]	Eileen Aiello
+Q-0	[01] Fri  2 Aug 2013  2:10 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2155631]	Juan Carlos Liuzzi
+Q-0	[01] Mon 29 Jul 2013 12:35 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2158929]	Milena Eneva
+Q-0	[01] Sun 11 Aug 2013  3:41 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2167793]	Yuet Lau
+Q-0	[01] Mon 29 Jul 2013  5:53 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Mon 29 Jul 2013  5:53 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Mon 29 Jul 2013  5:53 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2190421]	Brian Anthony Gumiran
+Q-0	[01] Fri  9 Aug 2013  4:46 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2190518]	Joanna Marguier
+Q-0	[01] Sun 28 Jul 2013  8:07 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2195111]	Zach Perkel
+Q-0	[01] Wed 28 Aug 2013 10:36 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2196054]	Derek G. Rhys
+Q-0	[01] Sun 25 Aug 2013  6:08 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2207151]	ZHANG YONGJIE
+Q-0	[01] Thu  8 Aug 2013  3:17 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2208648]	Anonymous
+Q-0	[01] Tue 30 Jul 2013  8:38 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Tue 30 Jul 2013  8:38 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2220133]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  3:33 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2227146]	Diana Polulyakh
+Q-0	[01] Fri  9 Aug 2013  8:28 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2227822]	Anonymous
+Q-0	[01] Fri  9 Aug 2013 10:08 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2231243]	Doga Akar Bilgin
+Q-0	[01] Mon 29 Jul 2013  7:58 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2233110]	Bruce Craig Gumbert
+Q-0	[01] Tue 30 Jul 2013  7:46 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2236735]	Andrew R Creighton
+Q-0	[01] Tue 30 Jul 2013 12:13 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2239801]	Maria Gabriela Simon
+Q-0	[01] Fri  2 Aug 2013  8:26 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2240310]	Anonymous
+Q-0	[01] Sun 28 Jul 2013  8:58 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2257218]	Ksenia Grozdova
+Q-0	[01] Thu  8 Aug 2013 10:09 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2345762]	Roman Titov
+Q-0	[01] Mon 29 Jul 2013  6:14 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2352559]	Stefan Ilić
+Q-0	[01] Fri 23 Aug 2013  6:14 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2367053]	Terry Steven Barker
+Q-0	[01] Sun 28 Jul 2013 11:08 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2455410]	Ken Cohrn
+Q-0	[01] Mon 29 Jul 2013  5:57 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Mon 29 Jul 2013  5:58 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2459030]	opal chen
+Q-0	[01] Sun 28 Jul 2013  9:57 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Sun 28 Jul 2013  9:57 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[03] Sun 28 Jul 2013  9:57 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+
+[2475826]	Sanh Le
+Q-0	[01] Tue 30 Jul 2013 11:28 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Wed 14 Aug 2013 12:31 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2493129]	Stephani Keane nee Mok
+Q-0	[01] Fri  2 Aug 2013  4:19 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2519699]	James Craft
+Q-0	[01] Mon  2 Sep 2013 11:44 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2520771]	Bo Yu
+Q-0	[01] Sun 11 Aug 2013  2:31 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2533502]	To Russell Hsing
+Q-0	[01] Sun 25 Aug 2013  2:02 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2537432]	domenico matarazzo
+Q-0	[01] Sun 28 Jul 2013  8:53 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2539285]	Anonymous
+Q-0	[01] Sun 28 Jul 2013  6:22 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2545543]	Anikó Pohner
+Q-0	[01] Tue 30 Jul 2013 12:38 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2545599]	Alin-Andrei Marin
+Q-0	[01] Sun  4 Aug 2013  8:23 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2548999]	ROBERT P MACKAY
+Q-0	[01] Tue 30 Jul 2013 11:43 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2552211]	Carlos Hoecker Escuti
+Q-0	[01] Sun 11 Aug 2013  5:41 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2552474]	Ethan Zheng
+Q-0	[01] Mon 29 Jul 2013  3:04 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2565369]	Hassan Mohammad
+Q-0	[01] Sun 18 Aug 2013  6:59 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Sun 18 Aug 2013  6:59 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2576028]	Hassan barjini
+Q-0	[01] Fri 23 Aug 2013 11:01 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2578846]	Daniel Dragic
+Q-0	[01] Tue 13 Aug 2013  7:29 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2588294]	Jaehyun Ahn
+Q-0	[01] Tue 30 Jul 2013 12:48 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2589894]	Anonymous
+Q-0	[01] Thu 22 Aug 2013 11:24 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2595359]	Alexandru Filimon
+Q-0	[01] Sat 24 Aug 2013  5:52 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2597944]	Anonymous
+Q-0	[01] Tue  3 Sep 2013  3:22 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2603463]	Anonymous
+Q-0	[01] Mon  5 Aug 2013  5:21 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2606972]	Mariia Liukshyna
+Q-0	[01] Mon 19 Aug 2013 11:40 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2608318]	Bill MacGillivray
+Q-0	[01] Mon 29 Jul 2013  7:24 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2617212]	Anonymous
+Q-0	[01] Mon  5 Aug 2013  3:25 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2618918]	Barbara A. Brewer
+Q-0	[01] Sat  3 Aug 2013  1:40 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2620921]	Juliet Jordan
+Q-0	[01] Thu  8 Aug 2013  4:51 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2646582]	Nathan Mytelka
+Q-0	[01] Mon 12 Aug 2013  4:12 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2658233]	Luis Loyola
+Q-0	[01] Wed  7 Aug 2013 11:33 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2665371]	Rachel Ruhlen
+Q-0	[01] Wed 31 Jul 2013 12:07 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2670056]	Anonymous
+Q-0	[01] Mon 29 Jul 2013 12:56 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2677019]	Daniel Contreras Corrius
+Q-0	[01] Sat 10 Aug 2013  5:21 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Sat 10 Aug 2013  5:21 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2693675]	Nicolaas Roelofs
+Q-0	[01] Thu  1 Aug 2013 10:35 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Tue  6 Aug 2013  6:46 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2698771]	Gisela Anahi Dari
+Q-0	[01] Wed 31 Jul 2013  1:52 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Wed 31 Jul 2013  1:52 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2702075]	Chung Zhi Li, Denzel
+Q-0	[01] Tue  3 Sep 2013  8:11 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2712820]	Jesus Alberto Delgado Rivera
+Q-0	[01] Wed 31 Jul 2013  1:22 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2721125]	Anonymous
+Q-0	[01] Wed 31 Jul 2013  8:36 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2733011]	swati bhatt
+Q-0	[01] Thu  1 Aug 2013  9:38 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2740771]	Dendal Jean-Louis
+Q-0	[01] Mon 29 Jul 2013 10:38 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2751542]	Miguel Angel Valencia de Las Heras
+Q-0	[01] Mon 29 Jul 2013  5:55 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Mon 29 Jul 2013  5:58 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[03] Sun  4 Aug 2013 12:39 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[04] Fri 30 Aug 2013  5:44 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2755081]	Rene Mercier
+Q-0	[01] Tue 30 Jul 2013  3:46 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Fri 23 Aug 2013  3:09 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2758720]	Anton Andrei-Valentin
+Q-0	[01] Sat  3 Aug 2013  8:05 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2759604]	Karin Nietiedt
+Q-0	[01] Tue 30 Jul 2013  2:30 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2773697]	ricardo nagamine motta
+Q-0	[01] Thu  8 Aug 2013  9:24 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2778066]	Tay Wei-Yi
+Q-0	[01] Sat 10 Aug 2013  8:09 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2779970]	Vaibhav Jayaraman
+Q-0	[01] Tue 30 Jul 2013  6:33 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Tue 30 Jul 2013  6:33 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Tue 30 Jul 2013  6:33 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+
+[2785620]	me self
+Q-0	[01] Sun 15 Sep 2013  7:30 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2793604]	Gregory Kulczycki
+Q-0	[01] Wed 31 Jul 2013  5:26 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Wed 31 Jul 2013  5:26 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2800568]	Lawal muhd Aminu
+Q-0	[01] Sat 10 Aug 2013  7:24 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2829538]	Nancy Mercedes Saenz Sanchez
+Q-0	[01] Thu  1 Aug 2013  2:37 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2836826]	Alexander Imre
+Q-0	[01] Mon 29 Jul 2013  2:52 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2845442]	eben hugo
+Q-0	[01] Tue 27 Aug 2013 11:14 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2859264]	Chou Sui-Fen
+Q-0	[01] Fri  9 Aug 2013  5:21 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2876927]	stewart gutoff
+Q-0	[01] Sat 17 Aug 2013 10:16 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2881571]	Aaron Stoddart-Cordova
+Q-0	[01] Wed 31 Jul 2013  7:56 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2883668]	Alexandra Alekseeva
+Q-0	[01] Tue  6 Aug 2013  8:37 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2890558]	Adriano Kiyoshi Ogata Pinto
+Q-0	[01] Thu  8 Aug 2013 12:17 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2892714]	Andrew Klem
+Q-0	[01] Sun 11 Aug 2013  3:51 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2900404]	John Golas
+Q-0	[01] Sat  3 Aug 2013  2:07 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2907980]	Sean Lamb
+Q-0	[01] Sat  3 Aug 2013 10:25 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Sat  3 Aug 2013 10:25 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2914066]	Mutsuko Hasegawa
+Q-0	[01] Wed 31 Jul 2013  7:40 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Wed 31 Jul 2013  7:40 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[03] Sun  4 Aug 2013  5:46 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[04] Sun  4 Aug 2013  5:46 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[05] Sun 25 Aug 2013  9:58 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2916133]	Collin Stedman
+Q-0	[01] Thu 22 Aug 2013  7:36 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2916889]	Bing Sun
+Q-0	[01] Mon 29 Jul 2013 11:52 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2935374]	Delwaulle Alissa
+Q-0	[01] Sun 18 Aug 2013  6:31 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2939922]	Adam Teman
+Q-0	[01] Tue  3 Sep 2013 12:00 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2943641]	Danny Flynn
+Q-0	[01] Sat 14 Sep 2013  7:57 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2965357]	Shuang Xu
+Q-0	[01] Sun  4 Aug 2013  7:50 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2969358]	Laurentiu Mamaliga
+Q-0	[01] Mon 29 Jul 2013 12:33 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2970053]	Julija Otto
+Q-0	[01] Sun  4 Aug 2013 10:30 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2972038]	Hakan Gursoy
+Q-0	[01] Tue 30 Jul 2013  3:43 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2986924]	Larry Dolce
+Q-0	[01] Tue 30 Jul 2013  3:15 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[2987567]	Ruchi Sethi
+Q-0	[01] Sat 17 Aug 2013  6:34 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Fri 30 Aug 2013  6:01 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3010833]	Arun Kumar
+Q-0	[01] Sat  3 Aug 2013 12:50 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3023248]	julio cano
+Q-0	[01] Sat  3 Aug 2013 12:01 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3031772]	Jason Yuan
+Q-0	[01] Fri 23 Aug 2013  4:36 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3036064]	Reinhard Langner
+Q-0	[01] Wed 31 Jul 2013  8:30 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3044294]	William Lide
+Q-0	[01] Tue 30 Jul 2013  6:14 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3045526]	Mark Nieuwmans
+Q-0	[01] Wed 31 Jul 2013  5:07 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3082893]	Anonymous
+Q-0	[01] Tue  6 Aug 2013  6:02 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3086647]	Matteo Marcon
+Q-0	[01] Mon 29 Jul 2013  7:55 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3088637]	Anonymous
+Q-0	[01] Tue 30 Jul 2013  8:07 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3108208]	Anonymous
+Q-0	[01] Wed 31 Jul 2013  2:30 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3118119]	Philip Tsang
+Q-0	[01] Tue 30 Jul 2013  7:54 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3121674]	Peter Treadaway
+Q-0	[01] Tue  3 Sep 2013 11:53 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3124128]	Anonymous
+Q-0	[01] Tue 30 Jul 2013  1:03 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Tue 30 Jul 2013  1:03 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Tue 30 Jul 2013  1:03 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3127231]	ZhangJun
+Q-0	[01] Wed 31 Jul 2013 12:12 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3135269]	sitabkhan
+Q-0	[01] Sat  3 Aug 2013  3:13 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3148420]	Agócs Bence
+Q-0	[01] Fri 23 Aug 2013  2:11 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3160704]	Dreepjet Singh
+Q-0	[01] Mon 29 Jul 2013  6:40 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Mon 29 Jul 2013  6:40 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[03] Mon 29 Jul 2013  6:40 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+
+[3162569]	Praveen Sharma
+Q-0	[01] Sun 25 Aug 2013  1:19 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3166739]	Soonhyung hwang
+Q-0	[01] Tue 30 Jul 2013  4:16 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Tue 30 Jul 2013  4:16 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3173485]	Cao Jin
+Q-0	[01] Thu 22 Aug 2013  8:17 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3177970]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  7:58 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3191788]	Mike Bainter
+Q-0	[01] Tue 27 Aug 2013  4:24 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Tue 27 Aug 2013  4:24 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[03] Tue 27 Aug 2013  4:24 AM UTC (UTC +0000)	0.00	Aggregate bandwidth
+
+[3206088]	Don Silverman
+Q-0	[01] Sun 28 Jul 2013  5:30 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3214687]	Helen Sadler
+Q-0	[01] Mon 29 Jul 2013  8:40 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Tue 27 Aug 2013 10:01 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Tue 27 Aug 2013 10:01 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3223096]	Robert
+Q-0	[01] Tue 30 Jul 2013  3:42 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3235168]	B. ISHAK
+Q-0	[01] Mon 29 Jul 2013 10:10 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3236669]	Lance Nelson
+Q-0	[01] Tue  6 Aug 2013  3:24 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3259879]	Yan Cheng
+Q-0	[01] Sun  4 Aug 2013 12:22 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3273217]	Kevin Banks
+Q-0	[01] Thu  1 Aug 2013  1:51 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3280770]	Theresa S Aleguas
+Q-0	[01] Thu  8 Aug 2013  2:28 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Thu  8 Aug 2013  2:28 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Thu  8 Aug 2013  2:28 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+
+[3282235]	Jason E Lopez
+Q-0	[01] Thu 15 Aug 2013  6:17 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3297465]	Rachel Edwards
+Q-0	[01] Mon 26 Aug 2013  1:22 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3304508]	Madhu Maheswar B
+Q-0	[01] Sat 31 Aug 2013  7:17 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Sat 31 Aug 2013  7:17 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3306966]	Vladimir Vilensky
+Q-0	[01] Fri 30 Aug 2013  5:46 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3311289]	Chang Chi Chang
+Q-0	[01] Tue 13 Aug 2013 11:32 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3312098]	Adalberto Filho
+Q-0	[01] Sat 24 Aug 2013  6:02 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3320541]	Junaide Deva Paul
+Q-0	[01] Fri 30 Aug 2013  6:26 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3322145]	Earl Powell
+Q-0	[01] Sun 28 Jul 2013 10:15 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3322518]	Peter Politis
+Q-0	[01] Wed 31 Jul 2013  2:25 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3342681]	Pete Vreeland
+Q-0	[01] Fri  9 Aug 2013  2:22 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3351530]	Nancy Billmann
+Q-0	[01] Sun 28 Jul 2013  6:34 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3359982]	Rocky Riviera
+Q-0	[01] Tue 30 Jul 2013  5:30 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3364739]	Luisa Camargo
+Q-0	[01] Thu  1 Aug 2013 10:19 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Thu  8 Aug 2013  9:30 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[03] Thu  8 Aug 2013  9:30 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[04] Fri 30 Aug 2013  7:19 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3370720]	Harold Hauser
+Q-0	[01] Thu  1 Aug 2013  8:49 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3371089]	Cheung Fung Yeung
+Q-0	[01] Mon 29 Jul 2013  1:00 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3377447]	Bev Wilson
+Q-0	[01] Sun 11 Aug 2013 10:38 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3383688]	Dimitris Natsiopoulos
+Q-0	[01] Mon 19 Aug 2013  9:39 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Mon 19 Aug 2013  9:49 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3385619]	Kate Jonasse
+Q-0	[01] Sat  3 Aug 2013  5:39 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3398853]	Anonymous
+Q-0	[01] Tue 30 Jul 2013  5:18 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Tue 30 Jul 2013  5:18 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3435349]	Anonymous
+Q-0	[01] Thu  1 Aug 2013  3:17 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3439924]	Michael Hartman
+Q-0	[01] Mon 29 Jul 2013 11:06 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3465930]	Gunjan Gupta
+Q-0	[01] Wed 31 Jul 2013 12:11 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3495461]	Dee Senuta
+Q-0	[01] Thu  1 Aug 2013 12:01 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3496208]	Aniket Samant
+Q-0	[01] Tue  6 Aug 2013  5:39 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Tue  6 Aug 2013  5:39 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Tue  6 Aug 2013  5:39 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3499935]	Bruce Johnston
+Q-0	[01] Fri  2 Aug 2013  1:22 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3508209]	Lucas Cabral Maciel
+Q-0	[01] Fri  2 Aug 2013  5:52 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3518062]	Stasinopoulos Evangelos
+Q-0	[01] Wed 31 Jul 2013  7:28 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3522487]	Richard F. DiFonzo
+Q-0	[01] Wed 31 Jul 2013 11:57 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Sun 11 Aug 2013  2:35 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3524714]	Max Li
+Q-0	[01] Tue 13 Aug 2013  1:36 AM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Tue 13 Aug 2013  1:36 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3525110]	Likitha
+Q-0	[01] Thu 29 Aug 2013  8:36 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3526654]	Tony Chu
+Q-0	[01] Fri 16 Aug 2013  5:18 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3530817]	Dan Colacel
+Q-0	[01] Mon 29 Jul 2013  4:51 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3532514]	Michael Philipson
+Q-0	[01] Mon 29 Jul 2013 10:25 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Fri  2 Aug 2013  7:49 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3537665]	Sylvia Diep
+Q-0	[01] Tue  6 Aug 2013 11:39 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Tue  6 Aug 2013 11:39 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3566222]	Alex Jones
+Q-0	[01] Thu  1 Aug 2013  8:10 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3566257]	Joseph Jagde
+Q-0	[01] Thu 19 Sep 2013 10:10 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3574434]	Anonymous
+Q-0	[01] Thu  1 Aug 2013  3:26 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Thu  1 Aug 2013  3:27 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3576707]	George Bassem Eskandar
+Q-0	[01] Fri  2 Aug 2013  3:49 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3578513]	Ludwig Widerka
+Q-0	[01] Mon 29 Jul 2013  4:12 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3591027]	JIM, Kwok Ming (Jimmy)
+Q-0	[01] Mon 29 Jul 2013  9:52 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3592810]	ioannis siokos
+Q-0	[01] Sun 18 Aug 2013  9:40 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3593345]	George
+Q-0	[01] Fri  9 Aug 2013  9:59 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3593779]	Anonymous
+Q-0	[01] Wed 31 Jul 2013  9:16 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3595064]	Anonymous
+Q-0	[01] Wed  7 Aug 2013 12:13 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Wed  7 Aug 2013 12:14 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3612128]	Francisco Cadena
+Q-0	[01] Sat 14 Sep 2013  9:12 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3615575]	Anonymous
+Q-0	[01] Mon  5 Aug 2013 10:03 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3632099]	Cindy Wrede
+Q-0	[01] Thu  1 Aug 2013  9:08 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3632621]	Nicole Wagenblast
+Q-0	[01] Wed  7 Aug 2013 12:28 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3637101]	Ava Tartaglia
+Q-0	[01] Fri 16 Aug 2013  4:04 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3641068]	Ivana Todorovic
+Q-0	[01] Mon  2 Sep 2013  3:27 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3643253]	Robert Bustichi
+Q-0	[01] Sat  3 Aug 2013  4:51 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3649929]	susan miskowitch
+Q-0	[01] Wed  7 Aug 2013 11:05 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3651366]	Stuart Skinner Jr
+Q-0	[01] Fri 16 Aug 2013  4:13 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3653814]	Anonymous
+Q-0	[01] Tue 20 Aug 2013  9:45 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3655778]	Anonymous
+Q-0	[01] Tue 30 Jul 2013  4:15 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3656865]	Alexander Masyagin
+Q-0	[01] Fri  2 Aug 2013  9:16 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3656898]	Patrick O'Connell
+Q-0	[01] Tue  3 Sep 2013 10:39 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3666252]	Harold Patterson
+Q-0	[01] Wed  7 Aug 2013  7:13 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3681427]	Maria Thomas
+Q-0	[01] Fri  2 Aug 2013  1:37 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3693600]	steve kaleta
+Q-0	[01] Tue 27 Aug 2013  5:05 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Tue 27 Aug 2013  5:05 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3697485]	Anonymous
+Q-0	[01] Sun 28 Jul 2013 10:46 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3698556]	Lynn Kobayashi
+Q-0	[01] Wed 28 Aug 2013  5:09 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3708868]	nissim katry
+Q-0	[01] Mon  5 Aug 2013  2:37 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Mon  5 Aug 2013  2:37 AM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[03] Mon  5 Aug 2013  2:37 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3712405]	Yixin He
+Q-0	[01] Mon 29 Jul 2013  4:05 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Mon 29 Jul 2013  4:07 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3715513]	Lora Andronova
+Q-0	[01] Mon 29 Jul 2013 10:34 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Mon 29 Jul 2013 10:35 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3718396]	Laura Fung
+Q-0	[01] Thu  1 Aug 2013  6:20 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3718548]	Emily Morrison
+Q-0	[01] Sun  1 Sep 2013 11:15 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3726269]	Keith Hart
+Q-0	[01] Tue 20 Aug 2013  5:26 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3733775]	Ingrid Winstone
+Q-0	[01] Thu  5 Sep 2013  7:48 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Thu  5 Sep 2013  7:49 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3736081]	Bethany A Caruso
+Q-0	[01] Mon 29 Jul 2013  3:52 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Mon 29 Jul 2013  3:52 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[03] Mon 29 Jul 2013  3:52 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+
+[3740601]	Shweta Naik
+Q-0	[01] Sun 18 Aug 2013 10:46 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Mon 26 Aug 2013 12:58 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3747641]	Anthony Glueck
+Q-0	[01] Mon  5 Aug 2013 10:32 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3756090]	Elizabeth OCON
+Q-0	[01] Fri  9 Aug 2013  3:46 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3762070]	Kevin Joseph Kelly
+Q-0	[01] Mon 12 Aug 2013  2:22 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Mon 12 Aug 2013  2:22 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[03] Mon 12 Aug 2013  2:22 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+
+[3797242]	Patrick Oman
+Q-0	[01] Wed 21 Aug 2013  3:51 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3800093]	Kelly Clark
+Q-0	[01] Tue  6 Aug 2013  4:27 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3800669]	Noah Burhance
+Q-0	[01] Sat  3 Aug 2013  8:29 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3809222]	Anonymous
+Q-0	[01] Thu 29 Aug 2013  1:57 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3811927]	Ananya Rajesh
+Q-0	[01] Tue 30 Jul 2013  4:21 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3814913]	Tracy Allis
+Q-0	[01] Wed 31 Jul 2013  7:05 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3817769]	Rafael Santisteban
+Q-0	[01] Thu  1 Aug 2013 10:34 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3825005]	Rahul Rajagopal
+Q-0	[01] Wed 31 Jul 2013 12:37 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Wed 31 Jul 2013 12:38 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3845211]	Martin Kamar
+Q-0	[01] Wed 28 Aug 2013 12:29 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3845464]	Farid Bakir
+Q-0	[01] Wed 31 Jul 2013  3:41 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Wed 31 Jul 2013  3:41 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3845688]	Annemarie Widmer
+Q-0	[01] Mon 29 Jul 2013  6:03 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3846897]	Viktor Dimitrov
+Q-0	[01] Wed 21 Aug 2013  6:22 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3855530]	Jeff H Federer
+Q-0	[01] Wed 31 Jul 2013  6:07 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3855705]	Eric
+Q-0	[01] Mon 29 Jul 2013  3:35 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3856486]	Yacov m
+Q-0	[01] Sat  3 Aug 2013 12:33 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3858378]	Rafa Rueda
+Q-0	[01] Wed 31 Jul 2013  5:41 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3861837]	Aadil Ahamed
+Q-0	[01] Mon 26 Aug 2013  6:37 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3863805]	Ron Gerard
+Q-0	[01] Mon  5 Aug 2013  3:33 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3864611]	Austin Samuel Carr
+Q-0	[01] Mon  5 Aug 2013  7:15 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3864914]	Craig Watkins
+Q-0	[01] Tue  3 Sep 2013  1:52 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3865543]	Thierry EBENER
+Q-0	[01] Sun 11 Aug 2013  8:45 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3869521]	Jeffrey Santi
+Q-0	[01] Thu  1 Aug 2013  3:53 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3870895]	Adam Barrett
+Q-0	[01] Thu  8 Aug 2013  3:38 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Thu  8 Aug 2013  3:38 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[03] Thu  8 Aug 2013  3:38 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3870957]	Aaron Huang
+Q-0	[01] Sun 11 Aug 2013  5:34 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3879133]	Sarina Pradhananga
+Q-0	[01] Wed 31 Jul 2013  3:05 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Mon 12 Aug 2013  5:39 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Mon 12 Aug 2013  5:42 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3882076]	padma jagannathan
+Q-0	[01] Tue  6 Aug 2013  9:13 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3883367]	Dennis Kunimura
+Q-0	[01] Tue 30 Jul 2013  9:21 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3884547]	Shelly Alexander
+Q-0	[01] Sun 18 Aug 2013 12:23 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3885049]	Dustin Farley
+Q-0	[01] Sun 28 Jul 2013  7:37 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3896898]	Stefan Becker
+Q-0	[01] Thu  1 Aug 2013  7:15 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3899470]	Jessica O'Connell-Lynch
+Q-0	[01] Sun 28 Jul 2013  7:49 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3901736]	John Gathings
+Q-0	[01] Wed 31 Jul 2013  4:07 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3905187]	Jaime Santiago
+Q-0	[01] Tue 30 Jul 2013 10:26 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3905697]	William Fisher
+Q-0	[01] Fri 23 Aug 2013  1:40 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3906535]	Ryan Wong
+Q-0	[01] Tue  6 Aug 2013  3:32 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Tue  6 Aug 2013  3:33 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3908300]	Patricia Wang
+Q-0	[01] Tue 30 Jul 2013  5:19 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3912656]	Monika Maria Cabaj
+Q-0	[01] Thu  5 Sep 2013  1:07 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3913715]	Ganqin Huang
+Q-0	[01] Tue 13 Aug 2013  7:00 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3913768]	Galina
+Q-0	[01] Tue 30 Jul 2013  5:06 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Tue 30 Jul 2013  5:06 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3916170]	Curtis Luis Leister
+Q-0	[01] Mon  5 Aug 2013  3:38 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3918571]	Anonymous
+Q-0	[01] Thu  1 Aug 2013 10:30 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Thu  1 Aug 2013 10:30 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3928349]	Eduardo
+Q-0	[01] Fri  2 Aug 2013  6:29 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3932301]	LINGZI JIN
+Q-0	[01] Thu 22 Aug 2013  4:57 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3935138]	Carl
+Q-0	[01] Mon 29 Jul 2013  6:57 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Mon 29 Jul 2013  6:57 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[03] Mon 29 Jul 2013  6:57 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[04] Mon 29 Jul 2013  7:04 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[05] Mon 29 Jul 2013  7:04 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[06] Mon 29 Jul 2013  7:04 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3935247]	Chris Confalone
+Q-0	[01] Mon 29 Jul 2013 11:21 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3936323]	Anne Moeller
+Q-0	[01] Mon 29 Jul 2013  2:05 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3936681]	Ike Ma
+Q-0	[01] Wed 31 Jul 2013  4:43 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3939812]	Darlene M Brownlee
+Q-0	[01] Sun  4 Aug 2013  8:03 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[02] Sun  4 Aug 2013  8:03 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[03] Sun  4 Aug 2013  8:03 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3943663]	anshu mittal
+Q-0	[01] Sat 24 Aug 2013 10:51 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3952015]	kodali naveen
+Q-0	[01] Wed 21 Aug 2013  8:28 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3953862]	Adeline
+Q-0	[01] Sun 28 Jul 2013  6:07 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3954114]	Anonymous
+Q-0	[01] Mon  5 Aug 2013 10:34 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3954139]	Fabian Rodriguez
+Q-0	[01] Mon 29 Jul 2013  6:07 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3957025]	Christina Kwok
+Q-0	[01] Tue 30 Jul 2013  8:53 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3958399]	Joshua Loh
+Q-0	[01] Tue 27 Aug 2013  5:13 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Tue 27 Aug 2013  5:13 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3958416]	Rajiv Nambiar
+Q-0	[01] Mon 19 Aug 2013  8:24 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3958725]	Anonymous
+Q-0	[01] Sun 18 Aug 2013 10:07 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3960336]	Lawrence Viljoen
+Q-0	[01] Thu  1 Aug 2013  7:08 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3960837]	Maria Weißenborn
+Q-0	[01] Sun  1 Sep 2013  5:55 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3962649]	Anonymous
+Q-0	[01] Mon 29 Jul 2013 12:35 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3966773]	Peter Ip
+Q-0	[01] Sat  3 Aug 2013  6:58 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3970785]	Anonymous
+Q-0	[01] Sun 28 Jul 2013  7:22 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3972340]	Olfert Rahbek
+Q-0	[01] Wed 31 Jul 2013  3:45 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[02] Wed 31 Jul 2013  5:51 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3972984]	Andrew CHAN
+Q-0	[01] Thu  1 Aug 2013  1:32 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3973619]	Elizabeth McGinty
+Q-0	[01] Sun 28 Jul 2013  7:17 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3975182]	iuri soares
+Q-0	[01] Mon 29 Jul 2013  8:09 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3976801]	Lainie Cohen
+Q-0	[01] Sun 18 Aug 2013  7:53 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3976907]	Anonymous
+Q-0	[01] Fri  2 Aug 2013 12:29 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3977242]	Yury Aglyamov
+Q-0	[01] Sun 11 Aug 2013  6:39 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3977522]	Elidier Moya
+Q-0	[01] Mon 12 Aug 2013  3:13 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3978826]	Xinyu Liu
+Q-0	[01] Wed 28 Aug 2013 11:22 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3982431]	Sebastián Rodas
+Q-0	[01] Wed  7 Aug 2013 12:22 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3986185]	Anonymous
+Q-0	[01] Thu  1 Aug 2013 12:48 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3992284]	anne maloney
+Q-0	[01] Sun 28 Jul 2013  6:43 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[3993801]	John Mastrogiovanni
+Q-0	[01] Thu  1 Aug 2013 12:44 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4001272]	Sjoerd van Geloven
+Q-0	[01] Mon 29 Jul 2013  8:20 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4005214]	Donald Feltham
+Q-0	[01] Tue 17 Sep 2013  9:28 PM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Tue 17 Sep 2013  9:29 PM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Tue 17 Sep 2013  9:29 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+
+[4009902]	Anonymous
+Q-0	[01] Mon 29 Jul 2013  2:17 AM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Mon 29 Jul 2013  2:17 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+Q-0	[03] Mon 29 Jul 2013  2:17 AM UTC (UTC +0000)	0.00	Upstream bandwidth
+
+[4011174]	Shyuechinglu
+Q-0	[01] Fri  2 Aug 2013  5:14 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4014273]	Kenneth Papai
+Q-0	[01] Mon  5 Aug 2013  5:50 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4014565]	Anonymous
+Q-0	[01] Thu 29 Aug 2013  5:44 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4020361]	Kaitlin Ardiff
+Q-0	[01] Tue 13 Aug 2013  2:05 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4021892]	Maria Margarida Gouveia Ribeiro
+Q-0	[01] Wed 31 Jul 2013  4:23 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4031231]	Fabio Carletti
+Q-0	[01] Wed  7 Aug 2013 11:09 AM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Wed  7 Aug 2013 11:09 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4033171]	bob bones
+Q-0	[01] Sat  3 Aug 2013  9:22 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4040712]	yamini chandrasekar
+Q-0	[01] Wed 31 Jul 2013 10:25 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4043800]	Lim Chin Wee
+Q-0	[01] Sun  4 Aug 2013  3:18 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4053394]	Xiyang Zhang
+Q-0	[01] Wed 31 Jul 2013 12:06 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4059791]	Salman Ahmed Qureshi
+Q-0	[01] Wed 31 Jul 2013  2:06 PM UTC (UTC +0000)	0.00	Upstream bandwidth
+Q-0	[02] Wed 31 Jul 2013  2:06 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4065098]	Tracie Middleton
+Q-0	[01] Wed 28 Aug 2013  3:25 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4066715]	Roxana Flori SEITAN
+Q-0	[01] Wed 21 Aug 2013 12:20 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4067253]	AKSHAY K A
+Q-0	[01] Wed 21 Aug 2013  6:20 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4111103]	Akiko Ono 
+Q-0	[01] Thu  1 Aug 2013  5:55 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4113978]	Rakesh Tripathi
+Q-0	[01] Mon 29 Jul 2013 11:48 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4144150]	Joe Means
+Q-0	[01] Mon  5 Aug 2013  7:41 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4154603]	Raïsa Carmen
+Q-0	[01] Mon 29 Jul 2013  6:37 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4169910]	Anonymous
+Q-0	[01] Thu  5 Sep 2013  6:44 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4226321]	Elias Stapput Knudsen
+Q-0	[01] Wed  7 Aug 2013 10:44 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4239268]	luu
+Q-0	[01] Sat 10 Aug 2013  1:52 AM UTC (UTC +0000)	0.00	Streaming bandwidth
+
+[4253413]	Anonymous
+Q-0	[01] Fri  9 Aug 2013 12:17 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4267269]	Fernando Aguirre
+Q-0	[01] Thu 15 Aug 2013  5:20 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4270421]	Anonymous
+Q-0	[01] Tue  6 Aug 2013  1:27 AM UTC (UTC +0000)	0.00	Aggregate bandwidth
+Q-0	[02] Tue  6 Aug 2013  1:28 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+Q-0	[03] Fri 23 Aug 2013  4:14 PM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4283709]	David Mark Ballantine
+Q-0	[01] Sat 17 Aug 2013  7:29 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4289402]	Davinder Jawanda
+Q-0	[01] Tue  6 Aug 2013  3:48 AM UTC (UTC +0000)	1.00	Downstream bandwidth
+
+[4455552]	Dennis Li
+Q-0	[01] Tue 27 Aug 2013  9:32 PM UTC (UTC +0000)	1.00	Downstream bandwidth
