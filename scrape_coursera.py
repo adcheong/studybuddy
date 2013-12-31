@@ -33,6 +33,11 @@ def get_threads():
     all_output = open('data.yml', "w")
     java_port = open('java_conv.txt', "w")
 
+    # return variables
+    all_text_count = 0
+    all_threads = []
+    forums = []
+
     print "Scanning ", total_threads, " threads."
 
 
@@ -55,6 +60,8 @@ def get_threads():
                         'num_posts': int(j_d[u'num_posts']),
                         'posts': {},
                     }
+                all_text_count += 1
+
                 all_posts = j_d['posts']
                 all_comments = j_d['comments']
 
@@ -73,7 +80,7 @@ def get_threads():
                     java_port.write(str(post['upvotes']) + "\n")
                     java_port.write(post['text'] + "\n")
                     java_port.write("****\n")
-
+                all_text_count += len(all_posts)
 
                 # collecting all comments and placing under the proper post
                 for comment_d in all_comments:
@@ -92,34 +99,92 @@ def get_threads():
                     java_port.write("****\n")
                     
                     post['comments'].append(comment)
+                all_text_count += len(all_comments)
 
                 all_output.write(yaml.dump(forum, default_flow_style=False))
                 all_output.write('\n')
 
+                forums.append(forum)
 
-                # uids.add(j_d[u'user_id'])
-                # posts_and_comments = j_d['posts'] + j_d['comments']
-                # for entity in posts_and_comments:
-                #     try:
-                #         uids.add(entity[u'user_id'])
-                #     except KeyError:
-                #         pass
         except urllib2.HTTPError, error:
             if error.read() == "Unexpected API error":
                 there_are_more_threads = False
 
-    # now we have all the uids let's get the user data
-    # users = {}
-    # number_of_users = len(uids)
-    # count = 1
+    # extracting the necessary content for the return values
+    index = 0
+    all_threads = []
+    for forum in forums:
+        all_threads.append([forum['user_id'], forum['upvotes'], forum['title']])
+        for post_id in forum['posts']:
+            post = forum['posts'][post_id]
+            all_threads.append([post['user_id'], post['upvotes'], post['text']])
+            for comment in post['comments']:
+                all_threads.append([comment['user_id'], comment['upvotes'], comment['text']])
+    return all_threads
 
-    # print "Crawling %d user profiles." % (number_of_users,)
-    # for uid in uids:
-    #     data = get_page(user_template % (uid,), True).read()
-    #     data = data[len("some") + 2 : len(data) - 2].strip()
-    #     if data:
-    #         user = json.loads(data)
-    #         users[uid] = str(user[u'display_name'])
-    #     count += 1
-    # print users
-get_threads()
+def get_uids():
+    uidCSV = open('userIDs.csv', 'r')
+    index = 0
+    uidsToIndex = {}
+
+    for line in uidCSV:
+        uids = line.split(',')
+        if uids[0] is not '':
+            uidsToIndex[int(uids[0])] = index
+            index = index + 1
+    return uidsToIndex
+
+def setupForumMatrix(posts, uidsToRow):
+    concepts = [ "DANGLING NODES & DSICONNECTED GRAPH", "USER-MOVIE INTERACTIONS",
+                 "SHARING IS HARD & CONSENSUS IS HARD","CROWDS",
+                 "NETWORK","LAYERS ON LAYERS",
+                 "MOBILE PENETRATION", "MULTIPLE ACCESS", "0G", "FDMA", "1G", "ATTENUATION",
+                 "2G", "TDMA", "CDMA", "COCKTAIL PARTY ANALOGY", "NEAR-FAR PROBLEM", "SIR", "DPC", 
+                 "DPC COMPUTATION", "NEGATIVE FEEDBACK", "CONVERGENCE", "DISTRIBUTED COMPUTATION", "HANDOFFS",
+                 "CDMA & 3G", "UNLICENSED SPECTRUM", "TRAFFIC ANALOGY", "WIFI STANDARDS", "WIFI DEPLOYMENT", 
+                 "ACCESSING WIFI", "INTERFERENCE", "CONTROLLED VS RANDOM ACCESS", "RANDOM ACCESS PROTOCOLS & ALOHA",
+                 "ALOHA THROUGHPUT", "ALOHA INSCALABILITY", "ALOHA SUCCESSFUL TRANSMISSION", "CSMA BACKOFF", "CSMA VS ALOHA",
+                 "SEARCH ENGINES", "WEBGRAPHS", "IN-DEGREE", "THE RANDOM SURFER", "IMPORTANCE EQUATIONS", "NEW WORD IN THE DICTIONARY",
+                 "PAGERANK EXAMPLE CALCULATION", "ROBUST RANKING", "OUR MOBILE DATA PLANS", "DEMAND FOR DATA", "JOBS' INEQUALITY OF CAPACITY",
+                 "USAGE-BASED PLANS", "COMPARING PRICING SCHEMES", "UTILITY", "DEMAND", "DEMAND CURVE & NET UTILITY", "THE TRAGEDY OF COMMONS",
+                 "FLAT RATE CREATES WASTE & FAVORS HEAVY USERS", "CSMA CARRIER SENSING", "NETFLIX TIMELINE", "VIDEO STREAMING", "NETFLIX RECOMMENDATION SYSTEM",
+                 "NETFLIX PRIZE: LOGISTICS", "RAW AVERAGE", "BASELINE PREDICTOR", "COSINE SIMILARITY", "SIMILARITY VALUES", "LEVERAGING SIMILARITY", 
+                 "NETFLIX PRIZE: THE COMPETITION", "NEIGHBORHOOD PREDICTOR", "SHARING", "ARPANET", "NSFNET", "CIRCUIT SWITCHING", "PACKET SWITCHING",
+                 "DISTRIBUTED HIERARCHY", "ROUTING TRAFFIC", "IP ADDRESS", "PREFIX & HOST IDENTIFIER", "DHCP & NAT", "ROUTING PROTOCOLS", "FORWARDING",
+                 "SHORTEST PATH", "BELLMAN-FORD", "COST UPDATES", "RIP AND MESSAGE PASSING", "DIVIDE AND CONQUER", "LAYERED PROTOCOL STACK", "TRANSPORT & NETWORK LAYERS",
+                 "HEADERS", "PROCESSING LAYERS", "CONTROLLING CONGESTION", "TRAFFIC JAM & BUCKET ANALOGY", "END HOSTS", "CAUTIOUS GROWTH OF WINDOW SIZE",
+                 "SLIDING WINDOW", "INFERRING CONGESTION", "CONGESTION CONTROL VERSIONS", "LOSS-BASED CONGESTION INFERENCE", "DELAY-BASED CONGESTION INFERENCE",
+                 "DISTRIBUTED CONGESTION CONTROL"]
+    index = 0
+    UID = 0
+    VOTES = 1
+    TEXT = 2
+
+    num_concepts = len(concepts)
+    scores = [[1] * num_concepts for i in range(len(uidsToRow))]
+    conceptToCol = {}
+
+    for concept in concepts: 
+        conceptToCol[concept] = index
+        index = index + 1
+
+    for post in posts:
+        for concept in concepts:
+            if concept in post[TEXT].upper() and post[UID] is not 0:
+                if "?" in post[TEXT]:
+                    scores[uidsToRow[post[UID]]] [conceptToCol[concept]] = 0
+                elif post[VOTES] > 0:
+                    scores[uidsToRow[post[UID]]] [conceptToCol[concept]] = 2
+    return scores
+
+def printMatrix(matrix):
+    output = open("forum_matrix.csv", "w")
+    for row in matrix:
+        for elem in row:
+            output.write(str(elem)+",")
+        output.write('\n')
+    output.close()
+
+# get_threads()
+get_uids()
+printMatrix(setupForumMatrix(get_threads() ,get_uids()))
