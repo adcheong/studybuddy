@@ -33,17 +33,6 @@ public class ScrapePerformance {
  
 		}
  
-
-		// //loop map
-		// for (Map.Entry<String, Integer> entry : userIDToRow.entrySet()) {
- 
-		// 	System.out.println("UserIDs= " + entry.getKey() + " , rowIndex="
-		// 		+ entry.getValue());
- 
-		// }
-
-		// System.out.println(rowIndex);
- 
 	} catch (FileNotFoundException e) {
 		e.printStackTrace();
 	} catch (IOException e) {
@@ -59,63 +48,11 @@ public class ScrapePerformance {
 	}
   }
 
-  public void runConcept(String filename) {
- 
-	BufferedReader br = null;
-	String line = "";
-	String idSplitBy = "\t";
-	int colIndex = 0;
- 
-	try {
- 
-		conceptToCol = new HashMap<String, Integer>();
- 
-		br = new BufferedReader(new FileReader(filename));
-		while ((colIndex <= 74) && (line = br.readLine()) != null) {
- 
-			// use comma as separator
-			String[] concept = line.split(idSplitBy);
- 
-			conceptToCol.put(concept[1], colIndex++);
- 
-		}
- 
-
-		// //loop map
-		// for (Map.Entry<String, Integer> entry : conceptToCol.entrySet()) {
- 
-		// 	System.out.println("Concept= " + entry.getKey() + " , colIndex="
-		// 		+ entry.getValue());
- 
-		// }
-
-		// System.out.println(colIndex);
- 
-	} catch (FileNotFoundException e) {
-		e.printStackTrace();
-	} catch (IOException e) {
-		e.printStackTrace();
-	} finally {
-		if (br != null) {
-			try {
-				br.close();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-		}
-	}
-}
-
-	private int getRow(String userID)
-	{
-		int row = userIDToRow.get(userID);
-		return row;
-	}
-
-	// private int getCol(String concept)
-	// {
-	// 	conceptToCol.get(concept);
-	// }
+  private int getRow(String userID)
+  {
+  	int row = userIDToRow.get(userID);
+	return row;
+  }
 
 	public void readPerformance(String filename)
 	{
@@ -160,15 +97,6 @@ public class ScrapePerformance {
 		}
  
 		col++;
-		// //loop map
-		// for (Map.Entry<String, Integer> entry : conceptToCol.entrySet()) {
- 
-		// 	System.out.println("Concept= " + entry.getKey() + " , colIndex="
-		// 		+ entry.getValue());
- 
-		// }
-
-		// System.out.println(colIndex);
  
 	} catch (FileNotFoundException e) {
 		e.printStackTrace();
@@ -185,18 +113,34 @@ public class ScrapePerformance {
 	}	
   }
 
-  public void printMatrix()
+  public void printMatrix(String filename)
   {
-  	for (int i = 0; i < 31891; i++)
+  	try
   	{
-  			System.out.println(performance[i][0]);
-  	}
+	  	FileWriter writer = new FileWriter(filename);
+	  	for (int i = 0; i < 31891; i++)
+	  	{
+	  		for (int j = 0; j < 69; j++)
+	  		{
+	  			writer.append(String.valueOf(performance[i][j]) + ",");
+	  		}
+
+	  		writer.append('\n');
+	  	}
+
+	  	writer.close();
+	}
+
+	catch(IOException e)
+	{
+		e.printStackTrace();
+	}
   }
+
   public static void main(String[] args) {
  
 	ScrapePerformance obj = new ScrapePerformance();
 	obj.run("userIDs.csv");
-	//obj.runConcept("fName_to_QuizName.txt");
 
 	obj.readPerformance("[00000062] Detailed Quiz Responses [147].txt");
 	obj.readPerformance("[00000063] Detailed Quiz Responses [201].txt");
@@ -268,7 +212,7 @@ public class ScrapePerformance {
 	obj.readPerformance("[00000175] Detailed Quiz Responses [287].txt");
 	obj.readPerformance("[00000177] Detailed Quiz Responses [291].txt");
 
-	obj.printMatrix();
+	obj.printMatrix("performancematrix.csv");
  
   }
  
