@@ -12,6 +12,14 @@ public class ScrapePerformance {
   double[][] performance = new double[31891][69];
   int col = 0;
 
+  public ScrapePerformance() {
+  	for (int i = 0; i < 31891; i++)
+  	{
+  		for (int j = 0; j < 69; j++)
+  			performance[i][j] = -1.0;
+  	}
+  }
+
   public void run(String filename) {
  
 	BufferedReader br = null;
@@ -118,6 +126,10 @@ public class ScrapePerformance {
   	try
   	{
 	  	FileWriter writer = new FileWriter(filename);
+
+	  	writer.append(String.valueOf(31891) + '\n');
+	  	writer.append(String.valueOf(69) + '\n');
+
 	  	for (int i = 0; i < 31891; i++)
 	  	{
 	  		for (int j = 0; j < 69; j++)
