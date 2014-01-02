@@ -3,6 +3,8 @@
 import yaml
 import urllib2
 import json
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 from StringIO import StringIO
 
 CLASS_ID         = "ni-001"
@@ -17,6 +19,10 @@ def get_page(url, use_cookie_2 = False):
 
     opener.addheaders.append(('Cookie', c))
     return opener.open(url)
+
+# For now, we do literal string contains. Fuzzy comparison will be better served later
+def if_similar (src, dest):
+    return fuzz.partial_ratio(src, dest) > 50
 
 def get_threads():
     thread_template = "https://class.coursera.org/" + CLASS_ID + "/api/forum/threads/%d"
@@ -36,7 +42,7 @@ def get_threads():
     # return variables
     all_text_count = 0
     all_threads = []
-    forums = []
+    discussions = []
 
     print "Scanning ", total_threads, " threads."
 
@@ -50,77 +56,95 @@ def get_threads():
             j_d = json.loads(data)
 
             # Only extract JSONs that belong to the assignment forum
-            if j_d[u'forum_id'] is ASSIGNMENT_FORUM: 
-                forum = {
-                        'user_id': int(j_d[u'user_id']),
-                        'title': str(j_d[u'title']), 
-                        'last_updated': int(j_d[u'last_updated_time']), 
-                        'views': int(j_d[u'num_views']),
-                        'upvotes': int(j_d[u'votes']),
-                        'num_posts': int(j_d[u'num_posts']),
-                        'posts': {},
-                    }
+            if j_d[u'forum_id'] >= 0: #is ASSIGNMENT_FORUM: 
+                discussion = {}
+                try:
+                    discussion = {
+                            'user_id': int(j_d[u'user_id']),
+                            'title': str(j_d[u'title']), 
+                            'last_updated': int(j_d[u'last_updated_time']), 
+                            'views': int(j_d[u'num_views']),
+                            'upvotes': int(j_d[u'votes']),
+                            'num_posts': int(j_d[u'num_posts']),
+                            'posts': {},
+                        }
+                except UnicodeEncodeError, e:
+                    continue
+                except KeyError, e:
+                    continue
                 all_text_count += 1
 
                 all_posts = j_d['posts']
                 all_comments = j_d['comments']
 
                 java_port.write("-1\n")
-                # collecting all posts for a given forum
+                # collecting all posts for a given discussion
                 for post_json in all_posts:
-                    forum['posts'][post_json[u'id']] = {
-                            'user_id': int(post_json[u'user_id']),
-                            'order': int(post_json[u'order']),
-                            'upvotes': int(post_json[u'votes']),
-                            'text': str(post_json[u'post_text']),
-                            'comments': [],
-                        }
-                    post = forum['posts'][post_json[u'id']]
-                    java_port.write(str(post['user_id']) + "\n")
-                    java_port.write(str(post['upvotes']) + "\n")
-                    java_port.write(post['text'] + "\n")
-                    java_port.write("****\n")
+                    try:
+                        discussion['posts'][post_json[u'id']] = {
+                                'user_id': int(post_json[u'user_id']),
+                                'order': int(post_json[u'order']),
+                                'upvotes': int(post_json[u'votes']),
+                                'text': str(post_json[u'post_text']),
+                                'comments': [],
+                            }
+                        post = discussion['posts'][post_json[u'id']]
+                        java_port.write(str(post['user_id']) + "\n")
+                        java_port.write(str(post['upvotes']) + "\n")
+                        java_port.write(post['text'] + "\n")
+                        java_port.write("****\n")
+                    except UnicodeEncodeError, e:
+                        continue
+                    except KeyError, e:
+                        continue
                 all_text_count += len(all_posts)
 
                 # collecting all comments and placing under the proper post
                 for comment_d in all_comments:
-                    post = forum['posts'][comment_d[u'post_id']]
-                    comment = {
-                            'user_id': int(comment_d[u'user_id']),
-                            'upvotes': int(comment_d[u'votes']),
-                            'text': str(comment_d[u'comment_text'])
-                        }
+                    try:
+                        post = discussion['posts'][comment_d[u'post_id']]
+                        comment = {
+                                'user_id': int(comment_d[u'user_id']),
+                                'upvotes': int(comment_d[u'votes']),
+                                'text': str(comment_d[u'comment_text'])
+                            }
 
-                    # provide necessary data for the java programs
-                    # In the format: "user_id\n upvotes\n text\n ****""
-                    java_port.write(str(comment['user_id']) + "\n")
-                    java_port.write(str(comment['upvotes']) + "\n")
-                    java_port.write(comment['text'] + "\n")
-                    java_port.write("****\n")
-                    
-                    post['comments'].append(comment)
+                        # provide necessary data for the java programs
+                        # In the format: "user_id\n upvotes\n text\n ****""
+                        java_port.write(str(comment['user_id']) + "\n")
+                        java_port.write(str(comment['upvotes']) + "\n")
+                        java_port.write(comment['text'] + "\n")
+                        java_port.write("****\n")
+                        
+                        post['comments'].append(comment)
+                    except UnicodeEncodeError, e:
+                        continue
+                    except KeyError, e:
+                        continue
                 all_text_count += len(all_comments)
 
-                all_output.write(yaml.dump(forum, default_flow_style=False))
+                all_output.write(yaml.dump(discussion, default_flow_style=False))
                 all_output.write('\n')
 
-                forums.append(forum)
+                if discussion is not {}:
+                    discussions.append(discussion)
 
         except urllib2.HTTPError, error:
             if error.read() == "Unexpected API error":
                 there_are_more_threads = False
 
     # extracting the necessary content for the return values
-    index = 0
-    all_threads = []
-    for forum in forums:
-        all_threads.append([forum['user_id'], forum['upvotes'], forum['title']])
-        for post_id in forum['posts']:
-            post = forum['posts'][post_id]
-            all_threads.append([post['user_id'], post['upvotes'], post['text']])
-            for comment in post['comments']:
-                all_threads.append([comment['user_id'], comment['upvotes'], comment['text']])
-    return all_threads
+    # index = 0
+    # all_threads = []
+    # for discussion in discussions:
+    #     all_threads.append([discussion['user_id'], discussion['upvotes'], discussion['title']])
+    #     for post_id in discussion['posts']:
+    #         post = discussion['posts'][post_id]
+    #         all_threads.append([post['user_id'], post['upvotes'], post['text']])
+    #         for comment in post['comments']:
+    #             all_threads.append([comment['user_id'], comment['upvotes'], comment['text']])
+    # return all_threads
+    return discussions
 
 def get_uids():
     uidCSV = open('userIDs.csv', 'r')
@@ -134,8 +158,8 @@ def get_uids():
             index = index + 1
     return uidsToIndex
 
-def setupForumMatrix(posts, uidsToRow):
-    concepts = [ "DANGLING NODES & DSICONNECTED GRAPH", "USER-MOVIE INTERACTIONS",
+def setupForumMatrix(discussions, uidsToRow):
+    concepts = [ "DANGLING NODES & DISCONNECTED GRAPH", "USER-MOVIE INTERACTIONS",
                  "SHARING IS HARD & CONSENSUS IS HARD","CROWDS",
                  "NETWORK","LAYERS ON LAYERS",
                  "MOBILE PENETRATION", "MULTIPLE ACCESS", "0G", "FDMA", "1G", "ATTENUATION",
@@ -168,23 +192,56 @@ def setupForumMatrix(posts, uidsToRow):
         conceptToCol[concept] = index
         index = index + 1
 
-    for post in posts:
+    # for post in posts:
+    #     for concept in concepts:
+    #         if concept in post[TEXT].upper() and post[UID] is not 0:
+    #             if "?" in post[TEXT]:
+    #                 scores[uidsToRow[post[UID]]] [conceptToCol[concept]] = 0
+    #             elif post[VOTES] > 0:
+    #                 scores[uidsToRow[post[UID]]] [conceptToCol[concept]] = 2
+
+    for d in discussions:
+        title = d['title']
         for concept in concepts:
-            if concept in post[TEXT].upper() and post[UID] is not 0:
-                if "?" in post[TEXT]:
-                    scores[uidsToRow[post[UID]]] [conceptToCol[concept]] = 0
-                elif post[VOTES] > 0:
-                    scores[uidsToRow[post[UID]]] [conceptToCol[concept]] = 2
+
+            # If this particular discussion is relevant to a particular concept
+            if if_similar(concept, title):
+
+                if d['user_id'] > 0:
+                    scores [uidsToRow[d['user_id']]] [conceptToCol[concept]] = 0
+
+                posts = d['posts']
+                for post_id in posts:
+                    uid = posts[post_id]['user_id']
+                    if uid > 0:
+                        # A question is asked about this particular concept discussion
+                        if "?" in posts[post_id]['text']:
+                            scores [uidsToRow[uid]] [conceptToCol[concept]] = 0
+                        # Not a question, and has upvotes, shows proficiency
+                        elif posts[post_id]['upvotes'] > 0:
+                            scores [uidsToRow[uid]] [conceptToCol[concept]] = 2
+
+                    comments = posts[post_id]['comments']
+                    for comment in comments:
+                        uid = comment['user_id']
+                        if uid > 0:
+                            if "?" in comment['text']:
+                                scores [uidsToRow[uid]] [conceptToCol[concept]] = 0
+                            elif comment['upvotes'] > 0:
+                                scores [uidsToRow[uid]] [conceptToCol[concept]] = 2
+                break
+
     return scores
 
 def printMatrix(matrix):
     output = open("forum_matrix.csv", "w")
+    output.write(str(len(matrix)) + '\n')
+    output.write(str(len(matrix[0])) + '\n')
     for row in matrix:
         for elem in row:
             output.write(str(elem)+",")
         output.write('\n')
     output.close()
 
-# get_threads()
 get_uids()
 printMatrix(setupForumMatrix(get_threads() ,get_uids()))
