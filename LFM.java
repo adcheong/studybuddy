@@ -46,12 +46,18 @@ public class LFM {
 
         for (int i = 0; i < rows; i++)
         {
-            double count = 0.0;
+            // double count = 0.0;
             for (int j = 0; j < cols; j++)
+            {
                 if (performance[i][j] >= 0)
-                    count += 1;
-            active[i] = count / cols >= threshold;
+                {
+                    active[i] = true;
+                    break;
+                }
+            }
+            //active[i] = count / cols >= threshold;
         }
+        
         return active;
     }
 
@@ -114,6 +120,8 @@ public class LFM {
             }
             System.out.println();
         }
+
+        System.out.println("Number of rows: " + finalData.length);
 
     }
 }
