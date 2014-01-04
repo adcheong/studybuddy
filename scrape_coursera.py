@@ -158,34 +158,25 @@ def get_uids():
             index = index + 1
     return uidsToIndex
 
+def get_concepts(filename):
+    input = open(filename, 'r')
+    lines = input.readlines()
+    concepts = []
+    for line in lines:
+        concepts.append((" ".join(line.split()[1:])).upper())
+
+    input.close()
+    return concepts
+
 def setupForumMatrix(discussions, uidsToRow):
-    concepts = [ "DANGLING NODES & DISCONNECTED GRAPH", "USER-MOVIE INTERACTIONS",
-                 "SHARING IS HARD & CONSENSUS IS HARD","CROWDS",
-                 "NETWORK","LAYERS ON LAYERS",
-                 "MOBILE PENETRATION", "MULTIPLE ACCESS", "0G", "FDMA", "1G", "ATTENUATION",
-                 "2G", "TDMA", "CDMA", "COCKTAIL PARTY ANALOGY", "NEAR-FAR PROBLEM", "SIR", "DPC", 
-                 "DPC COMPUTATION", "NEGATIVE FEEDBACK", "CONVERGENCE", "DISTRIBUTED COMPUTATION", "HANDOFFS",
-                 "CDMA & 3G", "UNLICENSED SPECTRUM", "TRAFFIC ANALOGY", "WIFI STANDARDS", "WIFI DEPLOYMENT", 
-                 "ACCESSING WIFI", "INTERFERENCE", "CONTROLLED VS RANDOM ACCESS", "RANDOM ACCESS PROTOCOLS & ALOHA",
-                 "ALOHA THROUGHPUT", "ALOHA INSCALABILITY", "ALOHA SUCCESSFUL TRANSMISSION", "CSMA BACKOFF", "CSMA VS ALOHA",
-                 "SEARCH ENGINES", "WEBGRAPHS", "IN-DEGREE", "THE RANDOM SURFER", "IMPORTANCE EQUATIONS", "NEW WORD IN THE DICTIONARY",
-                 "PAGERANK EXAMPLE CALCULATION", "ROBUST RANKING", "OUR MOBILE DATA PLANS", "DEMAND FOR DATA", "JOBS' INEQUALITY OF CAPACITY",
-                 "USAGE-BASED PLANS", "COMPARING PRICING SCHEMES", "UTILITY", "DEMAND", "DEMAND CURVE & NET UTILITY", "THE TRAGEDY OF COMMONS",
-                 "FLAT RATE CREATES WASTE & FAVORS HEAVY USERS", "CSMA CARRIER SENSING", "NETFLIX TIMELINE", "VIDEO STREAMING", "NETFLIX RECOMMENDATION SYSTEM",
-                 "NETFLIX PRIZE: LOGISTICS", "RAW AVERAGE", "BASELINE PREDICTOR", "COSINE SIMILARITY", "SIMILARITY VALUES", "LEVERAGING SIMILARITY", 
-                 "NETFLIX PRIZE: THE COMPETITION", "NEIGHBORHOOD PREDICTOR", "SHARING", "ARPANET", "NSFNET", "CIRCUIT SWITCHING", "PACKET SWITCHING",
-                 "DISTRIBUTED HIERARCHY", "ROUTING TRAFFIC", "IP ADDRESS", "PREFIX & HOST IDENTIFIER", "DHCP & NAT", "ROUTING PROTOCOLS", "FORWARDING",
-                 "SHORTEST PATH", "BELLMAN-FORD", "COST UPDATES", "RIP AND MESSAGE PASSING", "DIVIDE AND CONQUER", "LAYERED PROTOCOL STACK", "TRANSPORT & NETWORK LAYERS",
-                 "HEADERS", "PROCESSING LAYERS", "CONTROLLING CONGESTION", "TRAFFIC JAM & BUCKET ANALOGY", "END HOSTS", "CAUTIOUS GROWTH OF WINDOW SIZE",
-                 "SLIDING WINDOW", "INFERRING CONGESTION", "CONGESTION CONTROL VERSIONS", "LOSS-BASED CONGESTION INFERENCE", "DELAY-BASED CONGESTION INFERENCE",
-                 "DISTRIBUTED CONGESTION CONTROL"]
+    concepts = get_concepts('fName_to_QuizName.txt')
     index = 0
     UID = 0
     VOTES = 1
     TEXT = 2
 
     num_concepts = len(concepts)
-    scores = [[1] * num_concepts for i in range(len(uidsToRow))]
+    scores = [[0] * num_concepts for i in range(len(uidsToRow))]
     conceptToCol = {}
 
     for concept in concepts: 
@@ -208,7 +199,7 @@ def setupForumMatrix(discussions, uidsToRow):
             if if_similar(concept, title):
 
                 if d['user_id'] > 0:
-                    scores [uidsToRow[d['user_id']]] [conceptToCol[concept]] = 0
+                    scores [uidsToRow[d['user_id']]] [conceptToCol[concept]] = -1
 
                 posts = d['posts']
                 for post_id in posts:
@@ -216,19 +207,19 @@ def setupForumMatrix(discussions, uidsToRow):
                     if uid > 0:
                         # A question is asked about this particular concept discussion
                         if "?" in posts[post_id]['text']:
-                            scores [uidsToRow[uid]] [conceptToCol[concept]] = 0
+                            scores [uidsToRow[uid]] [conceptToCol[concept]] = -1
                         # Not a question, and has upvotes, shows proficiency
                         elif posts[post_id]['upvotes'] > 0:
-                            scores [uidsToRow[uid]] [conceptToCol[concept]] = 2
+                            scores [uidsToRow[uid]] [conceptToCol[concept]] = 1
 
                     comments = posts[post_id]['comments']
                     for comment in comments:
                         uid = comment['user_id']
                         if uid > 0:
                             if "?" in comment['text']:
-                                scores [uidsToRow[uid]] [conceptToCol[concept]] = 0
+                                scores [uidsToRow[uid]] [conceptToCol[concept]] = -1
                             elif comment['upvotes'] > 0:
-                                scores [uidsToRow[uid]] [conceptToCol[concept]] = 2
+                                scores [uidsToRow[uid]] [conceptToCol[concept]] = 1
                 break
 
     return scores
@@ -239,7 +230,7 @@ def printMatrix(matrix):
     output.write(str(len(matrix[0])) + '\n')
     for row in matrix:
         for elem in row:
-            output.write(str(elem)+",")
+            output.write(str(int(elem))+",")
         output.write('\n')
     output.close()
 
