@@ -122,6 +122,8 @@ public class LFM {
         }
 
         System.out.println("Number of rows: " + finalData.length);
+        System.out.println("Number of columns: " + finalData[0].length);
+
 
     }
 }
