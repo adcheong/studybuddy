@@ -55,24 +55,24 @@ public class LFM {
         return active;
     }
 
-    public String[] getUserIds() throws IOException
-    {
-        ArrayList<String> list = new ArrayList<String>();
-        BufferedReader in = new BufferedReader(new FileReader("userIDs.csv"));
+    // public String[] getUserIds() throws IOException
+    // {
+    //     ArrayList<String> list = new ArrayList<String>();
+    //     BufferedReader in = new BufferedReader(new FileReader("userIDs.csv"));
 
-        while(in.ready())
-        {
-            String line = in.readLine();
-            if (line.charAt(0) == ',')
-                break;
-            StringTokenizer st = new StringTokenizer(line, ",");
-            list.add(st.nextToken());
-        }
+    //     while(in.ready())
+    //     {
+    //         String line = in.readLine();
+    //         if (line.charAt(0) == ',')
+    //             break;
+    //         StringTokenizer st = new StringTokenizer(line, ",");
+    //         list.add(st.nextToken());
+    //     }
 
-        String[] output = new String[list.size()];
-        output = list.toArray(output);
-        return output;
-    }
+    //     String[] output = new String[list.size()];
+    //     output = list.toArray(output);
+    //     return output;
+    // }
 
     public double[][] removeInactiveRows(double[][] vals, boolean[] active)
     {
@@ -98,12 +98,12 @@ public class LFM {
         LFM lfm = new LFM();
         double[][] forumData   = lfm.getMatrix("forum_matrix.csv");
         double[][] performData = lfm.getMatrix("performancematrix.csv");
-        String[] uids = lfm.getUserIds();
+        //String[] uids = lfm.getUserIds();
 
         /* Extracting active data */
         boolean[] activeUids = lfm.getActiveRows(performData, 0.0);
         double[][] activePerf = lfm.removeInactiveRows(performData, activeUids);
-        double[][] activeForum = lfm.removeInactiveRows(performData, activeUids);
+        double[][] activeForum = lfm.removeInactiveRows(forumData, activeUids);
         
         double[][] finalData   = lfm.mergeMatrix(activeForum, activePerf);
         for (int i = 0; i < finalData.length; i++)
