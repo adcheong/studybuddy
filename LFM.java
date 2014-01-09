@@ -181,6 +181,157 @@ public class LFM {
         return merged;
     }
 
+
+    public double[][] mergeColumns2 (topic[] topics, double[][] matrix)
+    {
+        int numTopics = topics.length;
+        int rows = matrix.length;
+        double[][] merged = new double[rows][numTopics];
+        int[][] mergeCount = new int[rows][numTopics];
+
+        for(int i = 0; i < rows; i++)
+            for(int j = 0; j < numTopics; j++)
+            {
+                merged[i][j] = 0.0;
+                mergeCount[i][j] = 0;
+            }
+
+        for (int i = 0; i < numTopics; i++)
+            for (int id : topics[i].ids)
+                for(int r = 0; r < rows; r++)
+                    // BE CAUTIOUS OF THIS MAGIC NUMBER
+                {
+                    double val = matrix[r][colMap.get(id)];
+                    if (val != -1)
+                    {
+                        merged[r][i] += val;
+                        mergeCount[r][i]++;
+                    }
+                }
+
+        for(int i = 0; i < rows; i++)
+            for(int j = 0; j < numTopics; j++)
+                if (mergeCount[i][j] != 0.0)
+                    merged[i][j] /= mergeCount[i][j];
+        return merged;
+    }
+
+    public double[][] mergeColumns3 (topic[] topics, double[][] matrix)
+    {
+        int numTopics = topics.length;
+        int rows = matrix.length;
+        double[][] merged = new double[rows][numTopics];
+        int[][] mergeCount = new int[rows][numTopics];
+
+        for(int i = 0; i < rows; i++)
+            for(int j = 0; j < numTopics; j++)
+            {
+                merged[i][j] = 0.0;
+                mergeCount[i][j] = 0;
+            }
+
+        for (int i = 0; i < numTopics; i++)
+            for (int id : topics[i].ids)
+                for(int r = 0; r < rows; r++)
+                    // BE CAUTIOUS OF THIS MAGIC NUMBER
+                {
+                    double val = matrix[r][colMap.get(id)];
+                    if (val != 0)
+                    {
+                        merged[r][i] += val;
+                        mergeCount[r][i]++;
+                    }
+                }
+
+        for(int i = 0; i < rows; i++)
+            for(int j = 0; j < numTopics; j++)
+                if (mergeCount[i][j] != 0.0)
+                    merged[i][j] /= mergeCount[i][j];
+        return merged;
+    }
+
+
+    public static double dotProduct (double[][] m, int a, int b)
+    {
+        double val = 0;
+        int len = m[0].length;
+        for(int i = 0; i < len; i++)
+            val += m[a][i]*m[b][i];
+        return val;
+    }
+
+    public static double magnitude(double[][] m, int a)
+    {
+        double val = 0;
+        int len = m[0].length;
+        for(int i = 0; i < len; i++)
+            val += m[a][i]*m[a][i];
+        return Math.sqrt(val);
+    }
+
+    public static double[][] cosineCoef(double[][] matrix)
+    {
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+        double[][] result = new double[rows][rows];
+
+        /* can save space using an arraylist of arrays */
+        /* will implement later if needed */
+        for(int i = 0; i < rows; i++)
+            for(int j = i+1; j < rows; j++)
+            {
+                double dp = dotProduct(matrix, i, j);
+                double mag_i = magnitude(matrix, i);
+                double mag_j = magnitude(matrix, j);
+                result[i][j] = mag_i * mag_j <= 0 ? -2 : dp / (mag_i * mag_j);
+            }
+        return result;    
+    }
+
+    public static ArrayList<int[]> getPairs(double[][] matrix)
+    {
+        ArrayList<int[]> output = new ArrayList<int[]>();
+        for(int i = 0; i < matrix.length; i++)
+            for(int j = 0; j < matrix[0].length; j++)
+            {
+                if (matrix[i][j] < 0.075 && matrix[i][j] > -2 && matrix[i][j] != 0.0)
+                {
+                    int[] pair = {i, j};
+                    output.add(pair);
+                }
+            }
+        return output;
+    }
+    public static ArrayList<int[]> getPairs2(double[][] matrix)
+    {
+        ArrayList<int[]> output = new ArrayList<int[]>();
+        for(int i = 0; i < matrix.length; i++)
+            for(int j = 0; j < matrix[0].length; j++)
+            {
+                if (matrix[i][j] < 0.075 && matrix[i][j] < 1 && matrix[i][j] > 0.0)
+                {
+                    int[] pair = {i, j};
+                    output.add(pair);
+                }
+            }
+        return output;
+    }
+
+    public static ArrayList<int[]> getPairs3(double[][] matrix)
+    {
+        ArrayList<int[]> output = new ArrayList<int[]>();
+        for(int i = 0; i < matrix.length; i++)
+            for(int j = 0; j < matrix[0].length; j++)
+            {
+                if (matrix[i][j] < 0.3 && matrix[i][j] > -2 && matrix[i][j] != 0.0)
+                {
+                    int[] pair = {i, j};
+                    output.add(pair);
+                }
+            }
+        return output;
+    }
+
     public static void main(String[] args) throws IOException 
     {
         LFM lfm = new LFM();
@@ -207,15 +358,70 @@ public class LFM {
         // System.out.println("Number of rows: " + activeData.length);
         // System.out.println("Number of columns: " + activeData[0].length);
 
-        /* Merging the active data so the columns will represent each topic */
-        topic[] topics = lfm.getTopics("topics.txt");
-        double[][] finalData = lfm.mergeColumns(topics, activeData);
+        //=====================================================================
+        //=========================MERGED DATA=================================
+        //=====================================================================
 
-        for (int i = 0; i < finalData.length; i++)
+        /* Merging the active data so the columns will represent each topic */
+        /* Also computing the cosine coefficient and getting the minimum coefficient pairs */
+
+        topic[] topics = lfm.getTopics("topics.txt");
+        // double[][] finalData = lfm.mergeColumns(topics, activeData);
+        // finalData = lfm.cosineCoef(finalData);
+        // ArrayList<int[]> pairs = lfm.getPairs(finalData);
+
+        // for (int i = 0; i < finalData.length; i++)
+        // {
+        //     for(int j = 0; j< finalData[0].length; j++)
+        //         System.out.print(finalData[i][j] + " ");
+        //     System.out.println();
+        // }
+
+        /* get teacher student pairs */
+        // int numPairs = pairs.size();
+        // for(int i = 0; i < numPairs; i++)
+        // {
+        //     int[] cur = pairs.get(i);
+        //     System.out.println(cur[0] + " " + cur[1]);
+        // }
+
+        //=====================================================================
+        //===========================PERF DATA=================================
+        //=====================================================================
+        double[][] finalPerfData = lfm.mergeColumns2(topics, activePerf);
+        finalPerfData = lfm.cosineCoef(finalPerfData);
+
+
+        // for (int i = 0; i < finalPerfData.length; i++)
+        // {
+        //     for(int j = 0; j< finalPerfData[0].length; j++)
+        //         System.out.print(finalPerfData[i][j] + " ");
+        //     System.out.println();
+        // }        
+
+        // ArrayList<int[]> perf_pairs = lfm.getPairs2(finalPerfData);
+        // int numPairs = perf_pairs.size();
+
+        // for(int i = 0; i < numPairs; i++)
+        // {
+        //     int[] cur = perf_pairs.get(i);
+        //     System.out.println(cur[0] + " " + cur[1]);
+        // }
+
+        //=====================================================================
+        //=========================FORUM DATA=================================
+        //=====================================================================
+        double[][] finalForumData = lfm.mergeColumns3(topics, activeForum);
+        finalForumData = lfm.cosineCoef(finalForumData);
+
+
+        ArrayList<int[]> forum_pairs = lfm.getPairs3(finalForumData);
+        int numPairs = forum_pairs.size();
+
+        for(int i = 0; i < numPairs; i++)
         {
-            for(int j = 0; j< finalData[0].length; j++)
-                System.out.print(finalData[i][j] + " ");
-            System.out.println();
+            int[] cur = forum_pairs.get(i);
+            System.out.println(cur[0] + " " + cur[1]);
         }
 
     }

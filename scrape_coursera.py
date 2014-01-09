@@ -24,6 +24,16 @@ def get_page(url, use_cookie_2 = False):
 def if_similar (src, dest):
     return fuzz.partial_ratio(src, dest) > 50
 
+def if_question (line):
+    qwords = ["who", "what", "when", "where", "which", "whom", "why", "whose", "how"]
+    line = line.lower()
+    if "?" not in line:
+        for w in qwords:
+            if w in line:
+                return True
+        return False
+    return True
+
 def get_threads():
     thread_template = "https://class.coursera.org/" + CLASS_ID + "/api/forum/threads/%d"
     user_template = "https://www.coursera.org/maestro/api/user/profiles?user-ids=%d&callback=some"
@@ -206,7 +216,8 @@ def setupForumMatrix(discussions, uidsToRow):
                     uid = posts[post_id]['user_id']
                     if uid > 0:
                         # A question is asked about this particular concept discussion
-                        if "?" in posts[post_id]['text']:
+                        if if_question(posts[post_id]['text']):
+                        # if "?" in posts[post_id]['text']:
                             scores [uidsToRow[uid]] [conceptToCol[concept]] = -1
                         # Not a question, and has upvotes, shows proficiency
                         elif posts[post_id]['upvotes'] > 0:
@@ -216,7 +227,8 @@ def setupForumMatrix(discussions, uidsToRow):
                     for comment in comments:
                         uid = comment['user_id']
                         if uid > 0:
-                            if "?" in comment['text']:
+                            if if_question(comment['text']):
+                            # if "?" in comment['text']:
                                 scores [uidsToRow[uid]] [conceptToCol[concept]] = -1
                             elif comment['upvotes'] > 0:
                                 scores [uidsToRow[uid]] [conceptToCol[concept]] = 1
@@ -225,7 +237,7 @@ def setupForumMatrix(discussions, uidsToRow):
     return scores
 
 def printMatrix(matrix):
-    output = open("forum_matrix.csv", "w")
+    output = open("forum_matrix2.csv", "w")
     output.write(str(len(matrix)) + '\n')
     output.write(str(len(matrix[0])) + '\n')
     for row in matrix:
