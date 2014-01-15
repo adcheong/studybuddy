@@ -5,6 +5,7 @@ README
 Below explains each major program's utility and purpose. 
 
 scrape_coursera.py : scrape textual content from the coursera course. 
+
 Execution: python scrape_coursera.py
 
     Input:
@@ -21,6 +22,7 @@ Execution: python scrape_coursera.py
     forum_matrix.csv: the matrix with all the forum data where rows are users and concepts are columns
 
 ScrapePerformance.java : extracts the performance data of a coursera course
+
 Execution:  java ScrapePerformance.java
             java ScrapePerformance
 
@@ -33,6 +35,7 @@ Execution:  java ScrapePerformance.java
     performancematrix.csv: csv file with all the recorded data of the performance scores.
 
 LFM.java : analyzes the data from two csv files
+
 Execution:  java LFM.java
             java LFM
 
