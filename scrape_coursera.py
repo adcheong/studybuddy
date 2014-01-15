@@ -201,12 +201,16 @@ def setupForumMatrix(discussions, uidsToRow):
     #             elif post[VOTES] > 0:
     #                 scores[uidsToRow[post[UID]]] [conceptToCol[concept]] = 2
 
+    print discussions
+
     for d in discussions:
         title = d['title']
         for concept in concepts:
 
             # If this particular discussion is relevant to a particular concept
             if if_similar(concept, title):
+
+
 
                 if d['user_id'] > 0:
                     scores [uidsToRow[d['user_id']]] [conceptToCol[concept]] = -1
@@ -237,7 +241,7 @@ def setupForumMatrix(discussions, uidsToRow):
     return scores
 
 def printMatrix(matrix):
-    output = open("forum_matrix2.csv", "w")
+    output = open("forum_matrix.csv", "w")
     output.write(str(len(matrix)) + '\n')
     output.write(str(len(matrix[0])) + '\n')
     for row in matrix:

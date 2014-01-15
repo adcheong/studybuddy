@@ -20,6 +20,7 @@ public class LFM {
     private HashMap<Integer, Integer> colMap;
     private double performanceScaleFactor;
 
+    // Given a text file, extract the matrix contained within
     public double[][] getMatrix (String filename) throws IOException
     {
         BufferedReader in = new BufferedReader(new FileReader(filename));
@@ -37,6 +38,7 @@ public class LFM {
         return out;
     }
 
+    // Given two matrices of the same dimension, they are merged with a weighted sum
     public double[][] mergeMatrix(double[][] a, double[][] b, double ascale, double bscale)
     {
         int row = a.length;
@@ -75,6 +77,7 @@ public class LFM {
         return active;
     }
 
+    // Associate column numbers with an actual string of the concept name
     public void getColumnMapping(String filename) throws IOException
     {
         BufferedReader in = new BufferedReader(new FileReader(filename));
@@ -88,6 +91,7 @@ public class LFM {
         }
     }
 
+    // Associate row index with an actual string of the user id    
     public String[] getUserIds() throws IOException
     {
         ArrayList<String> list = new ArrayList<String>();
@@ -124,6 +128,22 @@ public class LFM {
                 curRow++;
             }
         return activeData;
+    }
+
+    public String[] removeInactiveUids(String[] uids, boolean[] active)
+    {
+        int count = 0;
+        ArrayList<String> al = new ArrayList<String>();
+        for(int i = 0; i < active.length; i++)
+            count += active[i] ? 1 : 0;
+
+        String[] model = new String[count];
+
+        for(int i = 0; i < active.length; i++)
+        if (active[i]) {
+            al.add(uids[i]);
+        }
+        return al.toArray(model);
     }
 
     public topic[] getTopics(String filename) throws IOException
@@ -182,7 +202,7 @@ public class LFM {
     }
 
 
-    public double[][] mergeColumns2 (topic[] topics, double[][] matrix)
+    public double[][] mergePerfColumns (topic[] topics, double[][] matrix)
     {
         int numTopics = topics.length;
         int rows = matrix.length;
@@ -216,7 +236,7 @@ public class LFM {
         return merged;
     }
 
-    public double[][] mergeColumns3 (topic[] topics, double[][] matrix)
+    public double[][] mergeForumColumns (topic[] topics, double[][] matrix)
     {
         int numTopics = topics.length;
         int rows = matrix.length;
@@ -288,7 +308,7 @@ public class LFM {
         return result;    
     }
 
-    public static ArrayList<int[]> getPairs(double[][] matrix)
+    public static ArrayList<int[]> getMergedPairs(double[][] matrix)
     {
         ArrayList<int[]> output = new ArrayList<int[]>();
         for(int i = 0; i < matrix.length; i++)
@@ -302,7 +322,8 @@ public class LFM {
             }
         return output;
     }
-    public static ArrayList<int[]> getPairs2(double[][] matrix)
+
+    public static ArrayList<int[]> getPerfPairs(double[][] matrix)
     {
         ArrayList<int[]> output = new ArrayList<int[]>();
         for(int i = 0; i < matrix.length; i++)
@@ -317,7 +338,7 @@ public class LFM {
         return output;
     }
 
-    public static ArrayList<int[]> getPairs3(double[][] matrix)
+    public static ArrayList<int[]> getForumPairs(double[][] matrix)
     {
         ArrayList<int[]> output = new ArrayList<int[]>();
         for(int i = 0; i < matrix.length; i++)
@@ -332,6 +353,17 @@ public class LFM {
         return output;
     }
 
+    public static ArrayList<String[]> convertRowPairsToUidPairs(ArrayList<int[]> vec, String[] uids)
+    {
+        ArrayList<String[]> output = new ArrayList<String[]>();
+        for (int[] pair : vec)
+        {
+            String[] newPair = {uids[pair[0]], uids[pair[1]]};
+            output.add(newPair);
+        }
+        return output;
+    }
+
     public static void main(String[] args) throws IOException 
     {
         LFM lfm = new LFM();
@@ -343,16 +375,24 @@ public class LFM {
         String[] uids = lfm.getUserIds();
 
         /* Extracting active data */
-        boolean[] activeUids = lfm.getActiveRows(performData, 0.0);
-        double[][] activePerf = lfm.removeInactiveRows(performData, activeUids);
-        double[][] activeForum = lfm.removeInactiveRows(forumData, activeUids);        
+        boolean[] activeUidRows = lfm.getActiveRows(performData, 0.0);
+        double[][] activePerf = lfm.removeInactiveRows(performData, activeUidRows);
+        double[][] activeForum = lfm.removeInactiveRows(forumData, activeUidRows);
+            System.out.println(uids.length);
+    
+        String[] activeUids = lfm.removeInactiveUids(uids, activeUidRows);
         double[][] activeData   = lfm.mergeMatrix(activeForum, activePerf, 1.0, 3.0);
+
+        System.out.println(activeForum.length);
+        System.out.println(activeUids.length);
+        for(int i= 0; i < activeUids.length; i++)
+            System.out.println(activeUids[i]);
 
         // for (int i = 0; i < activeData.length; i++)
         // {
         //     for(int j = 0; j< activeData[0].length; j++)
         //         System.out.print(activeData[i][j] + " ");
-        //     System.out.println();
+        //     System.out.println(); 
         // }
 
         // System.out.println("Number of rows: " + activeData.length);
@@ -368,7 +408,24 @@ public class LFM {
         topic[] topics = lfm.getTopics("topics.txt");
         // double[][] finalData = lfm.mergeColumns(topics, activeData);
         // finalData = lfm.cosineCoef(finalData);
-        // ArrayList<int[]> pairs = lfm.getPairs(finalData);
+        // ArrayList<int[]> pairs = lfm.getMergedPairs(finalData);
+
+        // ArrayList<String[]> uid_pairs = convertRowPairsToUidPairs(pairs, activeUids);
+        // System.out.println("=============MERGED PAIRS============");
+        // int numPairs = uid_pairs.size();
+        // for (int i = 0; i < numPairs; i++)
+        // {
+        //     String[] cur = uid_pairs.get(i);
+        //     System.out.println(cur[0] + " " + cur[1]);
+        // }
+
+
+
+
+
+
+
+
 
         // for (int i = 0; i < finalData.length; i++)
         // {
@@ -388,7 +445,7 @@ public class LFM {
         //=====================================================================
         //===========================PERF DATA=================================
         //=====================================================================
-        double[][] finalPerfData = lfm.mergeColumns2(topics, activePerf);
+        double[][] finalPerfData = lfm.mergePerfColumns(topics, activePerf);
         finalPerfData = lfm.cosineCoef(finalPerfData);
 
 
@@ -397,10 +454,19 @@ public class LFM {
         //     for(int j = 0; j< finalPerfData[0].length; j++)
         //         System.out.print(finalPerfData[i][j] + " ");
         //     System.out.println();
-        // }        
+        // } 
 
-        // ArrayList<int[]> perf_pairs = lfm.getPairs2(finalPerfData);
+        // ArrayList<int[]> perf_pairs = lfm.getPerfPairs(finalPerfData);
         // int numPairs = perf_pairs.size();
+
+        // ArrayList<String[]> uid_pairs = convertRowPairsToUidPairs(perf_pairs, activeUids);
+        // System.out.println("=============PERFORMANCE PAIRS============");
+        // numPairs = uid_pairs.size();
+        // for (int i = 0; i < numPairs; i++)
+        // {
+        //     String[] cur = uid_pairs.get(i);
+        //     System.out.println(cur[0] + " " + cur[1]);
+        // }
 
         // for(int i = 0; i < numPairs; i++)
         // {
@@ -411,18 +477,31 @@ public class LFM {
         //=====================================================================
         //=========================FORUM DATA=================================
         //=====================================================================
-        double[][] finalForumData = lfm.mergeColumns3(topics, activeForum);
+        
+        double[][] finalForumData = lfm.mergeForumColumns(topics, activeForum);
         finalForumData = lfm.cosineCoef(finalForumData);
 
 
-        ArrayList<int[]> forum_pairs = lfm.getPairs3(finalForumData);
+        ArrayList<int[]> forum_pairs = lfm.getForumPairs(finalForumData);
         int numPairs = forum_pairs.size();
 
-        for(int i = 0; i < numPairs; i++)
+        // for(int i = 0; i < numPairs; i++)
+        // {
+        //     int[] cur = forum_pairs.get(i);
+        //     System.out.println(cur[0] + " " + cur[1]);
+        // }
+
+        //=====================================================================
+
+        ArrayList<String[]> uid_pairs = convertRowPairsToUidPairs(forum_pairs, activeUids);
+        System.out.println("===============FORUM PAIRS===================");
+        numPairs = uid_pairs.size();
+        for (int i = 0; i < numPairs; i++)
         {
-            int[] cur = forum_pairs.get(i);
+            String[] cur = uid_pairs.get(i);
             System.out.println(cur[0] + " " + cur[1]);
         }
 
     }
 }
+
